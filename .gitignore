@@ -1,0 +1,52 @@
+# ============================================================
+# .gitignore – Lab 10 Visualización Interactiva (incluye reglas del Lab 1)
+# ============================================================
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Entornos virtuales
+venv/
+.venv/
+env/
+.env/
+env.bak/
+venv.bak/
+
+# Jupyter (no se usan, pero por si acaso)
+.ipynb_checkpoints/
+*.ipynb
+
+# Datos crudos del dashboard (no versionar; se conserva el README)
+data/raw/*
+!data/raw/README.md
+
+# Lab 1 (time-series-lab/): datos crudos (archivos grandes, no versionar)
+time-series-lab/*.xlsx
+time-series-lab/data/raw/*.xlsx
+time-series-lab/data/raw/*.csv
+time-series-lab/data/raw/*.xls
+
+# Lab 1: figuras generadas (se regeneran corriendo los scripts)
+time-series-lab/reports/figures/*.png
+time-series-lab/reports/figures/*.svg
+time-series-lab/reports/figures/*.pdf
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+*.DS_Store
+Thumbs.db
+
+# Archivos temporales
+*.log
+*.tmp
