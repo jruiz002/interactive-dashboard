@@ -1,0 +1,2521 @@
+serie,modelo,fecha,conjunto,real,prediccion
+Total viajeros,Suavizamiento exponencial,2009-01-01,entrenamiento,149944.0,
+Total viajeros,Suavizamiento exponencial,2009-02-01,entrenamiento,127303.7,
+Total viajeros,Suavizamiento exponencial,2009-03-01,entrenamiento,158795.7,
+Total viajeros,Suavizamiento exponencial,2009-04-01,entrenamiento,172013.5,
+Total viajeros,Suavizamiento exponencial,2009-05-01,entrenamiento,124559.5,
+Total viajeros,Suavizamiento exponencial,2009-06-01,entrenamiento,151442.8,
+Total viajeros,Suavizamiento exponencial,2009-07-01,entrenamiento,137617.0,
+Total viajeros,Suavizamiento exponencial,2009-08-01,entrenamiento,179344.0,
+Total viajeros,Suavizamiento exponencial,2009-09-01,entrenamiento,132791.1,
+Total viajeros,Suavizamiento exponencial,2009-10-01,entrenamiento,153153.6,
+Total viajeros,Suavizamiento exponencial,2009-11-01,entrenamiento,173623.3,
+Total viajeros,Suavizamiento exponencial,2009-12-01,entrenamiento,219594.7,
+Total viajeros,Suavizamiento exponencial,2010-01-01,entrenamiento,162333.3,
+Total viajeros,Suavizamiento exponencial,2010-02-01,entrenamiento,132527.5,
+Total viajeros,Suavizamiento exponencial,2010-03-01,entrenamiento,163351.1,
+Total viajeros,Suavizamiento exponencial,2010-04-01,entrenamiento,170870.9,
+Total viajeros,Suavizamiento exponencial,2010-05-01,entrenamiento,141291.6,
+Total viajeros,Suavizamiento exponencial,2010-06-01,entrenamiento,155468.9,
+Total viajeros,Suavizamiento exponencial,2010-07-01,entrenamiento,199667.8,
+Total viajeros,Suavizamiento exponencial,2010-08-01,entrenamiento,183931.0,
+Total viajeros,Suavizamiento exponencial,2010-09-01,entrenamiento,130760.3,
+Total viajeros,Suavizamiento exponencial,2010-10-01,entrenamiento,157632.1,
+Total viajeros,Suavizamiento exponencial,2010-11-01,entrenamiento,179538.3,
+Total viajeros,Suavizamiento exponencial,2010-12-01,entrenamiento,227411.0,
+Total viajeros,Suavizamiento exponencial,2011-01-01,entrenamiento,169708.6,
+Total viajeros,Suavizamiento exponencial,2011-02-01,entrenamiento,139869.9,
+Total viajeros,Suavizamiento exponencial,2011-03-01,entrenamiento,169957.8,
+Total viajeros,Suavizamiento exponencial,2011-04-01,entrenamiento,191655.8,
+Total viajeros,Suavizamiento exponencial,2011-05-01,entrenamiento,145923.5,
+Total viajeros,Suavizamiento exponencial,2011-06-01,entrenamiento,163014.5,
+Total viajeros,Suavizamiento exponencial,2011-07-01,entrenamiento,200521.0,
+Total viajeros,Suavizamiento exponencial,2011-08-01,entrenamiento,174775.5,
+Total viajeros,Suavizamiento exponencial,2011-09-01,entrenamiento,141183.8,
+Total viajeros,Suavizamiento exponencial,2011-10-01,entrenamiento,152049.1,
+Total viajeros,Suavizamiento exponencial,2011-11-01,entrenamiento,187320.1,
+Total viajeros,Suavizamiento exponencial,2011-12-01,entrenamiento,243735.1,
+Total viajeros,Suavizamiento exponencial,2012-01-01,entrenamiento,177126.0,
+Total viajeros,Suavizamiento exponencial,2012-02-01,entrenamiento,147819.4,
+Total viajeros,Suavizamiento exponencial,2012-03-01,entrenamiento,186237.2,
+Total viajeros,Suavizamiento exponencial,2012-04-01,entrenamiento,182891.2,
+Total viajeros,Suavizamiento exponencial,2012-05-01,entrenamiento,152137.5,
+Total viajeros,Suavizamiento exponencial,2012-06-01,entrenamiento,173240.6,
+Total viajeros,Suavizamiento exponencial,2012-07-01,entrenamiento,199340.4,
+Total viajeros,Suavizamiento exponencial,2012-08-01,entrenamiento,170666.4,
+Total viajeros,Suavizamiento exponencial,2012-09-01,entrenamiento,147847.5,
+Total viajeros,Suavizamiento exponencial,2012-10-01,entrenamiento,167995.4,
+Total viajeros,Suavizamiento exponencial,2012-11-01,entrenamiento,195400.1,
+Total viajeros,Suavizamiento exponencial,2012-12-01,entrenamiento,238839.8,
+Total viajeros,Suavizamiento exponencial,2013-01-01,entrenamiento,170858.7,
+Total viajeros,Suavizamiento exponencial,2013-02-01,entrenamiento,140163.9,
+Total viajeros,Suavizamiento exponencial,2013-03-01,entrenamiento,217092.6,
+Total viajeros,Suavizamiento exponencial,2013-04-01,entrenamiento,179526.0,
+Total viajeros,Suavizamiento exponencial,2013-05-01,entrenamiento,179243.7,
+Total viajeros,Suavizamiento exponencial,2013-06-01,entrenamiento,197165.0,
+Total viajeros,Suavizamiento exponencial,2013-07-01,entrenamiento,211596.0,
+Total viajeros,Suavizamiento exponencial,2013-08-01,entrenamiento,197150.9,
+Total viajeros,Suavizamiento exponencial,2013-09-01,entrenamiento,163867.1,
+Total viajeros,Suavizamiento exponencial,2013-10-01,entrenamiento,167624.5,
+Total viajeros,Suavizamiento exponencial,2013-11-01,entrenamiento,202965.0,
+Total viajeros,Suavizamiento exponencial,2013-12-01,entrenamiento,262449.4,
+Total viajeros,Suavizamiento exponencial,2014-01-01,entrenamiento,219460.3,
+Total viajeros,Suavizamiento exponencial,2014-02-01,entrenamiento,173476.2,
+Total viajeros,Suavizamiento exponencial,2014-03-01,entrenamiento,200137.3,
+Total viajeros,Suavizamiento exponencial,2014-04-01,entrenamiento,229359.1,
+Total viajeros,Suavizamiento exponencial,2014-05-01,entrenamiento,190264.6,
+Total viajeros,Suavizamiento exponencial,2014-06-01,entrenamiento,200093.5,
+Total viajeros,Suavizamiento exponencial,2014-07-01,entrenamiento,237558.6,
+Total viajeros,Suavizamiento exponencial,2014-08-01,entrenamiento,225101.6,
+Total viajeros,Suavizamiento exponencial,2014-09-01,entrenamiento,187684.8,
+Total viajeros,Suavizamiento exponencial,2014-10-01,entrenamiento,223650.9,
+Total viajeros,Suavizamiento exponencial,2014-11-01,entrenamiento,248017.6,
+Total viajeros,Suavizamiento exponencial,2014-12-01,entrenamiento,325372.7,
+Total viajeros,Suavizamiento exponencial,2015-01-01,entrenamiento,244121.0,
+Total viajeros,Suavizamiento exponencial,2015-02-01,entrenamiento,197207.2,
+Total viajeros,Suavizamiento exponencial,2015-03-01,entrenamiento,249587.4,
+Total viajeros,Suavizamiento exponencial,2015-04-01,entrenamiento,247561.5,
+Total viajeros,Suavizamiento exponencial,2015-05-01,entrenamiento,226414.6,
+Total viajeros,Suavizamiento exponencial,2015-06-01,entrenamiento,245382.7,
+Total viajeros,Suavizamiento exponencial,2015-07-01,entrenamiento,253035.2,
+Total viajeros,Suavizamiento exponencial,2015-08-01,entrenamiento,245666.2,
+Total viajeros,Suavizamiento exponencial,2015-09-01,entrenamiento,206700.8,
+Total viajeros,Suavizamiento exponencial,2015-10-01,entrenamiento,227800.3,
+Total viajeros,Suavizamiento exponencial,2015-11-01,entrenamiento,245184.0,
+Total viajeros,Suavizamiento exponencial,2015-12-01,entrenamiento,329225.2,
+Total viajeros,Suavizamiento exponencial,2016-01-01,entrenamiento,262106.6,
+Total viajeros,Suavizamiento exponencial,2016-02-01,entrenamiento,214638.7,
+Total viajeros,Suavizamiento exponencial,2016-03-01,entrenamiento,322030.3,
+Total viajeros,Suavizamiento exponencial,2016-04-01,entrenamiento,211444.9,
+Total viajeros,Suavizamiento exponencial,2016-05-01,entrenamiento,223932.9,
+Total viajeros,Suavizamiento exponencial,2016-06-01,entrenamiento,226287.3,
+Total viajeros,Suavizamiento exponencial,2016-07-01,entrenamiento,269012.2,
+Total viajeros,Suavizamiento exponencial,2016-08-01,entrenamiento,258799.9,
+Total viajeros,Suavizamiento exponencial,2016-09-01,entrenamiento,186819.3,
+Total viajeros,Suavizamiento exponencial,2016-10-01,entrenamiento,249121.3,
+Total viajeros,Suavizamiento exponencial,2016-11-01,entrenamiento,251532.0,
+Total viajeros,Suavizamiento exponencial,2016-12-01,entrenamiento,321301.2,
+Total viajeros,Suavizamiento exponencial,2017-01-01,entrenamiento,259641.6,
+Total viajeros,Suavizamiento exponencial,2017-02-01,entrenamiento,233718.2,
+Total viajeros,Suavizamiento exponencial,2017-03-01,entrenamiento,294444.5,
+Total viajeros,Suavizamiento exponencial,2017-04-01,entrenamiento,377828.7,
+Total viajeros,Suavizamiento exponencial,2017-05-01,entrenamiento,243741.8,
+Total viajeros,Suavizamiento exponencial,2017-06-01,entrenamiento,247853.4,
+Total viajeros,Suavizamiento exponencial,2017-07-01,entrenamiento,291574.3,
+Total viajeros,Suavizamiento exponencial,2017-08-01,entrenamiento,274293.6,
+Total viajeros,Suavizamiento exponencial,2017-09-01,entrenamiento,213696.6,
+Total viajeros,Suavizamiento exponencial,2017-10-01,entrenamiento,239055.7,
+Total viajeros,Suavizamiento exponencial,2017-11-01,entrenamiento,275693.4,
+Total viajeros,Suavizamiento exponencial,2017-12-01,entrenamiento,356109.5,
+Total viajeros,Suavizamiento exponencial,2018-01-01,entrenamiento,303819.2,
+Total viajeros,Suavizamiento exponencial,2018-02-01,entrenamiento,251667.0,
+Total viajeros,Suavizamiento exponencial,2018-03-01,entrenamiento,393020.8,
+Total viajeros,Suavizamiento exponencial,2018-04-01,entrenamiento,308239.9,
+Total viajeros,Suavizamiento exponencial,2018-05-01,entrenamiento,277750.1,
+Total viajeros,Suavizamiento exponencial,2018-06-01,entrenamiento,311280.4,
+Total viajeros,Suavizamiento exponencial,2018-07-01,entrenamiento,337300.6,
+Total viajeros,Suavizamiento exponencial,2018-08-01,entrenamiento,352316.6,
+Total viajeros,Suavizamiento exponencial,2018-09-01,entrenamiento,272777.1,
+Total viajeros,Suavizamiento exponencial,2018-10-01,entrenamiento,282172.2,
+Total viajeros,Suavizamiento exponencial,2018-11-01,entrenamiento,309687.6,
+Total viajeros,Suavizamiento exponencial,2018-12-01,entrenamiento,393729.5,
+Total viajeros,Suavizamiento exponencial,2019-01-01,entrenamiento,357645.7,
+Total viajeros,Suavizamiento exponencial,2019-02-01,entrenamiento,285350.9,
+Total viajeros,Suavizamiento exponencial,2019-03-01,entrenamiento,359758.0,
+Total viajeros,Suavizamiento exponencial,2019-04-01,entrenamiento,388538.5,
+Total viajeros,Suavizamiento exponencial,2019-05-01,entrenamiento,299297.3,
+Total viajeros,Suavizamiento exponencial,2019-06-01,entrenamiento,333161.6,
+Total viajeros,Suavizamiento exponencial,2019-07-01,entrenamiento,365333.7,
+Total viajeros,Suavizamiento exponencial,2019-08-01,entrenamiento,365512.8,
+Total viajeros,Suavizamiento exponencial,2019-09-01,entrenamiento,298250.1,
+Total viajeros,Suavizamiento exponencial,2019-10-01,entrenamiento,294504.0,
+Total viajeros,Suavizamiento exponencial,2019-11-01,entrenamiento,335783.9,
+Total viajeros,Suavizamiento exponencial,2019-12-01,entrenamiento,449114.1,
+Total viajeros,Suavizamiento exponencial,2020-01-01,entrenamiento,388222.6,
+Total viajeros,Suavizamiento exponencial,2020-02-01,entrenamiento,317918.0,
+Total viajeros,Suavizamiento exponencial,2020-03-01,entrenamiento,155415.6,
+Total viajeros,Suavizamiento exponencial,2020-04-01,entrenamiento,10039.0,
+Total viajeros,Suavizamiento exponencial,2020-05-01,entrenamiento,9779.0,
+Total viajeros,Suavizamiento exponencial,2020-06-01,entrenamiento,11817.0,
+Total viajeros,Suavizamiento exponencial,2020-07-01,entrenamiento,13484.0,
+Total viajeros,Suavizamiento exponencial,2020-08-01,entrenamiento,15357.0,
+Total viajeros,Suavizamiento exponencial,2020-09-01,entrenamiento,12572.5,
+Total viajeros,Suavizamiento exponencial,2020-10-01,entrenamiento,16680.8,
+Total viajeros,Suavizamiento exponencial,2020-11-01,entrenamiento,52865.0,
+Total viajeros,Suavizamiento exponencial,2020-12-01,entrenamiento,55620.0,
+Total viajeros,Suavizamiento exponencial,2021-01-01,entrenamiento,89960.0,
+Total viajeros,Suavizamiento exponencial,2021-02-01,entrenamiento,52605.0,
+Total viajeros,Suavizamiento exponencial,2021-03-01,entrenamiento,85017.4,
+Total viajeros,Suavizamiento exponencial,2021-04-01,prueba,59743.2,77408.6
+Total viajeros,Suavizamiento exponencial,2021-05-01,prueba,73873.0,77408.6
+Total viajeros,Suavizamiento exponencial,2021-06-01,prueba,95146.0,77408.6
+Total viajeros,Suavizamiento exponencial,2021-07-01,prueba,97594.7,77408.6
+Total viajeros,Suavizamiento exponencial,2021-08-01,prueba,72327.0,77408.6
+Total viajeros,Suavizamiento exponencial,2021-09-01,prueba,67023.0,77408.6
+Total viajeros,Suavizamiento exponencial,2021-10-01,prueba,83528.0,77408.6
+Total viajeros,Suavizamiento exponencial,2021-11-01,prueba,98578.0,77408.6
+Total viajeros,Suavizamiento exponencial,2021-12-01,prueba,223569.1,77408.6
+Total viajeros,Suavizamiento exponencial,2022-01-01,prueba,134303.0,77408.6
+Total viajeros,Suavizamiento exponencial,2022-02-01,prueba,193903.6,77408.6
+Total viajeros,Suavizamiento exponencial,2022-03-01,prueba,227886.0,77408.6
+Total viajeros,Suavizamiento exponencial,2022-04-01,prueba,292648.0,77408.6
+Total viajeros,Suavizamiento exponencial,2022-05-01,prueba,260013.0,77408.6
+Total viajeros,Suavizamiento exponencial,2022-06-01,prueba,269366.0,77408.6
+Total viajeros,Suavizamiento exponencial,2022-07-01,prueba,306246.0,77408.6
+Total viajeros,Suavizamiento exponencial,2022-08-01,prueba,297602.0,77408.6
+Total viajeros,Suavizamiento exponencial,2022-09-01,prueba,246464.0,77408.6
+Total viajeros,Suavizamiento exponencial,2022-10-01,prueba,281938.0,77408.6
+Total viajeros,Suavizamiento exponencial,2022-11-01,prueba,318693.0,77408.6
+Total viajeros,Suavizamiento exponencial,2022-12-01,prueba,400266.0,77408.6
+Total viajeros,Suavizamiento exponencial,2023-01-01,prueba,258166.2,77408.6
+Total viajeros,Suavizamiento exponencial,2023-02-01,prueba,198751.9,77408.6
+Total viajeros,Suavizamiento exponencial,2023-03-01,prueba,251839.5,77408.6
+Total viajeros,Suavizamiento exponencial,2023-04-01,prueba,283179.3,77408.6
+Total viajeros,Suavizamiento exponencial,2023-05-01,prueba,213191.0,77408.6
+Total viajeros,Suavizamiento exponencial,2023-06-01,prueba,224580.2,77408.6
+Total viajeros,Suavizamiento exponencial,2023-07-01,prueba,257627.0,77408.6
+Total viajeros,Suavizamiento exponencial,2023-08-01,prueba,264514.1,77408.6
+Total viajeros,Suavizamiento exponencial,2023-09-01,prueba,218486.5,77408.6
+Total viajeros,Suavizamiento exponencial,2023-10-01,prueba,164499.4,77408.6
+Total viajeros,Suavizamiento exponencial,2023-11-01,prueba,255894.3,77408.6
+Total viajeros,Suavizamiento exponencial,2023-12-01,prueba,327097.6,77408.6
+Total viajeros,Suavizamiento exponencial,2024-01-01,prueba,292731.9,77408.6
+Total viajeros,Suavizamiento exponencial,2024-02-01,prueba,265990.7,77408.6
+Total viajeros,Suavizamiento exponencial,2024-03-01,prueba,322310.4,77408.6
+Total viajeros,Suavizamiento exponencial,2024-04-01,prueba,240988.8,77408.6
+Total viajeros,Suavizamiento exponencial,2024-05-01,prueba,238808.0,77408.6
+Total viajeros,Suavizamiento exponencial,2024-06-01,prueba,234781.2,77408.6
+Total viajeros,Suavizamiento exponencial,2024-07-01,prueba,266975.0,77408.6
+Total viajeros,Suavizamiento exponencial,2024-08-01,prueba,282101.8,77408.6
+Total viajeros,Suavizamiento exponencial,2024-09-01,prueba,215658.8,77408.6
+Total viajeros,Suavizamiento exponencial,2024-10-01,prueba,249665.7,77408.6
+Total viajeros,Suavizamiento exponencial,2024-11-01,prueba,302674.1,77408.6
+Total viajeros,Suavizamiento exponencial,2024-12-01,prueba,361749.7,77408.6
+Total viajeros,Suavizamiento exponencial,2025-01-01,prueba,289543.6,77408.6
+Total viajeros,Suavizamiento exponencial,2025-02-01,prueba,254428.9,77408.6
+Total viajeros,Suavizamiento exponencial,2025-03-01,prueba,278538.3,77408.6
+Total viajeros,Suavizamiento exponencial,2025-04-01,prueba,300287.7,77408.6
+Total viajeros,Suavizamiento exponencial,2025-05-01,prueba,247981.9,77408.6
+Total viajeros,Suavizamiento exponencial,2025-06-01,prueba,254190.1,77408.6
+Total viajeros,Suavizamiento exponencial,2025-07-01,prueba,283388.7,77408.6
+Total viajeros,Suavizamiento exponencial,2025-08-01,prueba,293780.5,77408.6
+Total viajeros,Suavizamiento exponencial,2025-09-01,prueba,218069.5,77408.6
+Total viajeros,Suavizamiento exponencial,2025-10-01,prueba,255920.9,77408.6
+Total viajeros,Suavizamiento exponencial,2025-11-01,prueba,310585.5,77408.6
+Total viajeros,Suavizamiento exponencial,2025-12-01,prueba,365573.0,77408.6
+Total viajeros,Suavizamiento exponencial,2026-01-01,prueba,300664.1,77408.6
+Total viajeros,Suavizamiento exponencial,2026-02-01,prueba,236844.1,77408.6
+Total viajeros,Suavizamiento exponencial,2026-03-01,prueba,291160.4,77408.6
+Total viajeros,Suavizamiento exponencial,2026-04-01,prueba,260951.0,77408.6
+Total viajeros,Suavizamiento exponencial,2026-05-01,prueba,241312.3,77408.6
+Total viajeros,Suavizamiento exponencial,2026-06-01,prueba,245687.6,77408.6
+Total viajeros,"ARIMA(1,1,1)",2009-01-01,entrenamiento,149944.0,
+Total viajeros,"ARIMA(1,1,1)",2009-02-01,entrenamiento,127303.7,
+Total viajeros,"ARIMA(1,1,1)",2009-03-01,entrenamiento,158795.7,
+Total viajeros,"ARIMA(1,1,1)",2009-04-01,entrenamiento,172013.5,
+Total viajeros,"ARIMA(1,1,1)",2009-05-01,entrenamiento,124559.5,
+Total viajeros,"ARIMA(1,1,1)",2009-06-01,entrenamiento,151442.8,
+Total viajeros,"ARIMA(1,1,1)",2009-07-01,entrenamiento,137617.0,
+Total viajeros,"ARIMA(1,1,1)",2009-08-01,entrenamiento,179344.0,
+Total viajeros,"ARIMA(1,1,1)",2009-09-01,entrenamiento,132791.1,
+Total viajeros,"ARIMA(1,1,1)",2009-10-01,entrenamiento,153153.6,
+Total viajeros,"ARIMA(1,1,1)",2009-11-01,entrenamiento,173623.3,
+Total viajeros,"ARIMA(1,1,1)",2009-12-01,entrenamiento,219594.7,
+Total viajeros,"ARIMA(1,1,1)",2010-01-01,entrenamiento,162333.3,
+Total viajeros,"ARIMA(1,1,1)",2010-02-01,entrenamiento,132527.5,
+Total viajeros,"ARIMA(1,1,1)",2010-03-01,entrenamiento,163351.1,
+Total viajeros,"ARIMA(1,1,1)",2010-04-01,entrenamiento,170870.9,
+Total viajeros,"ARIMA(1,1,1)",2010-05-01,entrenamiento,141291.6,
+Total viajeros,"ARIMA(1,1,1)",2010-06-01,entrenamiento,155468.9,
+Total viajeros,"ARIMA(1,1,1)",2010-07-01,entrenamiento,199667.8,
+Total viajeros,"ARIMA(1,1,1)",2010-08-01,entrenamiento,183931.0,
+Total viajeros,"ARIMA(1,1,1)",2010-09-01,entrenamiento,130760.3,
+Total viajeros,"ARIMA(1,1,1)",2010-10-01,entrenamiento,157632.1,
+Total viajeros,"ARIMA(1,1,1)",2010-11-01,entrenamiento,179538.3,
+Total viajeros,"ARIMA(1,1,1)",2010-12-01,entrenamiento,227411.0,
+Total viajeros,"ARIMA(1,1,1)",2011-01-01,entrenamiento,169708.6,
+Total viajeros,"ARIMA(1,1,1)",2011-02-01,entrenamiento,139869.9,
+Total viajeros,"ARIMA(1,1,1)",2011-03-01,entrenamiento,169957.8,
+Total viajeros,"ARIMA(1,1,1)",2011-04-01,entrenamiento,191655.8,
+Total viajeros,"ARIMA(1,1,1)",2011-05-01,entrenamiento,145923.5,
+Total viajeros,"ARIMA(1,1,1)",2011-06-01,entrenamiento,163014.5,
+Total viajeros,"ARIMA(1,1,1)",2011-07-01,entrenamiento,200521.0,
+Total viajeros,"ARIMA(1,1,1)",2011-08-01,entrenamiento,174775.5,
+Total viajeros,"ARIMA(1,1,1)",2011-09-01,entrenamiento,141183.8,
+Total viajeros,"ARIMA(1,1,1)",2011-10-01,entrenamiento,152049.1,
+Total viajeros,"ARIMA(1,1,1)",2011-11-01,entrenamiento,187320.1,
+Total viajeros,"ARIMA(1,1,1)",2011-12-01,entrenamiento,243735.1,
+Total viajeros,"ARIMA(1,1,1)",2012-01-01,entrenamiento,177126.0,
+Total viajeros,"ARIMA(1,1,1)",2012-02-01,entrenamiento,147819.4,
+Total viajeros,"ARIMA(1,1,1)",2012-03-01,entrenamiento,186237.2,
+Total viajeros,"ARIMA(1,1,1)",2012-04-01,entrenamiento,182891.2,
+Total viajeros,"ARIMA(1,1,1)",2012-05-01,entrenamiento,152137.5,
+Total viajeros,"ARIMA(1,1,1)",2012-06-01,entrenamiento,173240.6,
+Total viajeros,"ARIMA(1,1,1)",2012-07-01,entrenamiento,199340.4,
+Total viajeros,"ARIMA(1,1,1)",2012-08-01,entrenamiento,170666.4,
+Total viajeros,"ARIMA(1,1,1)",2012-09-01,entrenamiento,147847.5,
+Total viajeros,"ARIMA(1,1,1)",2012-10-01,entrenamiento,167995.4,
+Total viajeros,"ARIMA(1,1,1)",2012-11-01,entrenamiento,195400.1,
+Total viajeros,"ARIMA(1,1,1)",2012-12-01,entrenamiento,238839.8,
+Total viajeros,"ARIMA(1,1,1)",2013-01-01,entrenamiento,170858.7,
+Total viajeros,"ARIMA(1,1,1)",2013-02-01,entrenamiento,140163.9,
+Total viajeros,"ARIMA(1,1,1)",2013-03-01,entrenamiento,217092.6,
+Total viajeros,"ARIMA(1,1,1)",2013-04-01,entrenamiento,179526.0,
+Total viajeros,"ARIMA(1,1,1)",2013-05-01,entrenamiento,179243.7,
+Total viajeros,"ARIMA(1,1,1)",2013-06-01,entrenamiento,197165.0,
+Total viajeros,"ARIMA(1,1,1)",2013-07-01,entrenamiento,211596.0,
+Total viajeros,"ARIMA(1,1,1)",2013-08-01,entrenamiento,197150.9,
+Total viajeros,"ARIMA(1,1,1)",2013-09-01,entrenamiento,163867.1,
+Total viajeros,"ARIMA(1,1,1)",2013-10-01,entrenamiento,167624.5,
+Total viajeros,"ARIMA(1,1,1)",2013-11-01,entrenamiento,202965.0,
+Total viajeros,"ARIMA(1,1,1)",2013-12-01,entrenamiento,262449.4,
+Total viajeros,"ARIMA(1,1,1)",2014-01-01,entrenamiento,219460.3,
+Total viajeros,"ARIMA(1,1,1)",2014-02-01,entrenamiento,173476.2,
+Total viajeros,"ARIMA(1,1,1)",2014-03-01,entrenamiento,200137.3,
+Total viajeros,"ARIMA(1,1,1)",2014-04-01,entrenamiento,229359.1,
+Total viajeros,"ARIMA(1,1,1)",2014-05-01,entrenamiento,190264.6,
+Total viajeros,"ARIMA(1,1,1)",2014-06-01,entrenamiento,200093.5,
+Total viajeros,"ARIMA(1,1,1)",2014-07-01,entrenamiento,237558.6,
+Total viajeros,"ARIMA(1,1,1)",2014-08-01,entrenamiento,225101.6,
+Total viajeros,"ARIMA(1,1,1)",2014-09-01,entrenamiento,187684.8,
+Total viajeros,"ARIMA(1,1,1)",2014-10-01,entrenamiento,223650.9,
+Total viajeros,"ARIMA(1,1,1)",2014-11-01,entrenamiento,248017.6,
+Total viajeros,"ARIMA(1,1,1)",2014-12-01,entrenamiento,325372.7,
+Total viajeros,"ARIMA(1,1,1)",2015-01-01,entrenamiento,244121.0,
+Total viajeros,"ARIMA(1,1,1)",2015-02-01,entrenamiento,197207.2,
+Total viajeros,"ARIMA(1,1,1)",2015-03-01,entrenamiento,249587.4,
+Total viajeros,"ARIMA(1,1,1)",2015-04-01,entrenamiento,247561.5,
+Total viajeros,"ARIMA(1,1,1)",2015-05-01,entrenamiento,226414.6,
+Total viajeros,"ARIMA(1,1,1)",2015-06-01,entrenamiento,245382.7,
+Total viajeros,"ARIMA(1,1,1)",2015-07-01,entrenamiento,253035.2,
+Total viajeros,"ARIMA(1,1,1)",2015-08-01,entrenamiento,245666.2,
+Total viajeros,"ARIMA(1,1,1)",2015-09-01,entrenamiento,206700.8,
+Total viajeros,"ARIMA(1,1,1)",2015-10-01,entrenamiento,227800.3,
+Total viajeros,"ARIMA(1,1,1)",2015-11-01,entrenamiento,245184.0,
+Total viajeros,"ARIMA(1,1,1)",2015-12-01,entrenamiento,329225.2,
+Total viajeros,"ARIMA(1,1,1)",2016-01-01,entrenamiento,262106.6,
+Total viajeros,"ARIMA(1,1,1)",2016-02-01,entrenamiento,214638.7,
+Total viajeros,"ARIMA(1,1,1)",2016-03-01,entrenamiento,322030.3,
+Total viajeros,"ARIMA(1,1,1)",2016-04-01,entrenamiento,211444.9,
+Total viajeros,"ARIMA(1,1,1)",2016-05-01,entrenamiento,223932.9,
+Total viajeros,"ARIMA(1,1,1)",2016-06-01,entrenamiento,226287.3,
+Total viajeros,"ARIMA(1,1,1)",2016-07-01,entrenamiento,269012.2,
+Total viajeros,"ARIMA(1,1,1)",2016-08-01,entrenamiento,258799.9,
+Total viajeros,"ARIMA(1,1,1)",2016-09-01,entrenamiento,186819.3,
+Total viajeros,"ARIMA(1,1,1)",2016-10-01,entrenamiento,249121.3,
+Total viajeros,"ARIMA(1,1,1)",2016-11-01,entrenamiento,251532.0,
+Total viajeros,"ARIMA(1,1,1)",2016-12-01,entrenamiento,321301.2,
+Total viajeros,"ARIMA(1,1,1)",2017-01-01,entrenamiento,259641.6,
+Total viajeros,"ARIMA(1,1,1)",2017-02-01,entrenamiento,233718.2,
+Total viajeros,"ARIMA(1,1,1)",2017-03-01,entrenamiento,294444.5,
+Total viajeros,"ARIMA(1,1,1)",2017-04-01,entrenamiento,377828.7,
+Total viajeros,"ARIMA(1,1,1)",2017-05-01,entrenamiento,243741.8,
+Total viajeros,"ARIMA(1,1,1)",2017-06-01,entrenamiento,247853.4,
+Total viajeros,"ARIMA(1,1,1)",2017-07-01,entrenamiento,291574.3,
+Total viajeros,"ARIMA(1,1,1)",2017-08-01,entrenamiento,274293.6,
+Total viajeros,"ARIMA(1,1,1)",2017-09-01,entrenamiento,213696.6,
+Total viajeros,"ARIMA(1,1,1)",2017-10-01,entrenamiento,239055.7,
+Total viajeros,"ARIMA(1,1,1)",2017-11-01,entrenamiento,275693.4,
+Total viajeros,"ARIMA(1,1,1)",2017-12-01,entrenamiento,356109.5,
+Total viajeros,"ARIMA(1,1,1)",2018-01-01,entrenamiento,303819.2,
+Total viajeros,"ARIMA(1,1,1)",2018-02-01,entrenamiento,251667.0,
+Total viajeros,"ARIMA(1,1,1)",2018-03-01,entrenamiento,393020.8,
+Total viajeros,"ARIMA(1,1,1)",2018-04-01,entrenamiento,308239.9,
+Total viajeros,"ARIMA(1,1,1)",2018-05-01,entrenamiento,277750.1,
+Total viajeros,"ARIMA(1,1,1)",2018-06-01,entrenamiento,311280.4,
+Total viajeros,"ARIMA(1,1,1)",2018-07-01,entrenamiento,337300.6,
+Total viajeros,"ARIMA(1,1,1)",2018-08-01,entrenamiento,352316.6,
+Total viajeros,"ARIMA(1,1,1)",2018-09-01,entrenamiento,272777.1,
+Total viajeros,"ARIMA(1,1,1)",2018-10-01,entrenamiento,282172.2,
+Total viajeros,"ARIMA(1,1,1)",2018-11-01,entrenamiento,309687.6,
+Total viajeros,"ARIMA(1,1,1)",2018-12-01,entrenamiento,393729.5,
+Total viajeros,"ARIMA(1,1,1)",2019-01-01,entrenamiento,357645.7,
+Total viajeros,"ARIMA(1,1,1)",2019-02-01,entrenamiento,285350.9,
+Total viajeros,"ARIMA(1,1,1)",2019-03-01,entrenamiento,359758.0,
+Total viajeros,"ARIMA(1,1,1)",2019-04-01,entrenamiento,388538.5,
+Total viajeros,"ARIMA(1,1,1)",2019-05-01,entrenamiento,299297.3,
+Total viajeros,"ARIMA(1,1,1)",2019-06-01,entrenamiento,333161.6,
+Total viajeros,"ARIMA(1,1,1)",2019-07-01,entrenamiento,365333.7,
+Total viajeros,"ARIMA(1,1,1)",2019-08-01,entrenamiento,365512.8,
+Total viajeros,"ARIMA(1,1,1)",2019-09-01,entrenamiento,298250.1,
+Total viajeros,"ARIMA(1,1,1)",2019-10-01,entrenamiento,294504.0,
+Total viajeros,"ARIMA(1,1,1)",2019-11-01,entrenamiento,335783.9,
+Total viajeros,"ARIMA(1,1,1)",2019-12-01,entrenamiento,449114.1,
+Total viajeros,"ARIMA(1,1,1)",2020-01-01,entrenamiento,388222.6,
+Total viajeros,"ARIMA(1,1,1)",2020-02-01,entrenamiento,317918.0,
+Total viajeros,"ARIMA(1,1,1)",2020-03-01,entrenamiento,155415.6,
+Total viajeros,"ARIMA(1,1,1)",2020-04-01,entrenamiento,10039.0,
+Total viajeros,"ARIMA(1,1,1)",2020-05-01,entrenamiento,9779.0,
+Total viajeros,"ARIMA(1,1,1)",2020-06-01,entrenamiento,11817.0,
+Total viajeros,"ARIMA(1,1,1)",2020-07-01,entrenamiento,13484.0,
+Total viajeros,"ARIMA(1,1,1)",2020-08-01,entrenamiento,15357.0,
+Total viajeros,"ARIMA(1,1,1)",2020-09-01,entrenamiento,12572.5,
+Total viajeros,"ARIMA(1,1,1)",2020-10-01,entrenamiento,16680.8,
+Total viajeros,"ARIMA(1,1,1)",2020-11-01,entrenamiento,52865.0,
+Total viajeros,"ARIMA(1,1,1)",2020-12-01,entrenamiento,55620.0,
+Total viajeros,"ARIMA(1,1,1)",2021-01-01,entrenamiento,89960.0,
+Total viajeros,"ARIMA(1,1,1)",2021-02-01,entrenamiento,52605.0,
+Total viajeros,"ARIMA(1,1,1)",2021-03-01,entrenamiento,85017.4,
+Total viajeros,"ARIMA(1,1,1)",2021-04-01,prueba,59743.2,77584.8
+Total viajeros,"ARIMA(1,1,1)",2021-05-01,prueba,73873.0,74302.9
+Total viajeros,"ARIMA(1,1,1)",2021-06-01,prueba,95146.0,72853.7
+Total viajeros,"ARIMA(1,1,1)",2021-07-01,prueba,97594.7,72213.8
+Total viajeros,"ARIMA(1,1,1)",2021-08-01,prueba,72327.0,71931.2
+Total viajeros,"ARIMA(1,1,1)",2021-09-01,prueba,67023.0,71806.4
+Total viajeros,"ARIMA(1,1,1)",2021-10-01,prueba,83528.0,71751.3
+Total viajeros,"ARIMA(1,1,1)",2021-11-01,prueba,98578.0,71727.0
+Total viajeros,"ARIMA(1,1,1)",2021-12-01,prueba,223569.1,71716.3
+Total viajeros,"ARIMA(1,1,1)",2022-01-01,prueba,134303.0,71711.5
+Total viajeros,"ARIMA(1,1,1)",2022-02-01,prueba,193903.6,71709.4
+Total viajeros,"ARIMA(1,1,1)",2022-03-01,prueba,227886.0,71708.5
+Total viajeros,"ARIMA(1,1,1)",2022-04-01,prueba,292648.0,71708.1
+Total viajeros,"ARIMA(1,1,1)",2022-05-01,prueba,260013.0,71707.9
+Total viajeros,"ARIMA(1,1,1)",2022-06-01,prueba,269366.0,71707.8
+Total viajeros,"ARIMA(1,1,1)",2022-07-01,prueba,306246.0,71707.8
+Total viajeros,"ARIMA(1,1,1)",2022-08-01,prueba,297602.0,71707.8
+Total viajeros,"ARIMA(1,1,1)",2022-09-01,prueba,246464.0,71707.8
+Total viajeros,"ARIMA(1,1,1)",2022-10-01,prueba,281938.0,71707.8
+Total viajeros,"ARIMA(1,1,1)",2022-11-01,prueba,318693.0,71707.8
+Total viajeros,"ARIMA(1,1,1)",2022-12-01,prueba,400266.0,71707.8
+Total viajeros,"ARIMA(1,1,1)",2023-01-01,prueba,258166.2,71707.8
+Total viajeros,"ARIMA(1,1,1)",2023-02-01,prueba,198751.9,71707.8
+Total viajeros,"ARIMA(1,1,1)",2023-03-01,prueba,251839.5,71707.8
+Total viajeros,"ARIMA(1,1,1)",2023-04-01,prueba,283179.3,71707.8
+Total viajeros,"ARIMA(1,1,1)",2023-05-01,prueba,213191.0,71707.8
+Total viajeros,"ARIMA(1,1,1)",2023-06-01,prueba,224580.2,71707.8
+Total viajeros,"ARIMA(1,1,1)",2023-07-01,prueba,257627.0,71707.8
+Total viajeros,"ARIMA(1,1,1)",2023-08-01,prueba,264514.1,71707.8
+Total viajeros,"ARIMA(1,1,1)",2023-09-01,prueba,218486.5,71707.8
+Total viajeros,"ARIMA(1,1,1)",2023-10-01,prueba,164499.4,71707.8
+Total viajeros,"ARIMA(1,1,1)",2023-11-01,prueba,255894.3,71707.8
+Total viajeros,"ARIMA(1,1,1)",2023-12-01,prueba,327097.6,71707.8
+Total viajeros,"ARIMA(1,1,1)",2024-01-01,prueba,292731.9,71707.8
+Total viajeros,"ARIMA(1,1,1)",2024-02-01,prueba,265990.7,71707.8
+Total viajeros,"ARIMA(1,1,1)",2024-03-01,prueba,322310.4,71707.8
+Total viajeros,"ARIMA(1,1,1)",2024-04-01,prueba,240988.8,71707.8
+Total viajeros,"ARIMA(1,1,1)",2024-05-01,prueba,238808.0,71707.8
+Total viajeros,"ARIMA(1,1,1)",2024-06-01,prueba,234781.2,71707.8
+Total viajeros,"ARIMA(1,1,1)",2024-07-01,prueba,266975.0,71707.8
+Total viajeros,"ARIMA(1,1,1)",2024-08-01,prueba,282101.8,71707.8
+Total viajeros,"ARIMA(1,1,1)",2024-09-01,prueba,215658.8,71707.8
+Total viajeros,"ARIMA(1,1,1)",2024-10-01,prueba,249665.7,71707.8
+Total viajeros,"ARIMA(1,1,1)",2024-11-01,prueba,302674.1,71707.8
+Total viajeros,"ARIMA(1,1,1)",2024-12-01,prueba,361749.7,71707.8
+Total viajeros,"ARIMA(1,1,1)",2025-01-01,prueba,289543.6,71707.8
+Total viajeros,"ARIMA(1,1,1)",2025-02-01,prueba,254428.9,71707.8
+Total viajeros,"ARIMA(1,1,1)",2025-03-01,prueba,278538.3,71707.8
+Total viajeros,"ARIMA(1,1,1)",2025-04-01,prueba,300287.7,71707.8
+Total viajeros,"ARIMA(1,1,1)",2025-05-01,prueba,247981.9,71707.8
+Total viajeros,"ARIMA(1,1,1)",2025-06-01,prueba,254190.1,71707.8
+Total viajeros,"ARIMA(1,1,1)",2025-07-01,prueba,283388.7,71707.8
+Total viajeros,"ARIMA(1,1,1)",2025-08-01,prueba,293780.5,71707.8
+Total viajeros,"ARIMA(1,1,1)",2025-09-01,prueba,218069.5,71707.8
+Total viajeros,"ARIMA(1,1,1)",2025-10-01,prueba,255920.9,71707.8
+Total viajeros,"ARIMA(1,1,1)",2025-11-01,prueba,310585.5,71707.8
+Total viajeros,"ARIMA(1,1,1)",2025-12-01,prueba,365573.0,71707.8
+Total viajeros,"ARIMA(1,1,1)",2026-01-01,prueba,300664.1,71707.8
+Total viajeros,"ARIMA(1,1,1)",2026-02-01,prueba,236844.1,71707.8
+Total viajeros,"ARIMA(1,1,1)",2026-03-01,prueba,291160.4,71707.8
+Total viajeros,"ARIMA(1,1,1)",2026-04-01,prueba,260951.0,71707.8
+Total viajeros,"ARIMA(1,1,1)",2026-05-01,prueba,241312.3,71707.8
+Total viajeros,"ARIMA(1,1,1)",2026-06-01,prueba,245687.6,71707.8
+Total viajeros,Holt-Winters multiplicativo,2009-01-01,entrenamiento,149944.0,
+Total viajeros,Holt-Winters multiplicativo,2009-02-01,entrenamiento,127303.7,
+Total viajeros,Holt-Winters multiplicativo,2009-03-01,entrenamiento,158795.7,
+Total viajeros,Holt-Winters multiplicativo,2009-04-01,entrenamiento,172013.5,
+Total viajeros,Holt-Winters multiplicativo,2009-05-01,entrenamiento,124559.5,
+Total viajeros,Holt-Winters multiplicativo,2009-06-01,entrenamiento,151442.8,
+Total viajeros,Holt-Winters multiplicativo,2009-07-01,entrenamiento,137617.0,
+Total viajeros,Holt-Winters multiplicativo,2009-08-01,entrenamiento,179344.0,
+Total viajeros,Holt-Winters multiplicativo,2009-09-01,entrenamiento,132791.1,
+Total viajeros,Holt-Winters multiplicativo,2009-10-01,entrenamiento,153153.6,
+Total viajeros,Holt-Winters multiplicativo,2009-11-01,entrenamiento,173623.3,
+Total viajeros,Holt-Winters multiplicativo,2009-12-01,entrenamiento,219594.7,
+Total viajeros,Holt-Winters multiplicativo,2010-01-01,entrenamiento,162333.3,
+Total viajeros,Holt-Winters multiplicativo,2010-02-01,entrenamiento,132527.5,
+Total viajeros,Holt-Winters multiplicativo,2010-03-01,entrenamiento,163351.1,
+Total viajeros,Holt-Winters multiplicativo,2010-04-01,entrenamiento,170870.9,
+Total viajeros,Holt-Winters multiplicativo,2010-05-01,entrenamiento,141291.6,
+Total viajeros,Holt-Winters multiplicativo,2010-06-01,entrenamiento,155468.9,
+Total viajeros,Holt-Winters multiplicativo,2010-07-01,entrenamiento,199667.8,
+Total viajeros,Holt-Winters multiplicativo,2010-08-01,entrenamiento,183931.0,
+Total viajeros,Holt-Winters multiplicativo,2010-09-01,entrenamiento,130760.3,
+Total viajeros,Holt-Winters multiplicativo,2010-10-01,entrenamiento,157632.1,
+Total viajeros,Holt-Winters multiplicativo,2010-11-01,entrenamiento,179538.3,
+Total viajeros,Holt-Winters multiplicativo,2010-12-01,entrenamiento,227411.0,
+Total viajeros,Holt-Winters multiplicativo,2011-01-01,entrenamiento,169708.6,
+Total viajeros,Holt-Winters multiplicativo,2011-02-01,entrenamiento,139869.9,
+Total viajeros,Holt-Winters multiplicativo,2011-03-01,entrenamiento,169957.8,
+Total viajeros,Holt-Winters multiplicativo,2011-04-01,entrenamiento,191655.8,
+Total viajeros,Holt-Winters multiplicativo,2011-05-01,entrenamiento,145923.5,
+Total viajeros,Holt-Winters multiplicativo,2011-06-01,entrenamiento,163014.5,
+Total viajeros,Holt-Winters multiplicativo,2011-07-01,entrenamiento,200521.0,
+Total viajeros,Holt-Winters multiplicativo,2011-08-01,entrenamiento,174775.5,
+Total viajeros,Holt-Winters multiplicativo,2011-09-01,entrenamiento,141183.8,
+Total viajeros,Holt-Winters multiplicativo,2011-10-01,entrenamiento,152049.1,
+Total viajeros,Holt-Winters multiplicativo,2011-11-01,entrenamiento,187320.1,
+Total viajeros,Holt-Winters multiplicativo,2011-12-01,entrenamiento,243735.1,
+Total viajeros,Holt-Winters multiplicativo,2012-01-01,entrenamiento,177126.0,
+Total viajeros,Holt-Winters multiplicativo,2012-02-01,entrenamiento,147819.4,
+Total viajeros,Holt-Winters multiplicativo,2012-03-01,entrenamiento,186237.2,
+Total viajeros,Holt-Winters multiplicativo,2012-04-01,entrenamiento,182891.2,
+Total viajeros,Holt-Winters multiplicativo,2012-05-01,entrenamiento,152137.5,
+Total viajeros,Holt-Winters multiplicativo,2012-06-01,entrenamiento,173240.6,
+Total viajeros,Holt-Winters multiplicativo,2012-07-01,entrenamiento,199340.4,
+Total viajeros,Holt-Winters multiplicativo,2012-08-01,entrenamiento,170666.4,
+Total viajeros,Holt-Winters multiplicativo,2012-09-01,entrenamiento,147847.5,
+Total viajeros,Holt-Winters multiplicativo,2012-10-01,entrenamiento,167995.4,
+Total viajeros,Holt-Winters multiplicativo,2012-11-01,entrenamiento,195400.1,
+Total viajeros,Holt-Winters multiplicativo,2012-12-01,entrenamiento,238839.8,
+Total viajeros,Holt-Winters multiplicativo,2013-01-01,entrenamiento,170858.7,
+Total viajeros,Holt-Winters multiplicativo,2013-02-01,entrenamiento,140163.9,
+Total viajeros,Holt-Winters multiplicativo,2013-03-01,entrenamiento,217092.6,
+Total viajeros,Holt-Winters multiplicativo,2013-04-01,entrenamiento,179526.0,
+Total viajeros,Holt-Winters multiplicativo,2013-05-01,entrenamiento,179243.7,
+Total viajeros,Holt-Winters multiplicativo,2013-06-01,entrenamiento,197165.0,
+Total viajeros,Holt-Winters multiplicativo,2013-07-01,entrenamiento,211596.0,
+Total viajeros,Holt-Winters multiplicativo,2013-08-01,entrenamiento,197150.9,
+Total viajeros,Holt-Winters multiplicativo,2013-09-01,entrenamiento,163867.1,
+Total viajeros,Holt-Winters multiplicativo,2013-10-01,entrenamiento,167624.5,
+Total viajeros,Holt-Winters multiplicativo,2013-11-01,entrenamiento,202965.0,
+Total viajeros,Holt-Winters multiplicativo,2013-12-01,entrenamiento,262449.4,
+Total viajeros,Holt-Winters multiplicativo,2014-01-01,entrenamiento,219460.3,
+Total viajeros,Holt-Winters multiplicativo,2014-02-01,entrenamiento,173476.2,
+Total viajeros,Holt-Winters multiplicativo,2014-03-01,entrenamiento,200137.3,
+Total viajeros,Holt-Winters multiplicativo,2014-04-01,entrenamiento,229359.1,
+Total viajeros,Holt-Winters multiplicativo,2014-05-01,entrenamiento,190264.6,
+Total viajeros,Holt-Winters multiplicativo,2014-06-01,entrenamiento,200093.5,
+Total viajeros,Holt-Winters multiplicativo,2014-07-01,entrenamiento,237558.6,
+Total viajeros,Holt-Winters multiplicativo,2014-08-01,entrenamiento,225101.6,
+Total viajeros,Holt-Winters multiplicativo,2014-09-01,entrenamiento,187684.8,
+Total viajeros,Holt-Winters multiplicativo,2014-10-01,entrenamiento,223650.9,
+Total viajeros,Holt-Winters multiplicativo,2014-11-01,entrenamiento,248017.6,
+Total viajeros,Holt-Winters multiplicativo,2014-12-01,entrenamiento,325372.7,
+Total viajeros,Holt-Winters multiplicativo,2015-01-01,entrenamiento,244121.0,
+Total viajeros,Holt-Winters multiplicativo,2015-02-01,entrenamiento,197207.2,
+Total viajeros,Holt-Winters multiplicativo,2015-03-01,entrenamiento,249587.4,
+Total viajeros,Holt-Winters multiplicativo,2015-04-01,entrenamiento,247561.5,
+Total viajeros,Holt-Winters multiplicativo,2015-05-01,entrenamiento,226414.6,
+Total viajeros,Holt-Winters multiplicativo,2015-06-01,entrenamiento,245382.7,
+Total viajeros,Holt-Winters multiplicativo,2015-07-01,entrenamiento,253035.2,
+Total viajeros,Holt-Winters multiplicativo,2015-08-01,entrenamiento,245666.2,
+Total viajeros,Holt-Winters multiplicativo,2015-09-01,entrenamiento,206700.8,
+Total viajeros,Holt-Winters multiplicativo,2015-10-01,entrenamiento,227800.3,
+Total viajeros,Holt-Winters multiplicativo,2015-11-01,entrenamiento,245184.0,
+Total viajeros,Holt-Winters multiplicativo,2015-12-01,entrenamiento,329225.2,
+Total viajeros,Holt-Winters multiplicativo,2016-01-01,entrenamiento,262106.6,
+Total viajeros,Holt-Winters multiplicativo,2016-02-01,entrenamiento,214638.7,
+Total viajeros,Holt-Winters multiplicativo,2016-03-01,entrenamiento,322030.3,
+Total viajeros,Holt-Winters multiplicativo,2016-04-01,entrenamiento,211444.9,
+Total viajeros,Holt-Winters multiplicativo,2016-05-01,entrenamiento,223932.9,
+Total viajeros,Holt-Winters multiplicativo,2016-06-01,entrenamiento,226287.3,
+Total viajeros,Holt-Winters multiplicativo,2016-07-01,entrenamiento,269012.2,
+Total viajeros,Holt-Winters multiplicativo,2016-08-01,entrenamiento,258799.9,
+Total viajeros,Holt-Winters multiplicativo,2016-09-01,entrenamiento,186819.3,
+Total viajeros,Holt-Winters multiplicativo,2016-10-01,entrenamiento,249121.3,
+Total viajeros,Holt-Winters multiplicativo,2016-11-01,entrenamiento,251532.0,
+Total viajeros,Holt-Winters multiplicativo,2016-12-01,entrenamiento,321301.2,
+Total viajeros,Holt-Winters multiplicativo,2017-01-01,entrenamiento,259641.6,
+Total viajeros,Holt-Winters multiplicativo,2017-02-01,entrenamiento,233718.2,
+Total viajeros,Holt-Winters multiplicativo,2017-03-01,entrenamiento,294444.5,
+Total viajeros,Holt-Winters multiplicativo,2017-04-01,entrenamiento,377828.7,
+Total viajeros,Holt-Winters multiplicativo,2017-05-01,entrenamiento,243741.8,
+Total viajeros,Holt-Winters multiplicativo,2017-06-01,entrenamiento,247853.4,
+Total viajeros,Holt-Winters multiplicativo,2017-07-01,entrenamiento,291574.3,
+Total viajeros,Holt-Winters multiplicativo,2017-08-01,entrenamiento,274293.6,
+Total viajeros,Holt-Winters multiplicativo,2017-09-01,entrenamiento,213696.6,
+Total viajeros,Holt-Winters multiplicativo,2017-10-01,entrenamiento,239055.7,
+Total viajeros,Holt-Winters multiplicativo,2017-11-01,entrenamiento,275693.4,
+Total viajeros,Holt-Winters multiplicativo,2017-12-01,entrenamiento,356109.5,
+Total viajeros,Holt-Winters multiplicativo,2018-01-01,entrenamiento,303819.2,
+Total viajeros,Holt-Winters multiplicativo,2018-02-01,entrenamiento,251667.0,
+Total viajeros,Holt-Winters multiplicativo,2018-03-01,entrenamiento,393020.8,
+Total viajeros,Holt-Winters multiplicativo,2018-04-01,entrenamiento,308239.9,
+Total viajeros,Holt-Winters multiplicativo,2018-05-01,entrenamiento,277750.1,
+Total viajeros,Holt-Winters multiplicativo,2018-06-01,entrenamiento,311280.4,
+Total viajeros,Holt-Winters multiplicativo,2018-07-01,entrenamiento,337300.6,
+Total viajeros,Holt-Winters multiplicativo,2018-08-01,entrenamiento,352316.6,
+Total viajeros,Holt-Winters multiplicativo,2018-09-01,entrenamiento,272777.1,
+Total viajeros,Holt-Winters multiplicativo,2018-10-01,entrenamiento,282172.2,
+Total viajeros,Holt-Winters multiplicativo,2018-11-01,entrenamiento,309687.6,
+Total viajeros,Holt-Winters multiplicativo,2018-12-01,entrenamiento,393729.5,
+Total viajeros,Holt-Winters multiplicativo,2019-01-01,entrenamiento,357645.7,
+Total viajeros,Holt-Winters multiplicativo,2019-02-01,entrenamiento,285350.9,
+Total viajeros,Holt-Winters multiplicativo,2019-03-01,entrenamiento,359758.0,
+Total viajeros,Holt-Winters multiplicativo,2019-04-01,entrenamiento,388538.5,
+Total viajeros,Holt-Winters multiplicativo,2019-05-01,entrenamiento,299297.3,
+Total viajeros,Holt-Winters multiplicativo,2019-06-01,entrenamiento,333161.6,
+Total viajeros,Holt-Winters multiplicativo,2019-07-01,entrenamiento,365333.7,
+Total viajeros,Holt-Winters multiplicativo,2019-08-01,entrenamiento,365512.8,
+Total viajeros,Holt-Winters multiplicativo,2019-09-01,entrenamiento,298250.1,
+Total viajeros,Holt-Winters multiplicativo,2019-10-01,entrenamiento,294504.0,
+Total viajeros,Holt-Winters multiplicativo,2019-11-01,entrenamiento,335783.9,
+Total viajeros,Holt-Winters multiplicativo,2019-12-01,entrenamiento,449114.1,
+Total viajeros,Holt-Winters multiplicativo,2020-01-01,entrenamiento,388222.6,
+Total viajeros,Holt-Winters multiplicativo,2020-02-01,entrenamiento,317918.0,
+Total viajeros,Holt-Winters multiplicativo,2020-03-01,entrenamiento,155415.6,
+Total viajeros,Holt-Winters multiplicativo,2020-04-01,entrenamiento,10039.0,
+Total viajeros,Holt-Winters multiplicativo,2020-05-01,entrenamiento,9779.0,
+Total viajeros,Holt-Winters multiplicativo,2020-06-01,entrenamiento,11817.0,
+Total viajeros,Holt-Winters multiplicativo,2020-07-01,entrenamiento,13484.0,
+Total viajeros,Holt-Winters multiplicativo,2020-08-01,entrenamiento,15357.0,
+Total viajeros,Holt-Winters multiplicativo,2020-09-01,entrenamiento,12572.5,
+Total viajeros,Holt-Winters multiplicativo,2020-10-01,entrenamiento,16680.8,
+Total viajeros,Holt-Winters multiplicativo,2020-11-01,entrenamiento,52865.0,
+Total viajeros,Holt-Winters multiplicativo,2020-12-01,entrenamiento,55620.0,
+Total viajeros,Holt-Winters multiplicativo,2021-01-01,entrenamiento,89960.0,
+Total viajeros,Holt-Winters multiplicativo,2021-02-01,entrenamiento,52605.0,
+Total viajeros,Holt-Winters multiplicativo,2021-03-01,entrenamiento,85017.4,
+Total viajeros,Holt-Winters multiplicativo,2021-04-01,prueba,59743.2,78912.8
+Total viajeros,Holt-Winters multiplicativo,2021-05-01,prueba,73873.0,64069.6
+Total viajeros,Holt-Winters multiplicativo,2021-06-01,prueba,95146.0,69666.8
+Total viajeros,Holt-Winters multiplicativo,2021-07-01,prueba,97594.7,77954.6
+Total viajeros,Holt-Winters multiplicativo,2021-08-01,prueba,72327.0,75896.9
+Total viajeros,Holt-Winters multiplicativo,2021-09-01,prueba,67023.0,60140.5
+Total viajeros,Holt-Winters multiplicativo,2021-10-01,prueba,83528.0,65945.6
+Total viajeros,Holt-Winters multiplicativo,2021-11-01,prueba,98578.0,73858.3
+Total viajeros,Holt-Winters multiplicativo,2021-12-01,prueba,223569.1,95644.2
+Total viajeros,Holt-Winters multiplicativo,2022-01-01,prueba,134303.0,78431.4
+Total viajeros,Holt-Winters multiplicativo,2022-02-01,prueba,193903.6,64340.2
+Total viajeros,Holt-Winters multiplicativo,2022-03-01,prueba,227886.0,75325.9
+Total viajeros,Holt-Winters multiplicativo,2022-04-01,prueba,292648.0,70156.4
+Total viajeros,Holt-Winters multiplicativo,2022-05-01,prueba,260013.0,56960.3
+Total viajeros,Holt-Winters multiplicativo,2022-06-01,prueba,269366.0,61936.3
+Total viajeros,Holt-Winters multiplicativo,2022-07-01,prueba,306246.0,69304.5
+Total viajeros,Holt-Winters multiplicativo,2022-08-01,prueba,297602.0,67475.1
+Total viajeros,Holt-Winters multiplicativo,2022-09-01,prueba,246464.0,53467.1
+Total viajeros,Holt-Winters multiplicativo,2022-10-01,prueba,281938.0,58628.0
+Total viajeros,Holt-Winters multiplicativo,2022-11-01,prueba,318693.0,65662.7
+Total viajeros,Holt-Winters multiplicativo,2022-12-01,prueba,400266.0,85031.3
+Total viajeros,Holt-Winters multiplicativo,2023-01-01,prueba,258166.2,69728.4
+Total viajeros,Holt-Winters multiplicativo,2023-02-01,prueba,198751.9,57200.8
+Total viajeros,Holt-Winters multiplicativo,2023-03-01,prueba,251839.5,66967.5
+Total viajeros,Holt-Winters multiplicativo,2023-04-01,prueba,283179.3,62371.6
+Total viajeros,Holt-Winters multiplicativo,2023-05-01,prueba,213191.0,50639.8
+Total viajeros,Holt-Winters multiplicativo,2023-06-01,prueba,224580.2,55063.7
+Total viajeros,Holt-Winters multiplicativo,2023-07-01,prueba,257627.0,61614.3
+Total viajeros,Holt-Winters multiplicativo,2023-08-01,prueba,264514.1,59987.9
+Total viajeros,Holt-Winters multiplicativo,2023-09-01,prueba,218486.5,47534.2
+Total viajeros,Holt-Winters multiplicativo,2023-10-01,prueba,164499.4,52122.5
+Total viajeros,Holt-Winters multiplicativo,2023-11-01,prueba,255894.3,58376.6
+Total viajeros,Holt-Winters multiplicativo,2023-12-01,prueba,327097.6,75595.9
+Total viajeros,Holt-Winters multiplicativo,2024-01-01,prueba,292731.9,61991.1
+Total viajeros,Holt-Winters multiplicativo,2024-02-01,prueba,265990.7,50853.6
+Total viajeros,Holt-Winters multiplicativo,2024-03-01,prueba,322310.4,59536.6
+Total viajeros,Holt-Winters multiplicativo,2024-04-01,prueba,240988.8,55450.7
+Total viajeros,Holt-Winters multiplicativo,2024-05-01,prueba,238808.0,45020.6
+Total viajeros,Holt-Winters multiplicativo,2024-06-01,prueba,234781.2,48953.6
+Total viajeros,Holt-Winters multiplicativo,2024-07-01,prueba,266975.0,54777.3
+Total viajeros,Holt-Winters multiplicativo,2024-08-01,prueba,282101.8,53331.4
+Total viajeros,Holt-Winters multiplicativo,2024-09-01,prueba,215658.8,42259.7
+Total viajeros,Holt-Winters multiplicativo,2024-10-01,prueba,249665.7,46338.8
+Total viajeros,Holt-Winters multiplicativo,2024-11-01,prueba,302674.1,51898.9
+Total viajeros,Holt-Winters multiplicativo,2024-12-01,prueba,361749.7,67207.5
+Total viajeros,Holt-Winters multiplicativo,2025-01-01,prueba,289543.6,55112.3
+Total viajeros,Holt-Winters multiplicativo,2025-02-01,prueba,254428.9,45210.7
+Total viajeros,Holt-Winters multiplicativo,2025-03-01,prueba,278538.3,52930.2
+Total viajeros,Holt-Winters multiplicativo,2025-04-01,prueba,300287.7,49297.7
+Total viajeros,Holt-Winters multiplicativo,2025-05-01,prueba,247981.9,40025.0
+Total viajeros,Holt-Winters multiplicativo,2025-06-01,prueba,254190.1,43521.6
+Total viajeros,Holt-Winters multiplicativo,2025-07-01,prueba,283388.7,48699.1
+Total viajeros,Holt-Winters multiplicativo,2025-08-01,prueba,293780.5,47413.6
+Total viajeros,Holt-Winters multiplicativo,2025-09-01,prueba,218069.5,37570.4
+Total viajeros,Holt-Winters multiplicativo,2025-10-01,prueba,255920.9,41196.9
+Total viajeros,Holt-Winters multiplicativo,2025-11-01,prueba,310585.5,46140.0
+Total viajeros,Holt-Winters multiplicativo,2025-12-01,prueba,365573.0,59750.0
+Total viajeros,Holt-Winters multiplicativo,2026-01-01,prueba,300664.1,48996.9
+Total viajeros,Holt-Winters multiplicativo,2026-02-01,prueba,236844.1,40194.0
+Total viajeros,Holt-Winters multiplicativo,2026-03-01,prueba,291160.4,47056.9
+Total viajeros,Holt-Winters multiplicativo,2026-04-01,prueba,260951.0,43827.4
+Total viajeros,Holt-Winters multiplicativo,2026-05-01,prueba,241312.3,35583.7
+Total viajeros,Holt-Winters multiplicativo,2026-06-01,prueba,245687.6,38692.3
+Vía Aérea,Suavizamiento exponencial,2009-01-01,entrenamiento,81693.0,
+Vía Aérea,Suavizamiento exponencial,2009-02-01,entrenamiento,70099.0,
+Vía Aérea,Suavizamiento exponencial,2009-03-01,entrenamiento,84494.0,
+Vía Aérea,Suavizamiento exponencial,2009-04-01,entrenamiento,80618.0,
+Vía Aérea,Suavizamiento exponencial,2009-05-01,entrenamiento,64621.0,
+Vía Aérea,Suavizamiento exponencial,2009-06-01,entrenamiento,81500.0,
+Vía Aérea,Suavizamiento exponencial,2009-07-01,entrenamiento,74818.0,
+Vía Aérea,Suavizamiento exponencial,2009-08-01,entrenamiento,76026.0,
+Vía Aérea,Suavizamiento exponencial,2009-09-01,entrenamiento,61974.0,
+Vía Aérea,Suavizamiento exponencial,2009-10-01,entrenamiento,72950.0,
+Vía Aérea,Suavizamiento exponencial,2009-11-01,entrenamiento,82455.0,
+Vía Aérea,Suavizamiento exponencial,2009-12-01,entrenamiento,104131.0,
+Vía Aérea,Suavizamiento exponencial,2010-01-01,entrenamiento,85216.0,
+Vía Aérea,Suavizamiento exponencial,2010-02-01,entrenamiento,69352.0,
+Vía Aérea,Suavizamiento exponencial,2010-03-01,entrenamiento,88849.0,
+Vía Aérea,Suavizamiento exponencial,2010-04-01,entrenamiento,76466.0,
+Vía Aérea,Suavizamiento exponencial,2010-05-01,entrenamiento,65070.0,
+Vía Aérea,Suavizamiento exponencial,2010-06-01,entrenamiento,84570.0,
+Vía Aérea,Suavizamiento exponencial,2010-07-01,entrenamiento,102317.0,
+Vía Aérea,Suavizamiento exponencial,2010-08-01,entrenamiento,79180.0,
+Vía Aérea,Suavizamiento exponencial,2010-09-01,entrenamiento,62853.0,
+Vía Aérea,Suavizamiento exponencial,2010-10-01,entrenamiento,76272.0,
+Vía Aérea,Suavizamiento exponencial,2010-11-01,entrenamiento,84445.0,
+Vía Aérea,Suavizamiento exponencial,2010-12-01,entrenamiento,99643.0,
+Vía Aérea,Suavizamiento exponencial,2011-01-01,entrenamiento,81827.0,
+Vía Aérea,Suavizamiento exponencial,2011-02-01,entrenamiento,69199.0,
+Vía Aérea,Suavizamiento exponencial,2011-03-01,entrenamiento,77868.0,
+Vía Aérea,Suavizamiento exponencial,2011-04-01,entrenamiento,77120.0,
+Vía Aérea,Suavizamiento exponencial,2011-05-01,entrenamiento,68133.0,
+Vía Aérea,Suavizamiento exponencial,2011-06-01,entrenamiento,82437.0,
+Vía Aérea,Suavizamiento exponencial,2011-07-01,entrenamiento,97679.0,
+Vía Aérea,Suavizamiento exponencial,2011-08-01,entrenamiento,77477.0,
+Vía Aérea,Suavizamiento exponencial,2011-09-01,entrenamiento,65329.0,
+Vía Aérea,Suavizamiento exponencial,2011-10-01,entrenamiento,71644.0,
+Vía Aérea,Suavizamiento exponencial,2011-11-01,entrenamiento,86040.0,
+Vía Aérea,Suavizamiento exponencial,2011-12-01,entrenamiento,101211.0,
+Vía Aérea,Suavizamiento exponencial,2012-01-01,entrenamiento,81067.0,
+Vía Aérea,Suavizamiento exponencial,2012-02-01,entrenamiento,70168.0,
+Vía Aérea,Suavizamiento exponencial,2012-03-01,entrenamiento,84564.0,
+Vía Aérea,Suavizamiento exponencial,2012-04-01,entrenamiento,75122.0,
+Vía Aérea,Suavizamiento exponencial,2012-05-01,entrenamiento,71959.0,
+Vía Aérea,Suavizamiento exponencial,2012-06-01,entrenamiento,87824.0,
+Vía Aérea,Suavizamiento exponencial,2012-07-01,entrenamiento,96204.0,
+Vía Aérea,Suavizamiento exponencial,2012-08-01,entrenamiento,72237.0,
+Vía Aérea,Suavizamiento exponencial,2012-09-01,entrenamiento,65651.0,
+Vía Aérea,Suavizamiento exponencial,2012-10-01,entrenamiento,75434.0,
+Vía Aérea,Suavizamiento exponencial,2012-11-01,entrenamiento,87872.0,
+Vía Aérea,Suavizamiento exponencial,2012-12-01,entrenamiento,102428.0,
+Vía Aérea,Suavizamiento exponencial,2013-01-01,entrenamiento,80051.0,
+Vía Aérea,Suavizamiento exponencial,2013-02-01,entrenamiento,69139.0,
+Vía Aérea,Suavizamiento exponencial,2013-03-01,entrenamiento,90893.0,
+Vía Aérea,Suavizamiento exponencial,2013-04-01,entrenamiento,72202.0,
+Vía Aérea,Suavizamiento exponencial,2013-05-01,entrenamiento,71046.0,
+Vía Aérea,Suavizamiento exponencial,2013-06-01,entrenamiento,89180.0,
+Vía Aérea,Suavizamiento exponencial,2013-07-01,entrenamiento,95206.0,
+Vía Aérea,Suavizamiento exponencial,2013-08-01,entrenamiento,77913.0,
+Vía Aérea,Suavizamiento exponencial,2013-09-01,entrenamiento,66627.0,
+Vía Aérea,Suavizamiento exponencial,2013-10-01,entrenamiento,79527.0,
+Vía Aérea,Suavizamiento exponencial,2013-11-01,entrenamiento,92515.0,
+Vía Aérea,Suavizamiento exponencial,2013-12-01,entrenamiento,112488.0,
+Vía Aérea,Suavizamiento exponencial,2014-01-01,entrenamiento,90200.0,
+Vía Aérea,Suavizamiento exponencial,2014-02-01,entrenamiento,78209.0,
+Vía Aérea,Suavizamiento exponencial,2014-03-01,entrenamiento,92135.0,
+Vía Aérea,Suavizamiento exponencial,2014-04-01,entrenamiento,89600.0,
+Vía Aérea,Suavizamiento exponencial,2014-05-01,entrenamiento,80383.0,
+Vía Aérea,Suavizamiento exponencial,2014-06-01,entrenamiento,99084.0,
+Vía Aérea,Suavizamiento exponencial,2014-07-01,entrenamiento,102729.0,
+Vía Aérea,Suavizamiento exponencial,2014-08-01,entrenamiento,86492.0,
+Vía Aérea,Suavizamiento exponencial,2014-09-01,entrenamiento,73602.0,
+Vía Aérea,Suavizamiento exponencial,2014-10-01,entrenamiento,86265.0,
+Vía Aérea,Suavizamiento exponencial,2014-11-01,entrenamiento,95776.0,
+Vía Aérea,Suavizamiento exponencial,2014-12-01,entrenamiento,117878.0,
+Vía Aérea,Suavizamiento exponencial,2015-01-01,entrenamiento,95064.0,
+Vía Aérea,Suavizamiento exponencial,2015-02-01,entrenamiento,79878.0,
+Vía Aérea,Suavizamiento exponencial,2015-03-01,entrenamiento,98121.0,
+Vía Aérea,Suavizamiento exponencial,2015-04-01,entrenamiento,87540.0,
+Vía Aérea,Suavizamiento exponencial,2015-05-01,entrenamiento,84334.0,
+Vía Aérea,Suavizamiento exponencial,2015-06-01,entrenamiento,104893.0,
+Vía Aérea,Suavizamiento exponencial,2015-07-01,entrenamiento,106927.0,
+Vía Aérea,Suavizamiento exponencial,2015-08-01,entrenamiento,90600.0,
+Vía Aérea,Suavizamiento exponencial,2015-09-01,entrenamiento,82888.0,
+Vía Aérea,Suavizamiento exponencial,2015-10-01,entrenamiento,97243.0,
+Vía Aérea,Suavizamiento exponencial,2015-11-01,entrenamiento,110173.0,
+Vía Aérea,Suavizamiento exponencial,2015-12-01,entrenamiento,129751.0,
+Vía Aérea,Suavizamiento exponencial,2016-01-01,entrenamiento,109052.0,
+Vía Aérea,Suavizamiento exponencial,2016-02-01,entrenamiento,90944.0,
+Vía Aérea,Suavizamiento exponencial,2016-03-01,entrenamiento,117172.0,
+Vía Aérea,Suavizamiento exponencial,2016-04-01,entrenamiento,90938.0,
+Vía Aérea,Suavizamiento exponencial,2016-05-01,entrenamiento,96379.0,
+Vía Aérea,Suavizamiento exponencial,2016-06-01,entrenamiento,113143.0,
+Vía Aérea,Suavizamiento exponencial,2016-07-01,entrenamiento,130062.0,
+Vía Aérea,Suavizamiento exponencial,2016-08-01,entrenamiento,100986.0,
+Vía Aérea,Suavizamiento exponencial,2016-09-01,entrenamiento,80637.4,
+Vía Aérea,Suavizamiento exponencial,2016-10-01,entrenamiento,102214.0,
+Vía Aérea,Suavizamiento exponencial,2016-11-01,entrenamiento,111954.0,
+Vía Aérea,Suavizamiento exponencial,2016-12-01,entrenamiento,111842.0,
+Vía Aérea,Suavizamiento exponencial,2017-01-01,entrenamiento,99217.0,
+Vía Aérea,Suavizamiento exponencial,2017-02-01,entrenamiento,94604.0,
+Vía Aérea,Suavizamiento exponencial,2017-03-01,entrenamiento,106339.0,
+Vía Aérea,Suavizamiento exponencial,2017-04-01,entrenamiento,110230.0,
+Vía Aérea,Suavizamiento exponencial,2017-05-01,entrenamiento,89750.0,
+Vía Aérea,Suavizamiento exponencial,2017-06-01,entrenamiento,114128.0,
+Vía Aérea,Suavizamiento exponencial,2017-07-01,entrenamiento,134449.0,
+Vía Aérea,Suavizamiento exponencial,2017-08-01,entrenamiento,100536.0,
+Vía Aérea,Suavizamiento exponencial,2017-09-01,entrenamiento,91091.0,
+Vía Aérea,Suavizamiento exponencial,2017-10-01,entrenamiento,109105.0,
+Vía Aérea,Suavizamiento exponencial,2017-11-01,entrenamiento,121392.0,
+Vía Aérea,Suavizamiento exponencial,2017-12-01,entrenamiento,142949.0,
+Vía Aérea,Suavizamiento exponencial,2018-01-01,entrenamiento,117446.0,
+Vía Aérea,Suavizamiento exponencial,2018-02-01,entrenamiento,96337.0,
+Vía Aérea,Suavizamiento exponencial,2018-03-01,entrenamiento,124266.0,
+Vía Aérea,Suavizamiento exponencial,2018-04-01,entrenamiento,104951.0,
+Vía Aérea,Suavizamiento exponencial,2018-05-01,entrenamiento,103815.0,
+Vía Aérea,Suavizamiento exponencial,2018-06-01,entrenamiento,120718.0,
+Vía Aérea,Suavizamiento exponencial,2018-07-01,entrenamiento,134933.0,
+Vía Aérea,Suavizamiento exponencial,2018-08-01,entrenamiento,110568.0,
+Vía Aérea,Suavizamiento exponencial,2018-09-01,entrenamiento,94931.3,
+Vía Aérea,Suavizamiento exponencial,2018-10-01,entrenamiento,115004.0,
+Vía Aérea,Suavizamiento exponencial,2018-11-01,entrenamiento,135409.4,
+Vía Aérea,Suavizamiento exponencial,2018-12-01,entrenamiento,156607.4,
+Vía Aérea,Suavizamiento exponencial,2019-01-01,entrenamiento,126566.1,
+Vía Aérea,Suavizamiento exponencial,2019-02-01,entrenamiento,106574.1,
+Vía Aérea,Suavizamiento exponencial,2019-03-01,entrenamiento,118895.9,
+Vía Aérea,Suavizamiento exponencial,2019-04-01,entrenamiento,125310.0,
+Vía Aérea,Suavizamiento exponencial,2019-05-01,entrenamiento,109524.0,
+Vía Aérea,Suavizamiento exponencial,2019-06-01,entrenamiento,127605.0,
+Vía Aérea,Suavizamiento exponencial,2019-07-01,entrenamiento,138562.6,
+Vía Aérea,Suavizamiento exponencial,2019-08-01,entrenamiento,115045.0,
+Vía Aérea,Suavizamiento exponencial,2019-09-01,entrenamiento,101240.1,
+Vía Aérea,Suavizamiento exponencial,2019-10-01,entrenamiento,119129.0,
+Vía Aérea,Suavizamiento exponencial,2019-11-01,entrenamiento,137092.0,
+Vía Aérea,Suavizamiento exponencial,2019-12-01,entrenamiento,157842.0,
+Vía Aérea,Suavizamiento exponencial,2020-01-01,entrenamiento,130697.0,
+Vía Aérea,Suavizamiento exponencial,2020-02-01,entrenamiento,112886.0,
+Vía Aérea,Suavizamiento exponencial,2020-03-01,entrenamiento,54831.0,
+Vía Aérea,Suavizamiento exponencial,2020-04-01,entrenamiento,489.0,
+Vía Aérea,Suavizamiento exponencial,2020-05-01,entrenamiento,610.0,
+Vía Aérea,Suavizamiento exponencial,2020-06-01,entrenamiento,1418.0,
+Vía Aérea,Suavizamiento exponencial,2020-07-01,entrenamiento,1047.0,
+Vía Aérea,Suavizamiento exponencial,2020-08-01,entrenamiento,1259.0,
+Vía Aérea,Suavizamiento exponencial,2020-09-01,entrenamiento,5606.0,
+Vía Aérea,Suavizamiento exponencial,2020-10-01,entrenamiento,9474.7,
+Vía Aérea,Suavizamiento exponencial,2020-11-01,entrenamiento,38994.0,
+Vía Aérea,Suavizamiento exponencial,2020-12-01,entrenamiento,53717.0,
+Vía Aérea,Suavizamiento exponencial,2021-01-01,entrenamiento,43648.0,
+Vía Aérea,Suavizamiento exponencial,2021-02-01,entrenamiento,28784.0,
+Vía Aérea,Suavizamiento exponencial,2021-03-01,entrenamiento,60160.4,
+Vía Aérea,Suavizamiento exponencial,2021-04-01,prueba,34541.7,60160.4
+Vía Aérea,Suavizamiento exponencial,2021-05-01,prueba,59518.0,60160.4
+Vía Aérea,Suavizamiento exponencial,2021-06-01,prueba,75987.0,60160.4
+Vía Aérea,Suavizamiento exponencial,2021-07-01,prueba,71180.0,60160.4
+Vía Aérea,Suavizamiento exponencial,2021-08-01,prueba,55680.0,60160.4
+Vía Aérea,Suavizamiento exponencial,2021-09-01,prueba,46048.0,60160.4
+Vía Aérea,Suavizamiento exponencial,2021-10-01,prueba,53420.0,60160.4
+Vía Aérea,Suavizamiento exponencial,2021-11-01,prueba,72673.0,60160.4
+Vía Aérea,Suavizamiento exponencial,2021-12-01,prueba,122254.0,60160.4
+Vía Aérea,Suavizamiento exponencial,2022-01-01,prueba,97752.0,60160.4
+Vía Aérea,Suavizamiento exponencial,2022-02-01,prueba,84575.0,60160.4
+Vía Aérea,Suavizamiento exponencial,2022-03-01,prueba,106141.0,60160.4
+Vía Aérea,Suavizamiento exponencial,2022-04-01,prueba,124782.0,60160.4
+Vía Aérea,Suavizamiento exponencial,2022-05-01,prueba,111839.0,60160.4
+Vía Aérea,Suavizamiento exponencial,2022-06-01,prueba,125316.0,60160.4
+Vía Aérea,Suavizamiento exponencial,2022-07-01,prueba,131458.0,60160.4
+Vía Aérea,Suavizamiento exponencial,2022-08-01,prueba,108896.0,60160.4
+Vía Aérea,Suavizamiento exponencial,2022-09-01,prueba,103209.0,60160.4
+Vía Aérea,Suavizamiento exponencial,2022-10-01,prueba,122939.0,60160.4
+Vía Aérea,Suavizamiento exponencial,2022-11-01,prueba,131410.0,60160.4
+Vía Aérea,Suavizamiento exponencial,2022-12-01,prueba,158463.0,60160.4
+Vía Aérea,Suavizamiento exponencial,2023-01-01,prueba,76401.0,60160.4
+Vía Aérea,Suavizamiento exponencial,2023-02-01,prueba,75406.0,60160.4
+Vía Aérea,Suavizamiento exponencial,2023-03-01,prueba,92733.0,60160.4
+Vía Aérea,Suavizamiento exponencial,2023-04-01,prueba,79354.0,60160.4
+Vía Aérea,Suavizamiento exponencial,2023-05-01,prueba,71802.0,60160.4
+Vía Aérea,Suavizamiento exponencial,2023-06-01,prueba,87780.0,60160.4
+Vía Aérea,Suavizamiento exponencial,2023-07-01,prueba,99032.0,60160.4
+Vía Aérea,Suavizamiento exponencial,2023-08-01,prueba,79152.0,60160.4
+Vía Aérea,Suavizamiento exponencial,2023-09-01,prueba,67306.0,60160.4
+Vía Aérea,Suavizamiento exponencial,2023-10-01,prueba,59326.0,60160.4
+Vía Aérea,Suavizamiento exponencial,2023-11-01,prueba,89140.0,60160.4
+Vía Aérea,Suavizamiento exponencial,2023-12-01,prueba,108408.0,60160.4
+Vía Aérea,Suavizamiento exponencial,2024-01-01,prueba,96039.0,60160.4
+Vía Aérea,Suavizamiento exponencial,2024-02-01,prueba,98871.0,60160.4
+Vía Aérea,Suavizamiento exponencial,2024-03-01,prueba,108491.0,60160.4
+Vía Aérea,Suavizamiento exponencial,2024-04-01,prueba,87857.0,60160.4
+Vía Aérea,Suavizamiento exponencial,2024-05-01,prueba,87997.0,60160.4
+Vía Aérea,Suavizamiento exponencial,2024-06-01,prueba,104464.0,60160.4
+Vía Aérea,Suavizamiento exponencial,2024-07-01,prueba,110379.0,60160.4
+Vía Aérea,Suavizamiento exponencial,2024-08-01,prueba,88635.0,60160.4
+Vía Aérea,Suavizamiento exponencial,2024-09-01,prueba,69269.0,60160.4
+Vía Aérea,Suavizamiento exponencial,2024-10-01,prueba,81187.0,60160.4
+Vía Aérea,Suavizamiento exponencial,2024-11-01,prueba,97137.0,60160.4
+Vía Aérea,Suavizamiento exponencial,2024-12-01,prueba,113027.0,60160.4
+Vía Aérea,Suavizamiento exponencial,2025-01-01,prueba,101124.0,60160.4
+Vía Aérea,Suavizamiento exponencial,2025-02-01,prueba,92703.0,60160.4
+Vía Aérea,Suavizamiento exponencial,2025-03-01,prueba,107244.0,60160.4
+Vía Aérea,Suavizamiento exponencial,2025-04-01,prueba,93466.0,60160.4
+Vía Aérea,Suavizamiento exponencial,2025-05-01,prueba,87753.0,60160.4
+Vía Aérea,Suavizamiento exponencial,2025-06-01,prueba,99411.0,60160.4
+Vía Aérea,Suavizamiento exponencial,2025-07-01,prueba,117361.0,60160.4
+Vía Aérea,Suavizamiento exponencial,2025-08-01,prueba,90643.0,60160.4
+Vía Aérea,Suavizamiento exponencial,2025-09-01,prueba,70416.0,60160.4
+Vía Aérea,Suavizamiento exponencial,2025-10-01,prueba,90000.0,60160.4
+Vía Aérea,Suavizamiento exponencial,2025-11-01,prueba,111567.0,60160.4
+Vía Aérea,Suavizamiento exponencial,2025-12-01,prueba,127283.0,60160.4
+Vía Aérea,Suavizamiento exponencial,2026-01-01,prueba,113435.0,60160.4
+Vía Aérea,Suavizamiento exponencial,2026-02-01,prueba,106821.0,60160.4
+Vía Aérea,Suavizamiento exponencial,2026-03-01,prueba,127540.0,60160.4
+Vía Aérea,Suavizamiento exponencial,2026-04-01,prueba,102029.0,60160.4
+Vía Aérea,Suavizamiento exponencial,2026-05-01,prueba,95804.0,60160.4
+Vía Aérea,Suavizamiento exponencial,2026-06-01,prueba,98211.0,60160.4
+Vía Aérea,"ARIMA(1,1,1)",2009-01-01,entrenamiento,81693.0,
+Vía Aérea,"ARIMA(1,1,1)",2009-02-01,entrenamiento,70099.0,
+Vía Aérea,"ARIMA(1,1,1)",2009-03-01,entrenamiento,84494.0,
+Vía Aérea,"ARIMA(1,1,1)",2009-04-01,entrenamiento,80618.0,
+Vía Aérea,"ARIMA(1,1,1)",2009-05-01,entrenamiento,64621.0,
+Vía Aérea,"ARIMA(1,1,1)",2009-06-01,entrenamiento,81500.0,
+Vía Aérea,"ARIMA(1,1,1)",2009-07-01,entrenamiento,74818.0,
+Vía Aérea,"ARIMA(1,1,1)",2009-08-01,entrenamiento,76026.0,
+Vía Aérea,"ARIMA(1,1,1)",2009-09-01,entrenamiento,61974.0,
+Vía Aérea,"ARIMA(1,1,1)",2009-10-01,entrenamiento,72950.0,
+Vía Aérea,"ARIMA(1,1,1)",2009-11-01,entrenamiento,82455.0,
+Vía Aérea,"ARIMA(1,1,1)",2009-12-01,entrenamiento,104131.0,
+Vía Aérea,"ARIMA(1,1,1)",2010-01-01,entrenamiento,85216.0,
+Vía Aérea,"ARIMA(1,1,1)",2010-02-01,entrenamiento,69352.0,
+Vía Aérea,"ARIMA(1,1,1)",2010-03-01,entrenamiento,88849.0,
+Vía Aérea,"ARIMA(1,1,1)",2010-04-01,entrenamiento,76466.0,
+Vía Aérea,"ARIMA(1,1,1)",2010-05-01,entrenamiento,65070.0,
+Vía Aérea,"ARIMA(1,1,1)",2010-06-01,entrenamiento,84570.0,
+Vía Aérea,"ARIMA(1,1,1)",2010-07-01,entrenamiento,102317.0,
+Vía Aérea,"ARIMA(1,1,1)",2010-08-01,entrenamiento,79180.0,
+Vía Aérea,"ARIMA(1,1,1)",2010-09-01,entrenamiento,62853.0,
+Vía Aérea,"ARIMA(1,1,1)",2010-10-01,entrenamiento,76272.0,
+Vía Aérea,"ARIMA(1,1,1)",2010-11-01,entrenamiento,84445.0,
+Vía Aérea,"ARIMA(1,1,1)",2010-12-01,entrenamiento,99643.0,
+Vía Aérea,"ARIMA(1,1,1)",2011-01-01,entrenamiento,81827.0,
+Vía Aérea,"ARIMA(1,1,1)",2011-02-01,entrenamiento,69199.0,
+Vía Aérea,"ARIMA(1,1,1)",2011-03-01,entrenamiento,77868.0,
+Vía Aérea,"ARIMA(1,1,1)",2011-04-01,entrenamiento,77120.0,
+Vía Aérea,"ARIMA(1,1,1)",2011-05-01,entrenamiento,68133.0,
+Vía Aérea,"ARIMA(1,1,1)",2011-06-01,entrenamiento,82437.0,
+Vía Aérea,"ARIMA(1,1,1)",2011-07-01,entrenamiento,97679.0,
+Vía Aérea,"ARIMA(1,1,1)",2011-08-01,entrenamiento,77477.0,
+Vía Aérea,"ARIMA(1,1,1)",2011-09-01,entrenamiento,65329.0,
+Vía Aérea,"ARIMA(1,1,1)",2011-10-01,entrenamiento,71644.0,
+Vía Aérea,"ARIMA(1,1,1)",2011-11-01,entrenamiento,86040.0,
+Vía Aérea,"ARIMA(1,1,1)",2011-12-01,entrenamiento,101211.0,
+Vía Aérea,"ARIMA(1,1,1)",2012-01-01,entrenamiento,81067.0,
+Vía Aérea,"ARIMA(1,1,1)",2012-02-01,entrenamiento,70168.0,
+Vía Aérea,"ARIMA(1,1,1)",2012-03-01,entrenamiento,84564.0,
+Vía Aérea,"ARIMA(1,1,1)",2012-04-01,entrenamiento,75122.0,
+Vía Aérea,"ARIMA(1,1,1)",2012-05-01,entrenamiento,71959.0,
+Vía Aérea,"ARIMA(1,1,1)",2012-06-01,entrenamiento,87824.0,
+Vía Aérea,"ARIMA(1,1,1)",2012-07-01,entrenamiento,96204.0,
+Vía Aérea,"ARIMA(1,1,1)",2012-08-01,entrenamiento,72237.0,
+Vía Aérea,"ARIMA(1,1,1)",2012-09-01,entrenamiento,65651.0,
+Vía Aérea,"ARIMA(1,1,1)",2012-10-01,entrenamiento,75434.0,
+Vía Aérea,"ARIMA(1,1,1)",2012-11-01,entrenamiento,87872.0,
+Vía Aérea,"ARIMA(1,1,1)",2012-12-01,entrenamiento,102428.0,
+Vía Aérea,"ARIMA(1,1,1)",2013-01-01,entrenamiento,80051.0,
+Vía Aérea,"ARIMA(1,1,1)",2013-02-01,entrenamiento,69139.0,
+Vía Aérea,"ARIMA(1,1,1)",2013-03-01,entrenamiento,90893.0,
+Vía Aérea,"ARIMA(1,1,1)",2013-04-01,entrenamiento,72202.0,
+Vía Aérea,"ARIMA(1,1,1)",2013-05-01,entrenamiento,71046.0,
+Vía Aérea,"ARIMA(1,1,1)",2013-06-01,entrenamiento,89180.0,
+Vía Aérea,"ARIMA(1,1,1)",2013-07-01,entrenamiento,95206.0,
+Vía Aérea,"ARIMA(1,1,1)",2013-08-01,entrenamiento,77913.0,
+Vía Aérea,"ARIMA(1,1,1)",2013-09-01,entrenamiento,66627.0,
+Vía Aérea,"ARIMA(1,1,1)",2013-10-01,entrenamiento,79527.0,
+Vía Aérea,"ARIMA(1,1,1)",2013-11-01,entrenamiento,92515.0,
+Vía Aérea,"ARIMA(1,1,1)",2013-12-01,entrenamiento,112488.0,
+Vía Aérea,"ARIMA(1,1,1)",2014-01-01,entrenamiento,90200.0,
+Vía Aérea,"ARIMA(1,1,1)",2014-02-01,entrenamiento,78209.0,
+Vía Aérea,"ARIMA(1,1,1)",2014-03-01,entrenamiento,92135.0,
+Vía Aérea,"ARIMA(1,1,1)",2014-04-01,entrenamiento,89600.0,
+Vía Aérea,"ARIMA(1,1,1)",2014-05-01,entrenamiento,80383.0,
+Vía Aérea,"ARIMA(1,1,1)",2014-06-01,entrenamiento,99084.0,
+Vía Aérea,"ARIMA(1,1,1)",2014-07-01,entrenamiento,102729.0,
+Vía Aérea,"ARIMA(1,1,1)",2014-08-01,entrenamiento,86492.0,
+Vía Aérea,"ARIMA(1,1,1)",2014-09-01,entrenamiento,73602.0,
+Vía Aérea,"ARIMA(1,1,1)",2014-10-01,entrenamiento,86265.0,
+Vía Aérea,"ARIMA(1,1,1)",2014-11-01,entrenamiento,95776.0,
+Vía Aérea,"ARIMA(1,1,1)",2014-12-01,entrenamiento,117878.0,
+Vía Aérea,"ARIMA(1,1,1)",2015-01-01,entrenamiento,95064.0,
+Vía Aérea,"ARIMA(1,1,1)",2015-02-01,entrenamiento,79878.0,
+Vía Aérea,"ARIMA(1,1,1)",2015-03-01,entrenamiento,98121.0,
+Vía Aérea,"ARIMA(1,1,1)",2015-04-01,entrenamiento,87540.0,
+Vía Aérea,"ARIMA(1,1,1)",2015-05-01,entrenamiento,84334.0,
+Vía Aérea,"ARIMA(1,1,1)",2015-06-01,entrenamiento,104893.0,
+Vía Aérea,"ARIMA(1,1,1)",2015-07-01,entrenamiento,106927.0,
+Vía Aérea,"ARIMA(1,1,1)",2015-08-01,entrenamiento,90600.0,
+Vía Aérea,"ARIMA(1,1,1)",2015-09-01,entrenamiento,82888.0,
+Vía Aérea,"ARIMA(1,1,1)",2015-10-01,entrenamiento,97243.0,
+Vía Aérea,"ARIMA(1,1,1)",2015-11-01,entrenamiento,110173.0,
+Vía Aérea,"ARIMA(1,1,1)",2015-12-01,entrenamiento,129751.0,
+Vía Aérea,"ARIMA(1,1,1)",2016-01-01,entrenamiento,109052.0,
+Vía Aérea,"ARIMA(1,1,1)",2016-02-01,entrenamiento,90944.0,
+Vía Aérea,"ARIMA(1,1,1)",2016-03-01,entrenamiento,117172.0,
+Vía Aérea,"ARIMA(1,1,1)",2016-04-01,entrenamiento,90938.0,
+Vía Aérea,"ARIMA(1,1,1)",2016-05-01,entrenamiento,96379.0,
+Vía Aérea,"ARIMA(1,1,1)",2016-06-01,entrenamiento,113143.0,
+Vía Aérea,"ARIMA(1,1,1)",2016-07-01,entrenamiento,130062.0,
+Vía Aérea,"ARIMA(1,1,1)",2016-08-01,entrenamiento,100986.0,
+Vía Aérea,"ARIMA(1,1,1)",2016-09-01,entrenamiento,80637.4,
+Vía Aérea,"ARIMA(1,1,1)",2016-10-01,entrenamiento,102214.0,
+Vía Aérea,"ARIMA(1,1,1)",2016-11-01,entrenamiento,111954.0,
+Vía Aérea,"ARIMA(1,1,1)",2016-12-01,entrenamiento,111842.0,
+Vía Aérea,"ARIMA(1,1,1)",2017-01-01,entrenamiento,99217.0,
+Vía Aérea,"ARIMA(1,1,1)",2017-02-01,entrenamiento,94604.0,
+Vía Aérea,"ARIMA(1,1,1)",2017-03-01,entrenamiento,106339.0,
+Vía Aérea,"ARIMA(1,1,1)",2017-04-01,entrenamiento,110230.0,
+Vía Aérea,"ARIMA(1,1,1)",2017-05-01,entrenamiento,89750.0,
+Vía Aérea,"ARIMA(1,1,1)",2017-06-01,entrenamiento,114128.0,
+Vía Aérea,"ARIMA(1,1,1)",2017-07-01,entrenamiento,134449.0,
+Vía Aérea,"ARIMA(1,1,1)",2017-08-01,entrenamiento,100536.0,
+Vía Aérea,"ARIMA(1,1,1)",2017-09-01,entrenamiento,91091.0,
+Vía Aérea,"ARIMA(1,1,1)",2017-10-01,entrenamiento,109105.0,
+Vía Aérea,"ARIMA(1,1,1)",2017-11-01,entrenamiento,121392.0,
+Vía Aérea,"ARIMA(1,1,1)",2017-12-01,entrenamiento,142949.0,
+Vía Aérea,"ARIMA(1,1,1)",2018-01-01,entrenamiento,117446.0,
+Vía Aérea,"ARIMA(1,1,1)",2018-02-01,entrenamiento,96337.0,
+Vía Aérea,"ARIMA(1,1,1)",2018-03-01,entrenamiento,124266.0,
+Vía Aérea,"ARIMA(1,1,1)",2018-04-01,entrenamiento,104951.0,
+Vía Aérea,"ARIMA(1,1,1)",2018-05-01,entrenamiento,103815.0,
+Vía Aérea,"ARIMA(1,1,1)",2018-06-01,entrenamiento,120718.0,
+Vía Aérea,"ARIMA(1,1,1)",2018-07-01,entrenamiento,134933.0,
+Vía Aérea,"ARIMA(1,1,1)",2018-08-01,entrenamiento,110568.0,
+Vía Aérea,"ARIMA(1,1,1)",2018-09-01,entrenamiento,94931.3,
+Vía Aérea,"ARIMA(1,1,1)",2018-10-01,entrenamiento,115004.0,
+Vía Aérea,"ARIMA(1,1,1)",2018-11-01,entrenamiento,135409.4,
+Vía Aérea,"ARIMA(1,1,1)",2018-12-01,entrenamiento,156607.4,
+Vía Aérea,"ARIMA(1,1,1)",2019-01-01,entrenamiento,126566.1,
+Vía Aérea,"ARIMA(1,1,1)",2019-02-01,entrenamiento,106574.1,
+Vía Aérea,"ARIMA(1,1,1)",2019-03-01,entrenamiento,118895.9,
+Vía Aérea,"ARIMA(1,1,1)",2019-04-01,entrenamiento,125310.0,
+Vía Aérea,"ARIMA(1,1,1)",2019-05-01,entrenamiento,109524.0,
+Vía Aérea,"ARIMA(1,1,1)",2019-06-01,entrenamiento,127605.0,
+Vía Aérea,"ARIMA(1,1,1)",2019-07-01,entrenamiento,138562.6,
+Vía Aérea,"ARIMA(1,1,1)",2019-08-01,entrenamiento,115045.0,
+Vía Aérea,"ARIMA(1,1,1)",2019-09-01,entrenamiento,101240.1,
+Vía Aérea,"ARIMA(1,1,1)",2019-10-01,entrenamiento,119129.0,
+Vía Aérea,"ARIMA(1,1,1)",2019-11-01,entrenamiento,137092.0,
+Vía Aérea,"ARIMA(1,1,1)",2019-12-01,entrenamiento,157842.0,
+Vía Aérea,"ARIMA(1,1,1)",2020-01-01,entrenamiento,130697.0,
+Vía Aérea,"ARIMA(1,1,1)",2020-02-01,entrenamiento,112886.0,
+Vía Aérea,"ARIMA(1,1,1)",2020-03-01,entrenamiento,54831.0,
+Vía Aérea,"ARIMA(1,1,1)",2020-04-01,entrenamiento,489.0,
+Vía Aérea,"ARIMA(1,1,1)",2020-05-01,entrenamiento,610.0,
+Vía Aérea,"ARIMA(1,1,1)",2020-06-01,entrenamiento,1418.0,
+Vía Aérea,"ARIMA(1,1,1)",2020-07-01,entrenamiento,1047.0,
+Vía Aérea,"ARIMA(1,1,1)",2020-08-01,entrenamiento,1259.0,
+Vía Aérea,"ARIMA(1,1,1)",2020-09-01,entrenamiento,5606.0,
+Vía Aérea,"ARIMA(1,1,1)",2020-10-01,entrenamiento,9474.7,
+Vía Aérea,"ARIMA(1,1,1)",2020-11-01,entrenamiento,38994.0,
+Vía Aérea,"ARIMA(1,1,1)",2020-12-01,entrenamiento,53717.0,
+Vía Aérea,"ARIMA(1,1,1)",2021-01-01,entrenamiento,43648.0,
+Vía Aérea,"ARIMA(1,1,1)",2021-02-01,entrenamiento,28784.0,
+Vía Aérea,"ARIMA(1,1,1)",2021-03-01,entrenamiento,60160.4,
+Vía Aérea,"ARIMA(1,1,1)",2021-04-01,prueba,34541.7,71033.1
+Vía Aérea,"ARIMA(1,1,1)",2021-05-01,prueba,59518.0,66527.6
+Vía Aérea,"ARIMA(1,1,1)",2021-06-01,prueba,75987.0,68394.6
+Vía Aérea,"ARIMA(1,1,1)",2021-07-01,prueba,71180.0,67621.0
+Vía Aérea,"ARIMA(1,1,1)",2021-08-01,prueba,55680.0,67941.6
+Vía Aérea,"ARIMA(1,1,1)",2021-09-01,prueba,46048.0,67808.7
+Vía Aérea,"ARIMA(1,1,1)",2021-10-01,prueba,53420.0,67863.8
+Vía Aérea,"ARIMA(1,1,1)",2021-11-01,prueba,72673.0,67841.0
+Vía Aérea,"ARIMA(1,1,1)",2021-12-01,prueba,122254.0,67850.4
+Vía Aérea,"ARIMA(1,1,1)",2022-01-01,prueba,97752.0,67846.5
+Vía Aérea,"ARIMA(1,1,1)",2022-02-01,prueba,84575.0,67848.1
+Vía Aérea,"ARIMA(1,1,1)",2022-03-01,prueba,106141.0,67847.5
+Vía Aérea,"ARIMA(1,1,1)",2022-04-01,prueba,124782.0,67847.7
+Vía Aérea,"ARIMA(1,1,1)",2022-05-01,prueba,111839.0,67847.6
+Vía Aérea,"ARIMA(1,1,1)",2022-06-01,prueba,125316.0,67847.7
+Vía Aérea,"ARIMA(1,1,1)",2022-07-01,prueba,131458.0,67847.6
+Vía Aérea,"ARIMA(1,1,1)",2022-08-01,prueba,108896.0,67847.7
+Vía Aérea,"ARIMA(1,1,1)",2022-09-01,prueba,103209.0,67847.7
+Vía Aérea,"ARIMA(1,1,1)",2022-10-01,prueba,122939.0,67847.7
+Vía Aérea,"ARIMA(1,1,1)",2022-11-01,prueba,131410.0,67847.7
+Vía Aérea,"ARIMA(1,1,1)",2022-12-01,prueba,158463.0,67847.7
+Vía Aérea,"ARIMA(1,1,1)",2023-01-01,prueba,76401.0,67847.7
+Vía Aérea,"ARIMA(1,1,1)",2023-02-01,prueba,75406.0,67847.7
+Vía Aérea,"ARIMA(1,1,1)",2023-03-01,prueba,92733.0,67847.7
+Vía Aérea,"ARIMA(1,1,1)",2023-04-01,prueba,79354.0,67847.7
+Vía Aérea,"ARIMA(1,1,1)",2023-05-01,prueba,71802.0,67847.7
+Vía Aérea,"ARIMA(1,1,1)",2023-06-01,prueba,87780.0,67847.7
+Vía Aérea,"ARIMA(1,1,1)",2023-07-01,prueba,99032.0,67847.7
+Vía Aérea,"ARIMA(1,1,1)",2023-08-01,prueba,79152.0,67847.7
+Vía Aérea,"ARIMA(1,1,1)",2023-09-01,prueba,67306.0,67847.7
+Vía Aérea,"ARIMA(1,1,1)",2023-10-01,prueba,59326.0,67847.7
+Vía Aérea,"ARIMA(1,1,1)",2023-11-01,prueba,89140.0,67847.7
+Vía Aérea,"ARIMA(1,1,1)",2023-12-01,prueba,108408.0,67847.7
+Vía Aérea,"ARIMA(1,1,1)",2024-01-01,prueba,96039.0,67847.7
+Vía Aérea,"ARIMA(1,1,1)",2024-02-01,prueba,98871.0,67847.7
+Vía Aérea,"ARIMA(1,1,1)",2024-03-01,prueba,108491.0,67847.7
+Vía Aérea,"ARIMA(1,1,1)",2024-04-01,prueba,87857.0,67847.7
+Vía Aérea,"ARIMA(1,1,1)",2024-05-01,prueba,87997.0,67847.7
+Vía Aérea,"ARIMA(1,1,1)",2024-06-01,prueba,104464.0,67847.7
+Vía Aérea,"ARIMA(1,1,1)",2024-07-01,prueba,110379.0,67847.7
+Vía Aérea,"ARIMA(1,1,1)",2024-08-01,prueba,88635.0,67847.7
+Vía Aérea,"ARIMA(1,1,1)",2024-09-01,prueba,69269.0,67847.7
+Vía Aérea,"ARIMA(1,1,1)",2024-10-01,prueba,81187.0,67847.7
+Vía Aérea,"ARIMA(1,1,1)",2024-11-01,prueba,97137.0,67847.7
+Vía Aérea,"ARIMA(1,1,1)",2024-12-01,prueba,113027.0,67847.7
+Vía Aérea,"ARIMA(1,1,1)",2025-01-01,prueba,101124.0,67847.7
+Vía Aérea,"ARIMA(1,1,1)",2025-02-01,prueba,92703.0,67847.7
+Vía Aérea,"ARIMA(1,1,1)",2025-03-01,prueba,107244.0,67847.7
+Vía Aérea,"ARIMA(1,1,1)",2025-04-01,prueba,93466.0,67847.7
+Vía Aérea,"ARIMA(1,1,1)",2025-05-01,prueba,87753.0,67847.7
+Vía Aérea,"ARIMA(1,1,1)",2025-06-01,prueba,99411.0,67847.7
+Vía Aérea,"ARIMA(1,1,1)",2025-07-01,prueba,117361.0,67847.7
+Vía Aérea,"ARIMA(1,1,1)",2025-08-01,prueba,90643.0,67847.7
+Vía Aérea,"ARIMA(1,1,1)",2025-09-01,prueba,70416.0,67847.7
+Vía Aérea,"ARIMA(1,1,1)",2025-10-01,prueba,90000.0,67847.7
+Vía Aérea,"ARIMA(1,1,1)",2025-11-01,prueba,111567.0,67847.7
+Vía Aérea,"ARIMA(1,1,1)",2025-12-01,prueba,127283.0,67847.7
+Vía Aérea,"ARIMA(1,1,1)",2026-01-01,prueba,113435.0,67847.7
+Vía Aérea,"ARIMA(1,1,1)",2026-02-01,prueba,106821.0,67847.7
+Vía Aérea,"ARIMA(1,1,1)",2026-03-01,prueba,127540.0,67847.7
+Vía Aérea,"ARIMA(1,1,1)",2026-04-01,prueba,102029.0,67847.7
+Vía Aérea,"ARIMA(1,1,1)",2026-05-01,prueba,95804.0,67847.7
+Vía Aérea,"ARIMA(1,1,1)",2026-06-01,prueba,98211.0,67847.7
+Vía Aérea,Holt-Winters multiplicativo,2009-01-01,entrenamiento,81693.0,
+Vía Aérea,Holt-Winters multiplicativo,2009-02-01,entrenamiento,70099.0,
+Vía Aérea,Holt-Winters multiplicativo,2009-03-01,entrenamiento,84494.0,
+Vía Aérea,Holt-Winters multiplicativo,2009-04-01,entrenamiento,80618.0,
+Vía Aérea,Holt-Winters multiplicativo,2009-05-01,entrenamiento,64621.0,
+Vía Aérea,Holt-Winters multiplicativo,2009-06-01,entrenamiento,81500.0,
+Vía Aérea,Holt-Winters multiplicativo,2009-07-01,entrenamiento,74818.0,
+Vía Aérea,Holt-Winters multiplicativo,2009-08-01,entrenamiento,76026.0,
+Vía Aérea,Holt-Winters multiplicativo,2009-09-01,entrenamiento,61974.0,
+Vía Aérea,Holt-Winters multiplicativo,2009-10-01,entrenamiento,72950.0,
+Vía Aérea,Holt-Winters multiplicativo,2009-11-01,entrenamiento,82455.0,
+Vía Aérea,Holt-Winters multiplicativo,2009-12-01,entrenamiento,104131.0,
+Vía Aérea,Holt-Winters multiplicativo,2010-01-01,entrenamiento,85216.0,
+Vía Aérea,Holt-Winters multiplicativo,2010-02-01,entrenamiento,69352.0,
+Vía Aérea,Holt-Winters multiplicativo,2010-03-01,entrenamiento,88849.0,
+Vía Aérea,Holt-Winters multiplicativo,2010-04-01,entrenamiento,76466.0,
+Vía Aérea,Holt-Winters multiplicativo,2010-05-01,entrenamiento,65070.0,
+Vía Aérea,Holt-Winters multiplicativo,2010-06-01,entrenamiento,84570.0,
+Vía Aérea,Holt-Winters multiplicativo,2010-07-01,entrenamiento,102317.0,
+Vía Aérea,Holt-Winters multiplicativo,2010-08-01,entrenamiento,79180.0,
+Vía Aérea,Holt-Winters multiplicativo,2010-09-01,entrenamiento,62853.0,
+Vía Aérea,Holt-Winters multiplicativo,2010-10-01,entrenamiento,76272.0,
+Vía Aérea,Holt-Winters multiplicativo,2010-11-01,entrenamiento,84445.0,
+Vía Aérea,Holt-Winters multiplicativo,2010-12-01,entrenamiento,99643.0,
+Vía Aérea,Holt-Winters multiplicativo,2011-01-01,entrenamiento,81827.0,
+Vía Aérea,Holt-Winters multiplicativo,2011-02-01,entrenamiento,69199.0,
+Vía Aérea,Holt-Winters multiplicativo,2011-03-01,entrenamiento,77868.0,
+Vía Aérea,Holt-Winters multiplicativo,2011-04-01,entrenamiento,77120.0,
+Vía Aérea,Holt-Winters multiplicativo,2011-05-01,entrenamiento,68133.0,
+Vía Aérea,Holt-Winters multiplicativo,2011-06-01,entrenamiento,82437.0,
+Vía Aérea,Holt-Winters multiplicativo,2011-07-01,entrenamiento,97679.0,
+Vía Aérea,Holt-Winters multiplicativo,2011-08-01,entrenamiento,77477.0,
+Vía Aérea,Holt-Winters multiplicativo,2011-09-01,entrenamiento,65329.0,
+Vía Aérea,Holt-Winters multiplicativo,2011-10-01,entrenamiento,71644.0,
+Vía Aérea,Holt-Winters multiplicativo,2011-11-01,entrenamiento,86040.0,
+Vía Aérea,Holt-Winters multiplicativo,2011-12-01,entrenamiento,101211.0,
+Vía Aérea,Holt-Winters multiplicativo,2012-01-01,entrenamiento,81067.0,
+Vía Aérea,Holt-Winters multiplicativo,2012-02-01,entrenamiento,70168.0,
+Vía Aérea,Holt-Winters multiplicativo,2012-03-01,entrenamiento,84564.0,
+Vía Aérea,Holt-Winters multiplicativo,2012-04-01,entrenamiento,75122.0,
+Vía Aérea,Holt-Winters multiplicativo,2012-05-01,entrenamiento,71959.0,
+Vía Aérea,Holt-Winters multiplicativo,2012-06-01,entrenamiento,87824.0,
+Vía Aérea,Holt-Winters multiplicativo,2012-07-01,entrenamiento,96204.0,
+Vía Aérea,Holt-Winters multiplicativo,2012-08-01,entrenamiento,72237.0,
+Vía Aérea,Holt-Winters multiplicativo,2012-09-01,entrenamiento,65651.0,
+Vía Aérea,Holt-Winters multiplicativo,2012-10-01,entrenamiento,75434.0,
+Vía Aérea,Holt-Winters multiplicativo,2012-11-01,entrenamiento,87872.0,
+Vía Aérea,Holt-Winters multiplicativo,2012-12-01,entrenamiento,102428.0,
+Vía Aérea,Holt-Winters multiplicativo,2013-01-01,entrenamiento,80051.0,
+Vía Aérea,Holt-Winters multiplicativo,2013-02-01,entrenamiento,69139.0,
+Vía Aérea,Holt-Winters multiplicativo,2013-03-01,entrenamiento,90893.0,
+Vía Aérea,Holt-Winters multiplicativo,2013-04-01,entrenamiento,72202.0,
+Vía Aérea,Holt-Winters multiplicativo,2013-05-01,entrenamiento,71046.0,
+Vía Aérea,Holt-Winters multiplicativo,2013-06-01,entrenamiento,89180.0,
+Vía Aérea,Holt-Winters multiplicativo,2013-07-01,entrenamiento,95206.0,
+Vía Aérea,Holt-Winters multiplicativo,2013-08-01,entrenamiento,77913.0,
+Vía Aérea,Holt-Winters multiplicativo,2013-09-01,entrenamiento,66627.0,
+Vía Aérea,Holt-Winters multiplicativo,2013-10-01,entrenamiento,79527.0,
+Vía Aérea,Holt-Winters multiplicativo,2013-11-01,entrenamiento,92515.0,
+Vía Aérea,Holt-Winters multiplicativo,2013-12-01,entrenamiento,112488.0,
+Vía Aérea,Holt-Winters multiplicativo,2014-01-01,entrenamiento,90200.0,
+Vía Aérea,Holt-Winters multiplicativo,2014-02-01,entrenamiento,78209.0,
+Vía Aérea,Holt-Winters multiplicativo,2014-03-01,entrenamiento,92135.0,
+Vía Aérea,Holt-Winters multiplicativo,2014-04-01,entrenamiento,89600.0,
+Vía Aérea,Holt-Winters multiplicativo,2014-05-01,entrenamiento,80383.0,
+Vía Aérea,Holt-Winters multiplicativo,2014-06-01,entrenamiento,99084.0,
+Vía Aérea,Holt-Winters multiplicativo,2014-07-01,entrenamiento,102729.0,
+Vía Aérea,Holt-Winters multiplicativo,2014-08-01,entrenamiento,86492.0,
+Vía Aérea,Holt-Winters multiplicativo,2014-09-01,entrenamiento,73602.0,
+Vía Aérea,Holt-Winters multiplicativo,2014-10-01,entrenamiento,86265.0,
+Vía Aérea,Holt-Winters multiplicativo,2014-11-01,entrenamiento,95776.0,
+Vía Aérea,Holt-Winters multiplicativo,2014-12-01,entrenamiento,117878.0,
+Vía Aérea,Holt-Winters multiplicativo,2015-01-01,entrenamiento,95064.0,
+Vía Aérea,Holt-Winters multiplicativo,2015-02-01,entrenamiento,79878.0,
+Vía Aérea,Holt-Winters multiplicativo,2015-03-01,entrenamiento,98121.0,
+Vía Aérea,Holt-Winters multiplicativo,2015-04-01,entrenamiento,87540.0,
+Vía Aérea,Holt-Winters multiplicativo,2015-05-01,entrenamiento,84334.0,
+Vía Aérea,Holt-Winters multiplicativo,2015-06-01,entrenamiento,104893.0,
+Vía Aérea,Holt-Winters multiplicativo,2015-07-01,entrenamiento,106927.0,
+Vía Aérea,Holt-Winters multiplicativo,2015-08-01,entrenamiento,90600.0,
+Vía Aérea,Holt-Winters multiplicativo,2015-09-01,entrenamiento,82888.0,
+Vía Aérea,Holt-Winters multiplicativo,2015-10-01,entrenamiento,97243.0,
+Vía Aérea,Holt-Winters multiplicativo,2015-11-01,entrenamiento,110173.0,
+Vía Aérea,Holt-Winters multiplicativo,2015-12-01,entrenamiento,129751.0,
+Vía Aérea,Holt-Winters multiplicativo,2016-01-01,entrenamiento,109052.0,
+Vía Aérea,Holt-Winters multiplicativo,2016-02-01,entrenamiento,90944.0,
+Vía Aérea,Holt-Winters multiplicativo,2016-03-01,entrenamiento,117172.0,
+Vía Aérea,Holt-Winters multiplicativo,2016-04-01,entrenamiento,90938.0,
+Vía Aérea,Holt-Winters multiplicativo,2016-05-01,entrenamiento,96379.0,
+Vía Aérea,Holt-Winters multiplicativo,2016-06-01,entrenamiento,113143.0,
+Vía Aérea,Holt-Winters multiplicativo,2016-07-01,entrenamiento,130062.0,
+Vía Aérea,Holt-Winters multiplicativo,2016-08-01,entrenamiento,100986.0,
+Vía Aérea,Holt-Winters multiplicativo,2016-09-01,entrenamiento,80637.4,
+Vía Aérea,Holt-Winters multiplicativo,2016-10-01,entrenamiento,102214.0,
+Vía Aérea,Holt-Winters multiplicativo,2016-11-01,entrenamiento,111954.0,
+Vía Aérea,Holt-Winters multiplicativo,2016-12-01,entrenamiento,111842.0,
+Vía Aérea,Holt-Winters multiplicativo,2017-01-01,entrenamiento,99217.0,
+Vía Aérea,Holt-Winters multiplicativo,2017-02-01,entrenamiento,94604.0,
+Vía Aérea,Holt-Winters multiplicativo,2017-03-01,entrenamiento,106339.0,
+Vía Aérea,Holt-Winters multiplicativo,2017-04-01,entrenamiento,110230.0,
+Vía Aérea,Holt-Winters multiplicativo,2017-05-01,entrenamiento,89750.0,
+Vía Aérea,Holt-Winters multiplicativo,2017-06-01,entrenamiento,114128.0,
+Vía Aérea,Holt-Winters multiplicativo,2017-07-01,entrenamiento,134449.0,
+Vía Aérea,Holt-Winters multiplicativo,2017-08-01,entrenamiento,100536.0,
+Vía Aérea,Holt-Winters multiplicativo,2017-09-01,entrenamiento,91091.0,
+Vía Aérea,Holt-Winters multiplicativo,2017-10-01,entrenamiento,109105.0,
+Vía Aérea,Holt-Winters multiplicativo,2017-11-01,entrenamiento,121392.0,
+Vía Aérea,Holt-Winters multiplicativo,2017-12-01,entrenamiento,142949.0,
+Vía Aérea,Holt-Winters multiplicativo,2018-01-01,entrenamiento,117446.0,
+Vía Aérea,Holt-Winters multiplicativo,2018-02-01,entrenamiento,96337.0,
+Vía Aérea,Holt-Winters multiplicativo,2018-03-01,entrenamiento,124266.0,
+Vía Aérea,Holt-Winters multiplicativo,2018-04-01,entrenamiento,104951.0,
+Vía Aérea,Holt-Winters multiplicativo,2018-05-01,entrenamiento,103815.0,
+Vía Aérea,Holt-Winters multiplicativo,2018-06-01,entrenamiento,120718.0,
+Vía Aérea,Holt-Winters multiplicativo,2018-07-01,entrenamiento,134933.0,
+Vía Aérea,Holt-Winters multiplicativo,2018-08-01,entrenamiento,110568.0,
+Vía Aérea,Holt-Winters multiplicativo,2018-09-01,entrenamiento,94931.3,
+Vía Aérea,Holt-Winters multiplicativo,2018-10-01,entrenamiento,115004.0,
+Vía Aérea,Holt-Winters multiplicativo,2018-11-01,entrenamiento,135409.4,
+Vía Aérea,Holt-Winters multiplicativo,2018-12-01,entrenamiento,156607.4,
+Vía Aérea,Holt-Winters multiplicativo,2019-01-01,entrenamiento,126566.1,
+Vía Aérea,Holt-Winters multiplicativo,2019-02-01,entrenamiento,106574.1,
+Vía Aérea,Holt-Winters multiplicativo,2019-03-01,entrenamiento,118895.9,
+Vía Aérea,Holt-Winters multiplicativo,2019-04-01,entrenamiento,125310.0,
+Vía Aérea,Holt-Winters multiplicativo,2019-05-01,entrenamiento,109524.0,
+Vía Aérea,Holt-Winters multiplicativo,2019-06-01,entrenamiento,127605.0,
+Vía Aérea,Holt-Winters multiplicativo,2019-07-01,entrenamiento,138562.6,
+Vía Aérea,Holt-Winters multiplicativo,2019-08-01,entrenamiento,115045.0,
+Vía Aérea,Holt-Winters multiplicativo,2019-09-01,entrenamiento,101240.1,
+Vía Aérea,Holt-Winters multiplicativo,2019-10-01,entrenamiento,119129.0,
+Vía Aérea,Holt-Winters multiplicativo,2019-11-01,entrenamiento,137092.0,
+Vía Aérea,Holt-Winters multiplicativo,2019-12-01,entrenamiento,157842.0,
+Vía Aérea,Holt-Winters multiplicativo,2020-01-01,entrenamiento,130697.0,
+Vía Aérea,Holt-Winters multiplicativo,2020-02-01,entrenamiento,112886.0,
+Vía Aérea,Holt-Winters multiplicativo,2020-03-01,entrenamiento,54831.0,
+Vía Aérea,Holt-Winters multiplicativo,2020-04-01,entrenamiento,489.0,
+Vía Aérea,Holt-Winters multiplicativo,2020-05-01,entrenamiento,610.0,
+Vía Aérea,Holt-Winters multiplicativo,2020-06-01,entrenamiento,1418.0,
+Vía Aérea,Holt-Winters multiplicativo,2020-07-01,entrenamiento,1047.0,
+Vía Aérea,Holt-Winters multiplicativo,2020-08-01,entrenamiento,1259.0,
+Vía Aérea,Holt-Winters multiplicativo,2020-09-01,entrenamiento,5606.0,
+Vía Aérea,Holt-Winters multiplicativo,2020-10-01,entrenamiento,9474.7,
+Vía Aérea,Holt-Winters multiplicativo,2020-11-01,entrenamiento,38994.0,
+Vía Aérea,Holt-Winters multiplicativo,2020-12-01,entrenamiento,53717.0,
+Vía Aérea,Holt-Winters multiplicativo,2021-01-01,entrenamiento,43648.0,
+Vía Aérea,Holt-Winters multiplicativo,2021-02-01,entrenamiento,28784.0,
+Vía Aérea,Holt-Winters multiplicativo,2021-03-01,entrenamiento,60160.4,
+Vía Aérea,Holt-Winters multiplicativo,2021-04-01,prueba,34541.7,53443.0
+Vía Aérea,Holt-Winters multiplicativo,2021-05-01,prueba,59518.0,48711.6
+Vía Aérea,Holt-Winters multiplicativo,2021-06-01,prueba,75987.0,59179.1
+Vía Aérea,Holt-Winters multiplicativo,2021-07-01,prueba,71180.0,65113.2
+Vía Aérea,Holt-Winters multiplicativo,2021-08-01,prueba,55680.0,52636.4
+Vía Aérea,Holt-Winters multiplicativo,2021-09-01,prueba,46048.0,45224.1
+Vía Aérea,Holt-Winters multiplicativo,2021-10-01,prueba,53420.0,53759.0
+Vía Aérea,Holt-Winters multiplicativo,2021-11-01,prueba,72673.0,61395.4
+Vía Aérea,Holt-Winters multiplicativo,2021-12-01,prueba,122254.0,71560.9
+Vía Aérea,Holt-Winters multiplicativo,2022-01-01,prueba,97752.0,58714.6
+Vía Aérea,Holt-Winters multiplicativo,2022-02-01,prueba,84575.0,49986.9
+Vía Aérea,Holt-Winters multiplicativo,2022-03-01,prueba,106141.0,55584.2
+Vía Aérea,Holt-Winters multiplicativo,2022-04-01,prueba,124782.0,49377.8
+Vía Aérea,Holt-Winters multiplicativo,2022-05-01,prueba,111839.0,45006.3
+Vía Aérea,Holt-Winters multiplicativo,2022-06-01,prueba,125316.0,54677.6
+Vía Aérea,Holt-Winters multiplicativo,2022-07-01,prueba,131458.0,60160.3
+Vía Aérea,Holt-Winters multiplicativo,2022-08-01,prueba,108896.0,48632.5
+Vía Aérea,Holt-Winters multiplicativo,2022-09-01,prueba,103209.0,41784.1
+Vía Aérea,Holt-Winters multiplicativo,2022-10-01,prueba,122939.0,49669.7
+Vía Aérea,Holt-Winters multiplicativo,2022-11-01,prueba,131410.0,56725.2
+Vía Aérea,Holt-Winters multiplicativo,2022-12-01,prueba,158463.0,66117.5
+Vía Aérea,Holt-Winters multiplicativo,2023-01-01,prueba,76401.0,54248.4
+Vía Aérea,Holt-Winters multiplicativo,2023-02-01,prueba,75406.0,46184.6
+Vía Aérea,Holt-Winters multiplicativo,2023-03-01,prueba,92733.0,51356.1
+Vía Aérea,Holt-Winters multiplicativo,2023-04-01,prueba,79354.0,45621.8
+Vía Aérea,Holt-Winters multiplicativo,2023-05-01,prueba,71802.0,41582.8
+Vía Aérea,Holt-Winters multiplicativo,2023-06-01,prueba,87780.0,50518.5
+Vía Aérea,Holt-Winters multiplicativo,2023-07-01,prueba,99032.0,55584.1
+Vía Aérea,Holt-Winters multiplicativo,2023-08-01,prueba,79152.0,44933.2
+Vía Aérea,Holt-Winters multiplicativo,2023-09-01,prueba,67306.0,38605.7
+Vía Aérea,Holt-Winters multiplicativo,2023-10-01,prueba,59326.0,45891.5
+Vía Aérea,Holt-Winters multiplicativo,2023-11-01,prueba,89140.0,52410.4
+Vía Aérea,Holt-Winters multiplicativo,2023-12-01,prueba,108408.0,61088.2
+Vía Aérea,Holt-Winters multiplicativo,2024-01-01,prueba,96039.0,50121.9
+Vía Aérea,Holt-Winters multiplicativo,2024-02-01,prueba,98871.0,42671.5
+Vía Aérea,Holt-Winters multiplicativo,2024-03-01,prueba,108491.0,47449.7
+Vía Aérea,Holt-Winters multiplicativo,2024-04-01,prueba,87857.0,42151.5
+Vía Aérea,Holt-Winters multiplicativo,2024-05-01,prueba,87997.0,38419.8
+Vía Aérea,Holt-Winters multiplicativo,2024-06-01,prueba,104464.0,46675.7
+Vía Aérea,Holt-Winters multiplicativo,2024-07-01,prueba,110379.0,51356.1
+Vía Aérea,Holt-Winters multiplicativo,2024-08-01,prueba,88635.0,41515.3
+Vía Aérea,Holt-Winters multiplicativo,2024-09-01,prueba,69269.0,35669.1
+Vía Aérea,Holt-Winters multiplicativo,2024-10-01,prueba,81187.0,42400.7
+Vía Aérea,Holt-Winters multiplicativo,2024-11-01,prueba,97137.0,48423.7
+Vía Aérea,Holt-Winters multiplicativo,2024-12-01,prueba,113027.0,56441.4
+Vía Aérea,Holt-Winters multiplicativo,2025-01-01,prueba,101124.0,46309.3
+Vía Aérea,Holt-Winters multiplicativo,2025-02-01,prueba,92703.0,39425.6
+Vía Aérea,Holt-Winters multiplicativo,2025-03-01,prueba,107244.0,43840.4
+Vía Aérea,Holt-Winters multiplicativo,2025-04-01,prueba,93466.0,38945.2
+Vía Aérea,Holt-Winters multiplicativo,2025-05-01,prueba,87753.0,35497.3
+Vía Aérea,Holt-Winters multiplicativo,2025-06-01,prueba,99411.0,43125.3
+Vía Aérea,Holt-Winters multiplicativo,2025-07-01,prueba,117361.0,47449.6
+Vía Aérea,Holt-Winters multiplicativo,2025-08-01,prueba,90643.0,38357.4
+Vía Aérea,Holt-Winters multiplicativo,2025-09-01,prueba,70416.0,32955.9
+Vía Aérea,Holt-Winters multiplicativo,2025-10-01,prueba,90000.0,39175.5
+Vía Aérea,Holt-Winters multiplicativo,2025-11-01,prueba,111567.0,44740.3
+Vía Aérea,Holt-Winters multiplicativo,2025-12-01,prueba,127283.0,52148.1
+Vía Aérea,Holt-Winters multiplicativo,2026-01-01,prueba,113435.0,42786.8
+Vía Aérea,Holt-Winters multiplicativo,2026-02-01,prueba,106821.0,36426.7
+Vía Aérea,Holt-Winters multiplicativo,2026-03-01,prueba,127540.0,40505.6
+Vía Aérea,Holt-Winters multiplicativo,2026-04-01,prueba,102029.0,35982.8
+Vía Aérea,Holt-Winters multiplicativo,2026-05-01,prueba,95804.0,32797.2
+Vía Aérea,Holt-Winters multiplicativo,2026-06-01,prueba,98211.0,39844.9
+Vía Terrestre,Suavizamiento exponencial,2009-01-01,entrenamiento,88433.6,
+Vía Terrestre,Suavizamiento exponencial,2009-02-01,entrenamiento,67653.3,
+Vía Terrestre,Suavizamiento exponencial,2009-03-01,entrenamiento,78221.2,
+Vía Terrestre,Suavizamiento exponencial,2009-04-01,entrenamiento,92934.5,
+Vía Terrestre,Suavizamiento exponencial,2009-05-01,entrenamiento,62056.7,
+Vía Terrestre,Suavizamiento exponencial,2009-06-01,entrenamiento,73950.1,
+Vía Terrestre,Suavizamiento exponencial,2009-07-01,entrenamiento,64156.3,
+Vía Terrestre,Suavizamiento exponencial,2009-08-01,entrenamiento,104657.2,
+Vía Terrestre,Suavizamiento exponencial,2009-09-01,entrenamiento,73045.2,
+Vía Terrestre,Suavizamiento exponencial,2009-10-01,entrenamiento,83030.0,
+Vía Terrestre,Suavizamiento exponencial,2009-11-01,entrenamiento,93790.2,
+Vía Terrestre,Suavizamiento exponencial,2009-12-01,entrenamiento,117764.6,
+Vía Terrestre,Suavizamiento exponencial,2010-01-01,entrenamiento,99582.0,
+Vía Terrestre,Suavizamiento exponencial,2010-02-01,entrenamiento,76014.6,
+Vía Terrestre,Suavizamiento exponencial,2010-03-01,entrenamiento,77503.8,
+Vía Terrestre,Suavizamiento exponencial,2010-04-01,entrenamiento,96497.1,
+Vía Terrestre,Suavizamiento exponencial,2010-05-01,entrenamiento,79094.5,
+Vía Terrestre,Suavizamiento exponencial,2010-06-01,entrenamiento,74888.5,
+Vía Terrestre,Suavizamiento exponencial,2010-07-01,entrenamiento,99950.9,
+Vía Terrestre,Suavizamiento exponencial,2010-08-01,entrenamiento,106249.4,
+Vía Terrestre,Suavizamiento exponencial,2010-09-01,entrenamiento,70280.9,
+Vía Terrestre,Suavizamiento exponencial,2010-10-01,entrenamiento,84744.5,
+Vía Terrestre,Suavizamiento exponencial,2010-11-01,entrenamiento,97709.1,
+Vía Terrestre,Suavizamiento exponencial,2010-12-01,entrenamiento,130987.5,
+Vía Terrestre,Suavizamiento exponencial,2011-01-01,entrenamiento,110644.6,
+Vía Terrestre,Suavizamiento exponencial,2011-02-01,entrenamiento,83028.8,
+Vía Terrestre,Suavizamiento exponencial,2011-03-01,entrenamiento,96708.3,
+Vía Terrestre,Suavizamiento exponencial,2011-04-01,entrenamiento,117307.7,
+Vía Terrestre,Suavizamiento exponencial,2011-05-01,entrenamiento,80830.3,
+Vía Terrestre,Suavizamiento exponencial,2011-06-01,entrenamiento,85376.4,
+Vía Terrestre,Suavizamiento exponencial,2011-07-01,entrenamiento,105386.7,
+Vía Terrestre,Suavizamiento exponencial,2011-08-01,entrenamiento,98679.7,
+Vía Terrestre,Suavizamiento exponencial,2011-09-01,entrenamiento,78462.7,
+Vía Terrestre,Suavizamiento exponencial,2011-10-01,entrenamiento,83193.9,
+Vía Terrestre,Suavizamiento exponencial,2011-11-01,entrenamiento,104176.5,
+Vía Terrestre,Suavizamiento exponencial,2011-12-01,entrenamiento,146377.5,
+Vía Terrestre,Suavizamiento exponencial,2012-01-01,entrenamiento,122517.3,
+Vía Terrestre,Suavizamiento exponencial,2012-02-01,entrenamiento,92607.3,
+Vía Terrestre,Suavizamiento exponencial,2012-03-01,entrenamiento,106344.1,
+Vía Terrestre,Suavizamiento exponencial,2012-04-01,entrenamiento,110443.7,
+Vía Terrestre,Suavizamiento exponencial,2012-05-01,entrenamiento,83234.5,
+Vía Terrestre,Suavizamiento exponencial,2012-06-01,entrenamiento,90624.5,
+Vía Terrestre,Suavizamiento exponencial,2012-07-01,entrenamiento,105841.7,
+Vía Terrestre,Suavizamiento exponencial,2012-08-01,entrenamiento,100145.5,
+Vía Terrestre,Suavizamiento exponencial,2012-09-01,entrenamiento,85070.6,
+Vía Terrestre,Suavizamiento exponencial,2012-10-01,entrenamiento,95987.0,
+Vía Terrestre,Suavizamiento exponencial,2012-11-01,entrenamiento,110323.8,
+Vía Terrestre,Suavizamiento exponencial,2012-12-01,entrenamiento,140017.7,
+Vía Terrestre,Suavizamiento exponencial,2013-01-01,entrenamiento,105415.5,
+Vía Terrestre,Suavizamiento exponencial,2013-02-01,entrenamiento,79327.1,
+Vía Terrestre,Suavizamiento exponencial,2013-03-01,entrenamiento,131636.6,
+Vía Terrestre,Suavizamiento exponencial,2013-04-01,entrenamiento,109751.5,
+Vía Terrestre,Suavizamiento exponencial,2013-05-01,entrenamiento,112853.6,
+Vía Terrestre,Suavizamiento exponencial,2013-06-01,entrenamiento,113399.4,
+Vía Terrestre,Suavizamiento exponencial,2013-07-01,entrenamiento,118956.6,
+Vía Terrestre,Suavizamiento exponencial,2013-08-01,entrenamiento,120963.6,
+Vía Terrestre,Suavizamiento exponencial,2013-09-01,entrenamiento,100119.3,
+Vía Terrestre,Suavizamiento exponencial,2013-10-01,entrenamiento,91060.0,
+Vía Terrestre,Suavizamiento exponencial,2013-11-01,entrenamiento,113120.4,
+Vía Terrestre,Suavizamiento exponencial,2013-12-01,entrenamiento,153846.3,
+Vía Terrestre,Suavizamiento exponencial,2014-01-01,entrenamiento,130524.5,
+Vía Terrestre,Suavizamiento exponencial,2014-02-01,entrenamiento,96035.8,
+Vía Terrestre,Suavizamiento exponencial,2014-03-01,entrenamiento,110207.7,
+Vía Terrestre,Suavizamiento exponencial,2014-04-01,entrenamiento,140647.9,
+Vía Terrestre,Suavizamiento exponencial,2014-05-01,entrenamiento,112244.5,
+Vía Terrestre,Suavizamiento exponencial,2014-06-01,entrenamiento,102404.3,
+Vía Terrestre,Suavizamiento exponencial,2014-07-01,entrenamiento,135567.7,
+Vía Terrestre,Suavizamiento exponencial,2014-08-01,entrenamiento,140100.8,
+Vía Terrestre,Suavizamiento exponencial,2014-09-01,entrenamiento,116394.1,
+Vía Terrestre,Suavizamiento exponencial,2014-10-01,entrenamiento,139647.0,
+Vía Terrestre,Suavizamiento exponencial,2014-11-01,entrenamiento,153726.3,
+Vía Terrestre,Suavizamiento exponencial,2014-12-01,entrenamiento,208891.3,
+Vía Terrestre,Suavizamiento exponencial,2015-01-01,entrenamiento,151017.0,
+Vía Terrestre,Suavizamiento exponencial,2015-02-01,entrenamiento,119584.5,
+Vía Terrestre,Suavizamiento exponencial,2015-03-01,entrenamiento,154233.3,
+Vía Terrestre,Suavizamiento exponencial,2015-04-01,entrenamiento,162185.5,
+Vía Terrestre,Suavizamiento exponencial,2015-05-01,entrenamiento,145065.3,
+Vía Terrestre,Suavizamiento exponencial,2015-06-01,entrenamiento,145426.0,
+Vía Terrestre,Suavizamiento exponencial,2015-07-01,entrenamiento,148254.0,
+Vía Terrestre,Suavizamiento exponencial,2015-08-01,entrenamiento,162197.5,
+Vía Terrestre,Suavizamiento exponencial,2015-09-01,entrenamiento,125454.5,
+Vía Terrestre,Suavizamiento exponencial,2015-10-01,entrenamiento,134550.0,
+Vía Terrestre,Suavizamiento exponencial,2015-11-01,entrenamiento,136006.5,
+Vía Terrestre,Suavizamiento exponencial,2015-12-01,entrenamiento,201180.5,
+Vía Terrestre,Suavizamiento exponencial,2016-01-01,entrenamiento,161286.0,
+Vía Terrestre,Suavizamiento exponencial,2016-02-01,entrenamiento,131966.0,
+Vía Terrestre,Suavizamiento exponencial,2016-03-01,entrenamiento,215678.0,
+Vía Terrestre,Suavizamiento exponencial,2016-04-01,entrenamiento,145473.0,
+Vía Terrestre,Suavizamiento exponencial,2016-05-01,entrenamiento,151184.0,
+Vía Terrestre,Suavizamiento exponencial,2016-06-01,entrenamiento,153559.7,
+Vía Terrestre,Suavizamiento exponencial,2016-07-01,entrenamiento,176601.8,
+Vía Terrestre,Suavizamiento exponencial,2016-08-01,entrenamiento,196150.0,
+Vía Terrestre,Suavizamiento exponencial,2016-09-01,entrenamiento,133966.0,
+Vía Terrestre,Suavizamiento exponencial,2016-10-01,entrenamiento,194459.0,
+Vía Terrestre,Suavizamiento exponencial,2016-11-01,entrenamiento,197750.0,
+Vía Terrestre,Suavizamiento exponencial,2016-12-01,entrenamiento,268530.0,
+Vía Terrestre,Suavizamiento exponencial,2017-01-01,entrenamiento,209585.2,
+Vía Terrestre,Suavizamiento exponencial,2017-02-01,entrenamiento,169373.9,
+Vía Terrestre,Suavizamiento exponencial,2017-03-01,entrenamiento,222174.4,
+Vía Terrestre,Suavizamiento exponencial,2017-04-01,entrenamiento,267606.9,
+Vía Terrestre,Suavizamiento exponencial,2017-05-01,entrenamiento,184953.4,
+Vía Terrestre,Suavizamiento exponencial,2017-06-01,entrenamiento,184630.8,
+Vía Terrestre,Suavizamiento exponencial,2017-07-01,entrenamiento,223014.6,
+Vía Terrestre,Suavizamiento exponencial,2017-08-01,entrenamiento,299583.0,
+Vía Terrestre,Suavizamiento exponencial,2017-09-01,entrenamiento,148682.3,
+Vía Terrestre,Suavizamiento exponencial,2017-10-01,entrenamiento,153283.1,
+Vía Terrestre,Suavizamiento exponencial,2017-11-01,entrenamiento,179948.2,
+Vía Terrestre,Suavizamiento exponencial,2017-12-01,entrenamiento,235771.5,
+Vía Terrestre,Suavizamiento exponencial,2018-01-01,entrenamiento,209981.9,
+Vía Terrestre,Suavizamiento exponencial,2018-02-01,entrenamiento,174295.4,
+Vía Terrestre,Suavizamiento exponencial,2018-03-01,entrenamiento,293194.0,
+Vía Terrestre,Suavizamiento exponencial,2018-04-01,entrenamiento,266163.7,
+Vía Terrestre,Suavizamiento exponencial,2018-05-01,entrenamiento,191168.8,
+Vía Terrestre,Suavizamiento exponencial,2018-06-01,entrenamiento,221271.8,
+Vía Terrestre,Suavizamiento exponencial,2018-07-01,entrenamiento,224387.8,
+Vía Terrestre,Suavizamiento exponencial,2018-08-01,entrenamiento,267340.8,
+Vía Terrestre,Suavizamiento exponencial,2018-09-01,entrenamiento,190994.8,
+Vía Terrestre,Suavizamiento exponencial,2018-10-01,entrenamiento,184907.3,
+Vía Terrestre,Suavizamiento exponencial,2018-11-01,entrenamiento,193633.2,
+Vía Terrestre,Suavizamiento exponencial,2018-12-01,entrenamiento,273631.2,
+Vía Terrestre,Suavizamiento exponencial,2019-01-01,entrenamiento,258991.1,
+Vía Terrestre,Suavizamiento exponencial,2019-02-01,entrenamiento,201808.5,
+Vía Terrestre,Suavizamiento exponencial,2019-03-01,entrenamiento,259346.2,
+Vía Terrestre,Suavizamiento exponencial,2019-04-01,entrenamiento,295423.0,
+Vía Terrestre,Suavizamiento exponencial,2019-05-01,entrenamiento,211322.7,
+Vía Terrestre,Suavizamiento exponencial,2019-06-01,entrenamiento,233118.6,
+Vía Terrestre,Suavizamiento exponencial,2019-07-01,entrenamiento,284020.6,
+Vía Terrestre,Suavizamiento exponencial,2019-08-01,entrenamiento,320111.2,
+Vía Terrestre,Suavizamiento exponencial,2019-09-01,entrenamiento,223844.5,
+Vía Terrestre,Suavizamiento exponencial,2019-10-01,entrenamiento,197089.6,
+Vía Terrestre,Suavizamiento exponencial,2019-11-01,entrenamiento,243942.9,
+Vía Terrestre,Suavizamiento exponencial,2019-12-01,entrenamiento,348626.4,
+Vía Terrestre,Suavizamiento exponencial,2020-01-01,entrenamiento,316015.2,
+Vía Terrestre,Suavizamiento exponencial,2020-02-01,entrenamiento,259956.6,
+Vía Terrestre,Suavizamiento exponencial,2020-03-01,entrenamiento,115494.3,
+Vía Terrestre,Suavizamiento exponencial,2020-04-01,entrenamiento,9550.0,
+Vía Terrestre,Suavizamiento exponencial,2020-05-01,entrenamiento,9169.0,
+Vía Terrestre,Suavizamiento exponencial,2020-06-01,entrenamiento,10399.0,
+Vía Terrestre,Suavizamiento exponencial,2020-07-01,entrenamiento,12437.0,
+Vía Terrestre,Suavizamiento exponencial,2020-08-01,entrenamiento,14098.0,
+Vía Terrestre,Suavizamiento exponencial,2020-09-01,entrenamiento,19783.5,
+Vía Terrestre,Suavizamiento exponencial,2020-10-01,entrenamiento,21063.8,
+Vía Terrestre,Suavizamiento exponencial,2020-11-01,entrenamiento,19638.0,
+Vía Terrestre,Suavizamiento exponencial,2020-12-01,entrenamiento,5715.0,
+Vía Terrestre,Suavizamiento exponencial,2021-01-01,entrenamiento,60972.0,
+Vía Terrestre,Suavizamiento exponencial,2021-02-01,entrenamiento,36679.0,
+Vía Terrestre,Suavizamiento exponencial,2021-03-01,entrenamiento,44984.6,
+Vía Terrestre,Suavizamiento exponencial,2021-04-01,prueba,47526.2,42763.2
+Vía Terrestre,Suavizamiento exponencial,2021-05-01,prueba,20456.0,42763.2
+Vía Terrestre,Suavizamiento exponencial,2021-06-01,prueba,30449.0,42763.2
+Vía Terrestre,Suavizamiento exponencial,2021-07-01,prueba,37165.7,42763.2
+Vía Terrestre,Suavizamiento exponencial,2021-08-01,prueba,27571.0,42763.2
+Vía Terrestre,Suavizamiento exponencial,2021-09-01,prueba,28866.0,42763.2
+Vía Terrestre,Suavizamiento exponencial,2021-10-01,prueba,40325.0,42763.2
+Vía Terrestre,Suavizamiento exponencial,2021-11-01,prueba,42922.2,42763.2
+Vía Terrestre,Suavizamiento exponencial,2021-12-01,prueba,122049.0,42763.2
+Vía Terrestre,Suavizamiento exponencial,2022-01-01,prueba,53281.0,42763.2
+Vía Terrestre,Suavizamiento exponencial,2022-02-01,prueba,147175.4,42763.2
+Vía Terrestre,Suavizamiento exponencial,2022-03-01,prueba,189137.0,42763.2
+Vía Terrestre,Suavizamiento exponencial,2022-04-01,prueba,258094.0,42763.2
+Vía Terrestre,Suavizamiento exponencial,2022-05-01,prueba,243664.0,42763.2
+Vía Terrestre,Suavizamiento exponencial,2022-06-01,prueba,234967.0,42763.2
+Vía Terrestre,Suavizamiento exponencial,2022-07-01,prueba,266315.0,42763.2
+Vía Terrestre,Suavizamiento exponencial,2022-08-01,prueba,290297.0,42763.2
+Vía Terrestre,Suavizamiento exponencial,2022-09-01,prueba,245409.0,42763.2
+Vía Terrestre,Suavizamiento exponencial,2022-10-01,prueba,281801.0,42763.2
+Vía Terrestre,Suavizamiento exponencial,2022-11-01,prueba,315529.0,42763.2
+Vía Terrestre,Suavizamiento exponencial,2022-12-01,prueba,357685.0,42763.2
+Vía Terrestre,Suavizamiento exponencial,2023-01-01,prueba,214430.0,42763.2
+Vía Terrestre,Suavizamiento exponencial,2023-02-01,prueba,145396.0,42763.2
+Vía Terrestre,Suavizamiento exponencial,2023-03-01,prueba,186352.0,42763.2
+Vía Terrestre,Suavizamiento exponencial,2023-04-01,prueba,226626.0,42763.2
+Vía Terrestre,Suavizamiento exponencial,2023-05-01,prueba,166906.0,42763.2
+Vía Terrestre,Suavizamiento exponencial,2023-06-01,prueba,164892.0,42763.2
+Vía Terrestre,Suavizamiento exponencial,2023-07-01,prueba,175497.0,42763.2
+Vía Terrestre,Suavizamiento exponencial,2023-08-01,prueba,213118.0,42763.2
+Vía Terrestre,Suavizamiento exponencial,2023-09-01,prueba,180017.0,42763.2
+Vía Terrestre,Suavizamiento exponencial,2023-10-01,prueba,131699.0,42763.2
+Vía Terrestre,Suavizamiento exponencial,2023-11-01,prueba,194407.0,42763.2
+Vía Terrestre,Suavizamiento exponencial,2023-12-01,prueba,256912.0,42763.2
+Vía Terrestre,Suavizamiento exponencial,2024-01-01,prueba,236880.0,42763.2
+Vía Terrestre,Suavizamiento exponencial,2024-02-01,prueba,195024.0,42763.2
+Vía Terrestre,Suavizamiento exponencial,2024-03-01,prueba,240757.0,42763.2
+Vía Terrestre,Suavizamiento exponencial,2024-04-01,prueba,176774.0,42763.2
+Vía Terrestre,Suavizamiento exponencial,2024-05-01,prueba,177469.0,42763.2
+Vía Terrestre,Suavizamiento exponencial,2024-06-01,prueba,157594.0,42763.2
+Vía Terrestre,Suavizamiento exponencial,2024-07-01,prueba,184561.0,42763.2
+Vía Terrestre,Suavizamiento exponencial,2024-08-01,prueba,223302.0,42763.2
+Vía Terrestre,Suavizamiento exponencial,2024-09-01,prueba,170232.0,42763.2
+Vía Terrestre,Suavizamiento exponencial,2024-10-01,prueba,189998.0,42763.2
+Vía Terrestre,Suavizamiento exponencial,2024-11-01,prueba,221084.0,42763.2
+Vía Terrestre,Suavizamiento exponencial,2024-12-01,prueba,270243.0,42763.2
+Vía Terrestre,Suavizamiento exponencial,2025-01-01,prueba,204869.0,42763.2
+Vía Terrestre,Suavizamiento exponencial,2025-02-01,prueba,175050.0,42763.2
+Vía Terrestre,Suavizamiento exponencial,2025-03-01,prueba,192070.0,42763.2
+Vía Terrestre,Suavizamiento exponencial,2025-04-01,prueba,226671.0,42763.2
+Vía Terrestre,Suavizamiento exponencial,2025-05-01,prueba,181986.0,42763.2
+Vía Terrestre,Suavizamiento exponencial,2025-06-01,prueba,173923.0,42763.2
+Vía Terrestre,Suavizamiento exponencial,2025-07-01,prueba,189324.0,42763.2
+Vía Terrestre,Suavizamiento exponencial,2025-08-01,prueba,224363.0,42763.2
+Vía Terrestre,Suavizamiento exponencial,2025-09-01,prueba,165691.0,42763.2
+Vía Terrestre,Suavizamiento exponencial,2025-10-01,prueba,186906.0,42763.2
+Vía Terrestre,Suavizamiento exponencial,2025-11-01,prueba,216330.0,42763.2
+Vía Terrestre,Suavizamiento exponencial,2025-12-01,prueba,264140.0,42763.2
+Vía Terrestre,Suavizamiento exponencial,2026-01-01,prueba,205027.0,42763.2
+Vía Terrestre,Suavizamiento exponencial,2026-02-01,prueba,146469.0,42763.2
+Vía Terrestre,Suavizamiento exponencial,2026-03-01,prueba,183014.0,42763.2
+Vía Terrestre,Suavizamiento exponencial,2026-04-01,prueba,175450.0,42763.2
+Vía Terrestre,Suavizamiento exponencial,2026-05-01,prueba,164259.0,42763.2
+Vía Terrestre,Suavizamiento exponencial,2026-06-01,prueba,160604.0,42763.2
+Vía Terrestre,"ARIMA(1,1,1)",2009-01-01,entrenamiento,88433.6,
+Vía Terrestre,"ARIMA(1,1,1)",2009-02-01,entrenamiento,67653.3,
+Vía Terrestre,"ARIMA(1,1,1)",2009-03-01,entrenamiento,78221.2,
+Vía Terrestre,"ARIMA(1,1,1)",2009-04-01,entrenamiento,92934.5,
+Vía Terrestre,"ARIMA(1,1,1)",2009-05-01,entrenamiento,62056.7,
+Vía Terrestre,"ARIMA(1,1,1)",2009-06-01,entrenamiento,73950.1,
+Vía Terrestre,"ARIMA(1,1,1)",2009-07-01,entrenamiento,64156.3,
+Vía Terrestre,"ARIMA(1,1,1)",2009-08-01,entrenamiento,104657.2,
+Vía Terrestre,"ARIMA(1,1,1)",2009-09-01,entrenamiento,73045.2,
+Vía Terrestre,"ARIMA(1,1,1)",2009-10-01,entrenamiento,83030.0,
+Vía Terrestre,"ARIMA(1,1,1)",2009-11-01,entrenamiento,93790.2,
+Vía Terrestre,"ARIMA(1,1,1)",2009-12-01,entrenamiento,117764.6,
+Vía Terrestre,"ARIMA(1,1,1)",2010-01-01,entrenamiento,99582.0,
+Vía Terrestre,"ARIMA(1,1,1)",2010-02-01,entrenamiento,76014.6,
+Vía Terrestre,"ARIMA(1,1,1)",2010-03-01,entrenamiento,77503.8,
+Vía Terrestre,"ARIMA(1,1,1)",2010-04-01,entrenamiento,96497.1,
+Vía Terrestre,"ARIMA(1,1,1)",2010-05-01,entrenamiento,79094.5,
+Vía Terrestre,"ARIMA(1,1,1)",2010-06-01,entrenamiento,74888.5,
+Vía Terrestre,"ARIMA(1,1,1)",2010-07-01,entrenamiento,99950.9,
+Vía Terrestre,"ARIMA(1,1,1)",2010-08-01,entrenamiento,106249.4,
+Vía Terrestre,"ARIMA(1,1,1)",2010-09-01,entrenamiento,70280.9,
+Vía Terrestre,"ARIMA(1,1,1)",2010-10-01,entrenamiento,84744.5,
+Vía Terrestre,"ARIMA(1,1,1)",2010-11-01,entrenamiento,97709.1,
+Vía Terrestre,"ARIMA(1,1,1)",2010-12-01,entrenamiento,130987.5,
+Vía Terrestre,"ARIMA(1,1,1)",2011-01-01,entrenamiento,110644.6,
+Vía Terrestre,"ARIMA(1,1,1)",2011-02-01,entrenamiento,83028.8,
+Vía Terrestre,"ARIMA(1,1,1)",2011-03-01,entrenamiento,96708.3,
+Vía Terrestre,"ARIMA(1,1,1)",2011-04-01,entrenamiento,117307.7,
+Vía Terrestre,"ARIMA(1,1,1)",2011-05-01,entrenamiento,80830.3,
+Vía Terrestre,"ARIMA(1,1,1)",2011-06-01,entrenamiento,85376.4,
+Vía Terrestre,"ARIMA(1,1,1)",2011-07-01,entrenamiento,105386.7,
+Vía Terrestre,"ARIMA(1,1,1)",2011-08-01,entrenamiento,98679.7,
+Vía Terrestre,"ARIMA(1,1,1)",2011-09-01,entrenamiento,78462.7,
+Vía Terrestre,"ARIMA(1,1,1)",2011-10-01,entrenamiento,83193.9,
+Vía Terrestre,"ARIMA(1,1,1)",2011-11-01,entrenamiento,104176.5,
+Vía Terrestre,"ARIMA(1,1,1)",2011-12-01,entrenamiento,146377.5,
+Vía Terrestre,"ARIMA(1,1,1)",2012-01-01,entrenamiento,122517.3,
+Vía Terrestre,"ARIMA(1,1,1)",2012-02-01,entrenamiento,92607.3,
+Vía Terrestre,"ARIMA(1,1,1)",2012-03-01,entrenamiento,106344.1,
+Vía Terrestre,"ARIMA(1,1,1)",2012-04-01,entrenamiento,110443.7,
+Vía Terrestre,"ARIMA(1,1,1)",2012-05-01,entrenamiento,83234.5,
+Vía Terrestre,"ARIMA(1,1,1)",2012-06-01,entrenamiento,90624.5,
+Vía Terrestre,"ARIMA(1,1,1)",2012-07-01,entrenamiento,105841.7,
+Vía Terrestre,"ARIMA(1,1,1)",2012-08-01,entrenamiento,100145.5,
+Vía Terrestre,"ARIMA(1,1,1)",2012-09-01,entrenamiento,85070.6,
+Vía Terrestre,"ARIMA(1,1,1)",2012-10-01,entrenamiento,95987.0,
+Vía Terrestre,"ARIMA(1,1,1)",2012-11-01,entrenamiento,110323.8,
+Vía Terrestre,"ARIMA(1,1,1)",2012-12-01,entrenamiento,140017.7,
+Vía Terrestre,"ARIMA(1,1,1)",2013-01-01,entrenamiento,105415.5,
+Vía Terrestre,"ARIMA(1,1,1)",2013-02-01,entrenamiento,79327.1,
+Vía Terrestre,"ARIMA(1,1,1)",2013-03-01,entrenamiento,131636.6,
+Vía Terrestre,"ARIMA(1,1,1)",2013-04-01,entrenamiento,109751.5,
+Vía Terrestre,"ARIMA(1,1,1)",2013-05-01,entrenamiento,112853.6,
+Vía Terrestre,"ARIMA(1,1,1)",2013-06-01,entrenamiento,113399.4,
+Vía Terrestre,"ARIMA(1,1,1)",2013-07-01,entrenamiento,118956.6,
+Vía Terrestre,"ARIMA(1,1,1)",2013-08-01,entrenamiento,120963.6,
+Vía Terrestre,"ARIMA(1,1,1)",2013-09-01,entrenamiento,100119.3,
+Vía Terrestre,"ARIMA(1,1,1)",2013-10-01,entrenamiento,91060.0,
+Vía Terrestre,"ARIMA(1,1,1)",2013-11-01,entrenamiento,113120.4,
+Vía Terrestre,"ARIMA(1,1,1)",2013-12-01,entrenamiento,153846.3,
+Vía Terrestre,"ARIMA(1,1,1)",2014-01-01,entrenamiento,130524.5,
+Vía Terrestre,"ARIMA(1,1,1)",2014-02-01,entrenamiento,96035.8,
+Vía Terrestre,"ARIMA(1,1,1)",2014-03-01,entrenamiento,110207.7,
+Vía Terrestre,"ARIMA(1,1,1)",2014-04-01,entrenamiento,140647.9,
+Vía Terrestre,"ARIMA(1,1,1)",2014-05-01,entrenamiento,112244.5,
+Vía Terrestre,"ARIMA(1,1,1)",2014-06-01,entrenamiento,102404.3,
+Vía Terrestre,"ARIMA(1,1,1)",2014-07-01,entrenamiento,135567.7,
+Vía Terrestre,"ARIMA(1,1,1)",2014-08-01,entrenamiento,140100.8,
+Vía Terrestre,"ARIMA(1,1,1)",2014-09-01,entrenamiento,116394.1,
+Vía Terrestre,"ARIMA(1,1,1)",2014-10-01,entrenamiento,139647.0,
+Vía Terrestre,"ARIMA(1,1,1)",2014-11-01,entrenamiento,153726.3,
+Vía Terrestre,"ARIMA(1,1,1)",2014-12-01,entrenamiento,208891.3,
+Vía Terrestre,"ARIMA(1,1,1)",2015-01-01,entrenamiento,151017.0,
+Vía Terrestre,"ARIMA(1,1,1)",2015-02-01,entrenamiento,119584.5,
+Vía Terrestre,"ARIMA(1,1,1)",2015-03-01,entrenamiento,154233.3,
+Vía Terrestre,"ARIMA(1,1,1)",2015-04-01,entrenamiento,162185.5,
+Vía Terrestre,"ARIMA(1,1,1)",2015-05-01,entrenamiento,145065.3,
+Vía Terrestre,"ARIMA(1,1,1)",2015-06-01,entrenamiento,145426.0,
+Vía Terrestre,"ARIMA(1,1,1)",2015-07-01,entrenamiento,148254.0,
+Vía Terrestre,"ARIMA(1,1,1)",2015-08-01,entrenamiento,162197.5,
+Vía Terrestre,"ARIMA(1,1,1)",2015-09-01,entrenamiento,125454.5,
+Vía Terrestre,"ARIMA(1,1,1)",2015-10-01,entrenamiento,134550.0,
+Vía Terrestre,"ARIMA(1,1,1)",2015-11-01,entrenamiento,136006.5,
+Vía Terrestre,"ARIMA(1,1,1)",2015-12-01,entrenamiento,201180.5,
+Vía Terrestre,"ARIMA(1,1,1)",2016-01-01,entrenamiento,161286.0,
+Vía Terrestre,"ARIMA(1,1,1)",2016-02-01,entrenamiento,131966.0,
+Vía Terrestre,"ARIMA(1,1,1)",2016-03-01,entrenamiento,215678.0,
+Vía Terrestre,"ARIMA(1,1,1)",2016-04-01,entrenamiento,145473.0,
+Vía Terrestre,"ARIMA(1,1,1)",2016-05-01,entrenamiento,151184.0,
+Vía Terrestre,"ARIMA(1,1,1)",2016-06-01,entrenamiento,153559.7,
+Vía Terrestre,"ARIMA(1,1,1)",2016-07-01,entrenamiento,176601.8,
+Vía Terrestre,"ARIMA(1,1,1)",2016-08-01,entrenamiento,196150.0,
+Vía Terrestre,"ARIMA(1,1,1)",2016-09-01,entrenamiento,133966.0,
+Vía Terrestre,"ARIMA(1,1,1)",2016-10-01,entrenamiento,194459.0,
+Vía Terrestre,"ARIMA(1,1,1)",2016-11-01,entrenamiento,197750.0,
+Vía Terrestre,"ARIMA(1,1,1)",2016-12-01,entrenamiento,268530.0,
+Vía Terrestre,"ARIMA(1,1,1)",2017-01-01,entrenamiento,209585.2,
+Vía Terrestre,"ARIMA(1,1,1)",2017-02-01,entrenamiento,169373.9,
+Vía Terrestre,"ARIMA(1,1,1)",2017-03-01,entrenamiento,222174.4,
+Vía Terrestre,"ARIMA(1,1,1)",2017-04-01,entrenamiento,267606.9,
+Vía Terrestre,"ARIMA(1,1,1)",2017-05-01,entrenamiento,184953.4,
+Vía Terrestre,"ARIMA(1,1,1)",2017-06-01,entrenamiento,184630.8,
+Vía Terrestre,"ARIMA(1,1,1)",2017-07-01,entrenamiento,223014.6,
+Vía Terrestre,"ARIMA(1,1,1)",2017-08-01,entrenamiento,299583.0,
+Vía Terrestre,"ARIMA(1,1,1)",2017-09-01,entrenamiento,148682.3,
+Vía Terrestre,"ARIMA(1,1,1)",2017-10-01,entrenamiento,153283.1,
+Vía Terrestre,"ARIMA(1,1,1)",2017-11-01,entrenamiento,179948.2,
+Vía Terrestre,"ARIMA(1,1,1)",2017-12-01,entrenamiento,235771.5,
+Vía Terrestre,"ARIMA(1,1,1)",2018-01-01,entrenamiento,209981.9,
+Vía Terrestre,"ARIMA(1,1,1)",2018-02-01,entrenamiento,174295.4,
+Vía Terrestre,"ARIMA(1,1,1)",2018-03-01,entrenamiento,293194.0,
+Vía Terrestre,"ARIMA(1,1,1)",2018-04-01,entrenamiento,266163.7,
+Vía Terrestre,"ARIMA(1,1,1)",2018-05-01,entrenamiento,191168.8,
+Vía Terrestre,"ARIMA(1,1,1)",2018-06-01,entrenamiento,221271.8,
+Vía Terrestre,"ARIMA(1,1,1)",2018-07-01,entrenamiento,224387.8,
+Vía Terrestre,"ARIMA(1,1,1)",2018-08-01,entrenamiento,267340.8,
+Vía Terrestre,"ARIMA(1,1,1)",2018-09-01,entrenamiento,190994.8,
+Vía Terrestre,"ARIMA(1,1,1)",2018-10-01,entrenamiento,184907.3,
+Vía Terrestre,"ARIMA(1,1,1)",2018-11-01,entrenamiento,193633.2,
+Vía Terrestre,"ARIMA(1,1,1)",2018-12-01,entrenamiento,273631.2,
+Vía Terrestre,"ARIMA(1,1,1)",2019-01-01,entrenamiento,258991.1,
+Vía Terrestre,"ARIMA(1,1,1)",2019-02-01,entrenamiento,201808.5,
+Vía Terrestre,"ARIMA(1,1,1)",2019-03-01,entrenamiento,259346.2,
+Vía Terrestre,"ARIMA(1,1,1)",2019-04-01,entrenamiento,295423.0,
+Vía Terrestre,"ARIMA(1,1,1)",2019-05-01,entrenamiento,211322.7,
+Vía Terrestre,"ARIMA(1,1,1)",2019-06-01,entrenamiento,233118.6,
+Vía Terrestre,"ARIMA(1,1,1)",2019-07-01,entrenamiento,284020.6,
+Vía Terrestre,"ARIMA(1,1,1)",2019-08-01,entrenamiento,320111.2,
+Vía Terrestre,"ARIMA(1,1,1)",2019-09-01,entrenamiento,223844.5,
+Vía Terrestre,"ARIMA(1,1,1)",2019-10-01,entrenamiento,197089.6,
+Vía Terrestre,"ARIMA(1,1,1)",2019-11-01,entrenamiento,243942.9,
+Vía Terrestre,"ARIMA(1,1,1)",2019-12-01,entrenamiento,348626.4,
+Vía Terrestre,"ARIMA(1,1,1)",2020-01-01,entrenamiento,316015.2,
+Vía Terrestre,"ARIMA(1,1,1)",2020-02-01,entrenamiento,259956.6,
+Vía Terrestre,"ARIMA(1,1,1)",2020-03-01,entrenamiento,115494.3,
+Vía Terrestre,"ARIMA(1,1,1)",2020-04-01,entrenamiento,9550.0,
+Vía Terrestre,"ARIMA(1,1,1)",2020-05-01,entrenamiento,9169.0,
+Vía Terrestre,"ARIMA(1,1,1)",2020-06-01,entrenamiento,10399.0,
+Vía Terrestre,"ARIMA(1,1,1)",2020-07-01,entrenamiento,12437.0,
+Vía Terrestre,"ARIMA(1,1,1)",2020-08-01,entrenamiento,14098.0,
+Vía Terrestre,"ARIMA(1,1,1)",2020-09-01,entrenamiento,19783.5,
+Vía Terrestre,"ARIMA(1,1,1)",2020-10-01,entrenamiento,21063.8,
+Vía Terrestre,"ARIMA(1,1,1)",2020-11-01,entrenamiento,19638.0,
+Vía Terrestre,"ARIMA(1,1,1)",2020-12-01,entrenamiento,5715.0,
+Vía Terrestre,"ARIMA(1,1,1)",2021-01-01,entrenamiento,60972.0,
+Vía Terrestre,"ARIMA(1,1,1)",2021-02-01,entrenamiento,36679.0,
+Vía Terrestre,"ARIMA(1,1,1)",2021-03-01,entrenamiento,44984.6,
+Vía Terrestre,"ARIMA(1,1,1)",2021-04-01,prueba,47526.2,42531.2
+Vía Terrestre,"ARIMA(1,1,1)",2021-05-01,prueba,20456.0,41454.1
+Vía Terrestre,"ARIMA(1,1,1)",2021-06-01,prueba,30449.0,40981.1
+Vía Terrestre,"ARIMA(1,1,1)",2021-07-01,prueba,37165.7,40773.5
+Vía Terrestre,"ARIMA(1,1,1)",2021-08-01,prueba,27571.0,40682.3
+Vía Terrestre,"ARIMA(1,1,1)",2021-09-01,prueba,28866.0,40642.3
+Vía Terrestre,"ARIMA(1,1,1)",2021-10-01,prueba,40325.0,40624.7
+Vía Terrestre,"ARIMA(1,1,1)",2021-11-01,prueba,42922.2,40617.0
+Vía Terrestre,"ARIMA(1,1,1)",2021-12-01,prueba,122049.0,40613.6
+Vía Terrestre,"ARIMA(1,1,1)",2022-01-01,prueba,53281.0,40612.1
+Vía Terrestre,"ARIMA(1,1,1)",2022-02-01,prueba,147175.4,40611.5
+Vía Terrestre,"ARIMA(1,1,1)",2022-03-01,prueba,189137.0,40611.2
+Vía Terrestre,"ARIMA(1,1,1)",2022-04-01,prueba,258094.0,40611.1
+Vía Terrestre,"ARIMA(1,1,1)",2022-05-01,prueba,243664.0,40611.0
+Vía Terrestre,"ARIMA(1,1,1)",2022-06-01,prueba,234967.0,40611.0
+Vía Terrestre,"ARIMA(1,1,1)",2022-07-01,prueba,266315.0,40611.0
+Vía Terrestre,"ARIMA(1,1,1)",2022-08-01,prueba,290297.0,40611.0
+Vía Terrestre,"ARIMA(1,1,1)",2022-09-01,prueba,245409.0,40611.0
+Vía Terrestre,"ARIMA(1,1,1)",2022-10-01,prueba,281801.0,40611.0
+Vía Terrestre,"ARIMA(1,1,1)",2022-11-01,prueba,315529.0,40611.0
+Vía Terrestre,"ARIMA(1,1,1)",2022-12-01,prueba,357685.0,40611.0
+Vía Terrestre,"ARIMA(1,1,1)",2023-01-01,prueba,214430.0,40611.0
+Vía Terrestre,"ARIMA(1,1,1)",2023-02-01,prueba,145396.0,40611.0
+Vía Terrestre,"ARIMA(1,1,1)",2023-03-01,prueba,186352.0,40611.0
+Vía Terrestre,"ARIMA(1,1,1)",2023-04-01,prueba,226626.0,40611.0
+Vía Terrestre,"ARIMA(1,1,1)",2023-05-01,prueba,166906.0,40611.0
+Vía Terrestre,"ARIMA(1,1,1)",2023-06-01,prueba,164892.0,40611.0
+Vía Terrestre,"ARIMA(1,1,1)",2023-07-01,prueba,175497.0,40611.0
+Vía Terrestre,"ARIMA(1,1,1)",2023-08-01,prueba,213118.0,40611.0
+Vía Terrestre,"ARIMA(1,1,1)",2023-09-01,prueba,180017.0,40611.0
+Vía Terrestre,"ARIMA(1,1,1)",2023-10-01,prueba,131699.0,40611.0
+Vía Terrestre,"ARIMA(1,1,1)",2023-11-01,prueba,194407.0,40611.0
+Vía Terrestre,"ARIMA(1,1,1)",2023-12-01,prueba,256912.0,40611.0
+Vía Terrestre,"ARIMA(1,1,1)",2024-01-01,prueba,236880.0,40611.0
+Vía Terrestre,"ARIMA(1,1,1)",2024-02-01,prueba,195024.0,40611.0
+Vía Terrestre,"ARIMA(1,1,1)",2024-03-01,prueba,240757.0,40611.0
+Vía Terrestre,"ARIMA(1,1,1)",2024-04-01,prueba,176774.0,40611.0
+Vía Terrestre,"ARIMA(1,1,1)",2024-05-01,prueba,177469.0,40611.0
+Vía Terrestre,"ARIMA(1,1,1)",2024-06-01,prueba,157594.0,40611.0
+Vía Terrestre,"ARIMA(1,1,1)",2024-07-01,prueba,184561.0,40611.0
+Vía Terrestre,"ARIMA(1,1,1)",2024-08-01,prueba,223302.0,40611.0
+Vía Terrestre,"ARIMA(1,1,1)",2024-09-01,prueba,170232.0,40611.0
+Vía Terrestre,"ARIMA(1,1,1)",2024-10-01,prueba,189998.0,40611.0
+Vía Terrestre,"ARIMA(1,1,1)",2024-11-01,prueba,221084.0,40611.0
+Vía Terrestre,"ARIMA(1,1,1)",2024-12-01,prueba,270243.0,40611.0
+Vía Terrestre,"ARIMA(1,1,1)",2025-01-01,prueba,204869.0,40611.0
+Vía Terrestre,"ARIMA(1,1,1)",2025-02-01,prueba,175050.0,40611.0
+Vía Terrestre,"ARIMA(1,1,1)",2025-03-01,prueba,192070.0,40611.0
+Vía Terrestre,"ARIMA(1,1,1)",2025-04-01,prueba,226671.0,40611.0
+Vía Terrestre,"ARIMA(1,1,1)",2025-05-01,prueba,181986.0,40611.0
+Vía Terrestre,"ARIMA(1,1,1)",2025-06-01,prueba,173923.0,40611.0
+Vía Terrestre,"ARIMA(1,1,1)",2025-07-01,prueba,189324.0,40611.0
+Vía Terrestre,"ARIMA(1,1,1)",2025-08-01,prueba,224363.0,40611.0
+Vía Terrestre,"ARIMA(1,1,1)",2025-09-01,prueba,165691.0,40611.0
+Vía Terrestre,"ARIMA(1,1,1)",2025-10-01,prueba,186906.0,40611.0
+Vía Terrestre,"ARIMA(1,1,1)",2025-11-01,prueba,216330.0,40611.0
+Vía Terrestre,"ARIMA(1,1,1)",2025-12-01,prueba,264140.0,40611.0
+Vía Terrestre,"ARIMA(1,1,1)",2026-01-01,prueba,205027.0,40611.0
+Vía Terrestre,"ARIMA(1,1,1)",2026-02-01,prueba,146469.0,40611.0
+Vía Terrestre,"ARIMA(1,1,1)",2026-03-01,prueba,183014.0,40611.0
+Vía Terrestre,"ARIMA(1,1,1)",2026-04-01,prueba,175450.0,40611.0
+Vía Terrestre,"ARIMA(1,1,1)",2026-05-01,prueba,164259.0,40611.0
+Vía Terrestre,"ARIMA(1,1,1)",2026-06-01,prueba,160604.0,40611.0
+Vía Terrestre,Holt-Winters multiplicativo,2009-01-01,entrenamiento,88433.6,
+Vía Terrestre,Holt-Winters multiplicativo,2009-02-01,entrenamiento,67653.3,
+Vía Terrestre,Holt-Winters multiplicativo,2009-03-01,entrenamiento,78221.2,
+Vía Terrestre,Holt-Winters multiplicativo,2009-04-01,entrenamiento,92934.5,
+Vía Terrestre,Holt-Winters multiplicativo,2009-05-01,entrenamiento,62056.7,
+Vía Terrestre,Holt-Winters multiplicativo,2009-06-01,entrenamiento,73950.1,
+Vía Terrestre,Holt-Winters multiplicativo,2009-07-01,entrenamiento,64156.3,
+Vía Terrestre,Holt-Winters multiplicativo,2009-08-01,entrenamiento,104657.2,
+Vía Terrestre,Holt-Winters multiplicativo,2009-09-01,entrenamiento,73045.2,
+Vía Terrestre,Holt-Winters multiplicativo,2009-10-01,entrenamiento,83030.0,
+Vía Terrestre,Holt-Winters multiplicativo,2009-11-01,entrenamiento,93790.2,
+Vía Terrestre,Holt-Winters multiplicativo,2009-12-01,entrenamiento,117764.6,
+Vía Terrestre,Holt-Winters multiplicativo,2010-01-01,entrenamiento,99582.0,
+Vía Terrestre,Holt-Winters multiplicativo,2010-02-01,entrenamiento,76014.6,
+Vía Terrestre,Holt-Winters multiplicativo,2010-03-01,entrenamiento,77503.8,
+Vía Terrestre,Holt-Winters multiplicativo,2010-04-01,entrenamiento,96497.1,
+Vía Terrestre,Holt-Winters multiplicativo,2010-05-01,entrenamiento,79094.5,
+Vía Terrestre,Holt-Winters multiplicativo,2010-06-01,entrenamiento,74888.5,
+Vía Terrestre,Holt-Winters multiplicativo,2010-07-01,entrenamiento,99950.9,
+Vía Terrestre,Holt-Winters multiplicativo,2010-08-01,entrenamiento,106249.4,
+Vía Terrestre,Holt-Winters multiplicativo,2010-09-01,entrenamiento,70280.9,
+Vía Terrestre,Holt-Winters multiplicativo,2010-10-01,entrenamiento,84744.5,
+Vía Terrestre,Holt-Winters multiplicativo,2010-11-01,entrenamiento,97709.1,
+Vía Terrestre,Holt-Winters multiplicativo,2010-12-01,entrenamiento,130987.5,
+Vía Terrestre,Holt-Winters multiplicativo,2011-01-01,entrenamiento,110644.6,
+Vía Terrestre,Holt-Winters multiplicativo,2011-02-01,entrenamiento,83028.8,
+Vía Terrestre,Holt-Winters multiplicativo,2011-03-01,entrenamiento,96708.3,
+Vía Terrestre,Holt-Winters multiplicativo,2011-04-01,entrenamiento,117307.7,
+Vía Terrestre,Holt-Winters multiplicativo,2011-05-01,entrenamiento,80830.3,
+Vía Terrestre,Holt-Winters multiplicativo,2011-06-01,entrenamiento,85376.4,
+Vía Terrestre,Holt-Winters multiplicativo,2011-07-01,entrenamiento,105386.7,
+Vía Terrestre,Holt-Winters multiplicativo,2011-08-01,entrenamiento,98679.7,
+Vía Terrestre,Holt-Winters multiplicativo,2011-09-01,entrenamiento,78462.7,
+Vía Terrestre,Holt-Winters multiplicativo,2011-10-01,entrenamiento,83193.9,
+Vía Terrestre,Holt-Winters multiplicativo,2011-11-01,entrenamiento,104176.5,
+Vía Terrestre,Holt-Winters multiplicativo,2011-12-01,entrenamiento,146377.5,
+Vía Terrestre,Holt-Winters multiplicativo,2012-01-01,entrenamiento,122517.3,
+Vía Terrestre,Holt-Winters multiplicativo,2012-02-01,entrenamiento,92607.3,
+Vía Terrestre,Holt-Winters multiplicativo,2012-03-01,entrenamiento,106344.1,
+Vía Terrestre,Holt-Winters multiplicativo,2012-04-01,entrenamiento,110443.7,
+Vía Terrestre,Holt-Winters multiplicativo,2012-05-01,entrenamiento,83234.5,
+Vía Terrestre,Holt-Winters multiplicativo,2012-06-01,entrenamiento,90624.5,
+Vía Terrestre,Holt-Winters multiplicativo,2012-07-01,entrenamiento,105841.7,
+Vía Terrestre,Holt-Winters multiplicativo,2012-08-01,entrenamiento,100145.5,
+Vía Terrestre,Holt-Winters multiplicativo,2012-09-01,entrenamiento,85070.6,
+Vía Terrestre,Holt-Winters multiplicativo,2012-10-01,entrenamiento,95987.0,
+Vía Terrestre,Holt-Winters multiplicativo,2012-11-01,entrenamiento,110323.8,
+Vía Terrestre,Holt-Winters multiplicativo,2012-12-01,entrenamiento,140017.7,
+Vía Terrestre,Holt-Winters multiplicativo,2013-01-01,entrenamiento,105415.5,
+Vía Terrestre,Holt-Winters multiplicativo,2013-02-01,entrenamiento,79327.1,
+Vía Terrestre,Holt-Winters multiplicativo,2013-03-01,entrenamiento,131636.6,
+Vía Terrestre,Holt-Winters multiplicativo,2013-04-01,entrenamiento,109751.5,
+Vía Terrestre,Holt-Winters multiplicativo,2013-05-01,entrenamiento,112853.6,
+Vía Terrestre,Holt-Winters multiplicativo,2013-06-01,entrenamiento,113399.4,
+Vía Terrestre,Holt-Winters multiplicativo,2013-07-01,entrenamiento,118956.6,
+Vía Terrestre,Holt-Winters multiplicativo,2013-08-01,entrenamiento,120963.6,
+Vía Terrestre,Holt-Winters multiplicativo,2013-09-01,entrenamiento,100119.3,
+Vía Terrestre,Holt-Winters multiplicativo,2013-10-01,entrenamiento,91060.0,
+Vía Terrestre,Holt-Winters multiplicativo,2013-11-01,entrenamiento,113120.4,
+Vía Terrestre,Holt-Winters multiplicativo,2013-12-01,entrenamiento,153846.3,
+Vía Terrestre,Holt-Winters multiplicativo,2014-01-01,entrenamiento,130524.5,
+Vía Terrestre,Holt-Winters multiplicativo,2014-02-01,entrenamiento,96035.8,
+Vía Terrestre,Holt-Winters multiplicativo,2014-03-01,entrenamiento,110207.7,
+Vía Terrestre,Holt-Winters multiplicativo,2014-04-01,entrenamiento,140647.9,
+Vía Terrestre,Holt-Winters multiplicativo,2014-05-01,entrenamiento,112244.5,
+Vía Terrestre,Holt-Winters multiplicativo,2014-06-01,entrenamiento,102404.3,
+Vía Terrestre,Holt-Winters multiplicativo,2014-07-01,entrenamiento,135567.7,
+Vía Terrestre,Holt-Winters multiplicativo,2014-08-01,entrenamiento,140100.8,
+Vía Terrestre,Holt-Winters multiplicativo,2014-09-01,entrenamiento,116394.1,
+Vía Terrestre,Holt-Winters multiplicativo,2014-10-01,entrenamiento,139647.0,
+Vía Terrestre,Holt-Winters multiplicativo,2014-11-01,entrenamiento,153726.3,
+Vía Terrestre,Holt-Winters multiplicativo,2014-12-01,entrenamiento,208891.3,
+Vía Terrestre,Holt-Winters multiplicativo,2015-01-01,entrenamiento,151017.0,
+Vía Terrestre,Holt-Winters multiplicativo,2015-02-01,entrenamiento,119584.5,
+Vía Terrestre,Holt-Winters multiplicativo,2015-03-01,entrenamiento,154233.3,
+Vía Terrestre,Holt-Winters multiplicativo,2015-04-01,entrenamiento,162185.5,
+Vía Terrestre,Holt-Winters multiplicativo,2015-05-01,entrenamiento,145065.3,
+Vía Terrestre,Holt-Winters multiplicativo,2015-06-01,entrenamiento,145426.0,
+Vía Terrestre,Holt-Winters multiplicativo,2015-07-01,entrenamiento,148254.0,
+Vía Terrestre,Holt-Winters multiplicativo,2015-08-01,entrenamiento,162197.5,
+Vía Terrestre,Holt-Winters multiplicativo,2015-09-01,entrenamiento,125454.5,
+Vía Terrestre,Holt-Winters multiplicativo,2015-10-01,entrenamiento,134550.0,
+Vía Terrestre,Holt-Winters multiplicativo,2015-11-01,entrenamiento,136006.5,
+Vía Terrestre,Holt-Winters multiplicativo,2015-12-01,entrenamiento,201180.5,
+Vía Terrestre,Holt-Winters multiplicativo,2016-01-01,entrenamiento,161286.0,
+Vía Terrestre,Holt-Winters multiplicativo,2016-02-01,entrenamiento,131966.0,
+Vía Terrestre,Holt-Winters multiplicativo,2016-03-01,entrenamiento,215678.0,
+Vía Terrestre,Holt-Winters multiplicativo,2016-04-01,entrenamiento,145473.0,
+Vía Terrestre,Holt-Winters multiplicativo,2016-05-01,entrenamiento,151184.0,
+Vía Terrestre,Holt-Winters multiplicativo,2016-06-01,entrenamiento,153559.7,
+Vía Terrestre,Holt-Winters multiplicativo,2016-07-01,entrenamiento,176601.8,
+Vía Terrestre,Holt-Winters multiplicativo,2016-08-01,entrenamiento,196150.0,
+Vía Terrestre,Holt-Winters multiplicativo,2016-09-01,entrenamiento,133966.0,
+Vía Terrestre,Holt-Winters multiplicativo,2016-10-01,entrenamiento,194459.0,
+Vía Terrestre,Holt-Winters multiplicativo,2016-11-01,entrenamiento,197750.0,
+Vía Terrestre,Holt-Winters multiplicativo,2016-12-01,entrenamiento,268530.0,
+Vía Terrestre,Holt-Winters multiplicativo,2017-01-01,entrenamiento,209585.2,
+Vía Terrestre,Holt-Winters multiplicativo,2017-02-01,entrenamiento,169373.9,
+Vía Terrestre,Holt-Winters multiplicativo,2017-03-01,entrenamiento,222174.4,
+Vía Terrestre,Holt-Winters multiplicativo,2017-04-01,entrenamiento,267606.9,
+Vía Terrestre,Holt-Winters multiplicativo,2017-05-01,entrenamiento,184953.4,
+Vía Terrestre,Holt-Winters multiplicativo,2017-06-01,entrenamiento,184630.8,
+Vía Terrestre,Holt-Winters multiplicativo,2017-07-01,entrenamiento,223014.6,
+Vía Terrestre,Holt-Winters multiplicativo,2017-08-01,entrenamiento,299583.0,
+Vía Terrestre,Holt-Winters multiplicativo,2017-09-01,entrenamiento,148682.3,
+Vía Terrestre,Holt-Winters multiplicativo,2017-10-01,entrenamiento,153283.1,
+Vía Terrestre,Holt-Winters multiplicativo,2017-11-01,entrenamiento,179948.2,
+Vía Terrestre,Holt-Winters multiplicativo,2017-12-01,entrenamiento,235771.5,
+Vía Terrestre,Holt-Winters multiplicativo,2018-01-01,entrenamiento,209981.9,
+Vía Terrestre,Holt-Winters multiplicativo,2018-02-01,entrenamiento,174295.4,
+Vía Terrestre,Holt-Winters multiplicativo,2018-03-01,entrenamiento,293194.0,
+Vía Terrestre,Holt-Winters multiplicativo,2018-04-01,entrenamiento,266163.7,
+Vía Terrestre,Holt-Winters multiplicativo,2018-05-01,entrenamiento,191168.8,
+Vía Terrestre,Holt-Winters multiplicativo,2018-06-01,entrenamiento,221271.8,
+Vía Terrestre,Holt-Winters multiplicativo,2018-07-01,entrenamiento,224387.8,
+Vía Terrestre,Holt-Winters multiplicativo,2018-08-01,entrenamiento,267340.8,
+Vía Terrestre,Holt-Winters multiplicativo,2018-09-01,entrenamiento,190994.8,
+Vía Terrestre,Holt-Winters multiplicativo,2018-10-01,entrenamiento,184907.3,
+Vía Terrestre,Holt-Winters multiplicativo,2018-11-01,entrenamiento,193633.2,
+Vía Terrestre,Holt-Winters multiplicativo,2018-12-01,entrenamiento,273631.2,
+Vía Terrestre,Holt-Winters multiplicativo,2019-01-01,entrenamiento,258991.1,
+Vía Terrestre,Holt-Winters multiplicativo,2019-02-01,entrenamiento,201808.5,
+Vía Terrestre,Holt-Winters multiplicativo,2019-03-01,entrenamiento,259346.2,
+Vía Terrestre,Holt-Winters multiplicativo,2019-04-01,entrenamiento,295423.0,
+Vía Terrestre,Holt-Winters multiplicativo,2019-05-01,entrenamiento,211322.7,
+Vía Terrestre,Holt-Winters multiplicativo,2019-06-01,entrenamiento,233118.6,
+Vía Terrestre,Holt-Winters multiplicativo,2019-07-01,entrenamiento,284020.6,
+Vía Terrestre,Holt-Winters multiplicativo,2019-08-01,entrenamiento,320111.2,
+Vía Terrestre,Holt-Winters multiplicativo,2019-09-01,entrenamiento,223844.5,
+Vía Terrestre,Holt-Winters multiplicativo,2019-10-01,entrenamiento,197089.6,
+Vía Terrestre,Holt-Winters multiplicativo,2019-11-01,entrenamiento,243942.9,
+Vía Terrestre,Holt-Winters multiplicativo,2019-12-01,entrenamiento,348626.4,
+Vía Terrestre,Holt-Winters multiplicativo,2020-01-01,entrenamiento,316015.2,
+Vía Terrestre,Holt-Winters multiplicativo,2020-02-01,entrenamiento,259956.6,
+Vía Terrestre,Holt-Winters multiplicativo,2020-03-01,entrenamiento,115494.3,
+Vía Terrestre,Holt-Winters multiplicativo,2020-04-01,entrenamiento,9550.0,
+Vía Terrestre,Holt-Winters multiplicativo,2020-05-01,entrenamiento,9169.0,
+Vía Terrestre,Holt-Winters multiplicativo,2020-06-01,entrenamiento,10399.0,
+Vía Terrestre,Holt-Winters multiplicativo,2020-07-01,entrenamiento,12437.0,
+Vía Terrestre,Holt-Winters multiplicativo,2020-08-01,entrenamiento,14098.0,
+Vía Terrestre,Holt-Winters multiplicativo,2020-09-01,entrenamiento,19783.5,
+Vía Terrestre,Holt-Winters multiplicativo,2020-10-01,entrenamiento,21063.8,
+Vía Terrestre,Holt-Winters multiplicativo,2020-11-01,entrenamiento,19638.0,
+Vía Terrestre,Holt-Winters multiplicativo,2020-12-01,entrenamiento,5715.0,
+Vía Terrestre,Holt-Winters multiplicativo,2021-01-01,entrenamiento,60972.0,
+Vía Terrestre,Holt-Winters multiplicativo,2021-02-01,entrenamiento,36679.0,
+Vía Terrestre,Holt-Winters multiplicativo,2021-03-01,entrenamiento,44984.6,
+Vía Terrestre,Holt-Winters multiplicativo,2021-04-01,prueba,47526.2,43809.8
+Vía Terrestre,Holt-Winters multiplicativo,2021-05-01,prueba,20456.0,33340.6
+Vía Terrestre,Holt-Winters multiplicativo,2021-06-01,prueba,30449.0,35112.5
+Vía Terrestre,Holt-Winters multiplicativo,2021-07-01,prueba,37165.7,39933.3
+Vía Terrestre,Holt-Winters multiplicativo,2021-08-01,prueba,27571.0,45899.5
+Vía Terrestre,Holt-Winters multiplicativo,2021-09-01,prueba,28866.0,31052.0
+Vía Terrestre,Holt-Winters multiplicativo,2021-10-01,prueba,40325.0,32302.4
+Vía Terrestre,Holt-Winters multiplicativo,2021-11-01,prueba,42922.2,36105.9
+Vía Terrestre,Holt-Winters multiplicativo,2021-12-01,prueba,122049.0,49711.5
+Vía Terrestre,Holt-Winters multiplicativo,2022-01-01,prueba,53281.0,42431.0
+Vía Terrestre,Holt-Winters multiplicativo,2022-02-01,prueba,147175.4,33785.0
+Vía Terrestre,Holt-Winters multiplicativo,2022-03-01,prueba,189137.0,37692.7
+Vía Terrestre,Holt-Winters multiplicativo,2022-04-01,prueba,258094.0,36708.3
+Vía Terrestre,Holt-Winters multiplicativo,2022-05-01,prueba,243664.0,27936.2
+Vía Terrestre,Holt-Winters multiplicativo,2022-06-01,prueba,234967.0,29420.8
+Vía Terrestre,Holt-Winters multiplicativo,2022-07-01,prueba,266315.0,33460.2
+Vía Terrestre,Holt-Winters multiplicativo,2022-08-01,prueba,290297.0,38459.2
+Vía Terrestre,Holt-Winters multiplicativo,2022-09-01,prueba,245409.0,26018.5
+Vía Terrestre,Holt-Winters multiplicativo,2022-10-01,prueba,281801.0,27066.2
+Vía Terrestre,Holt-Winters multiplicativo,2022-11-01,prueba,315529.0,30253.2
+Vía Terrestre,Holt-Winters multiplicativo,2022-12-01,prueba,357685.0,41653.4
+Vía Terrestre,Holt-Winters multiplicativo,2023-01-01,prueba,214430.0,35553.0
+Vía Terrestre,Holt-Winters multiplicativo,2023-02-01,prueba,145396.0,28308.5
+Vía Terrestre,Holt-Winters multiplicativo,2023-03-01,prueba,186352.0,31582.8
+Vía Terrestre,Holt-Winters multiplicativo,2023-04-01,prueba,226626.0,30758.0
+Vía Terrestre,Holt-Winters multiplicativo,2023-05-01,prueba,166906.0,23407.7
+Vía Terrestre,Holt-Winters multiplicativo,2023-06-01,prueba,164892.0,24651.7
+Vía Terrestre,Holt-Winters multiplicativo,2023-07-01,prueba,175497.0,28036.3
+Vía Terrestre,Holt-Winters multiplicativo,2023-08-01,prueba,213118.0,32225.0
+Vía Terrestre,Holt-Winters multiplicativo,2023-09-01,prueba,180017.0,21801.0
+Vía Terrestre,Holt-Winters multiplicativo,2023-10-01,prueba,131699.0,22678.8
+Vía Terrestre,Holt-Winters multiplicativo,2023-11-01,prueba,194407.0,25349.2
+Vía Terrestre,Holt-Winters multiplicativo,2023-12-01,prueba,256912.0,34901.4
+Vía Terrestre,Holt-Winters multiplicativo,2024-01-01,prueba,236880.0,29789.9
+Vía Terrestre,Holt-Winters multiplicativo,2024-02-01,prueba,195024.0,23719.8
+Vía Terrestre,Holt-Winters multiplicativo,2024-03-01,prueba,240757.0,26463.2
+Vía Terrestre,Holt-Winters multiplicativo,2024-04-01,prueba,176774.0,25772.1
+Vía Terrestre,Holt-Winters multiplicativo,2024-05-01,prueba,177469.0,19613.4
+Vía Terrestre,Holt-Winters multiplicativo,2024-06-01,prueba,157594.0,20655.7
+Vía Terrestre,Holt-Winters multiplicativo,2024-07-01,prueba,184561.0,23491.7
+Vía Terrestre,Holt-Winters multiplicativo,2024-08-01,prueba,223302.0,27001.4
+Vía Terrestre,Holt-Winters multiplicativo,2024-09-01,prueba,170232.0,18267.1
+Vía Terrestre,Holt-Winters multiplicativo,2024-10-01,prueba,189998.0,19002.6
+Vía Terrestre,Holt-Winters multiplicativo,2024-11-01,prueba,221084.0,21240.1
+Vía Terrestre,Holt-Winters multiplicativo,2024-12-01,prueba,270243.0,29243.9
+Vía Terrestre,Holt-Winters multiplicativo,2025-01-01,prueba,204869.0,24961.0
+Vía Terrestre,Holt-Winters multiplicativo,2025-02-01,prueba,175050.0,19874.8
+Vía Terrestre,Holt-Winters multiplicativo,2025-03-01,prueba,192070.0,22173.6
+Vía Terrestre,Holt-Winters multiplicativo,2025-04-01,prueba,226671.0,21594.5
+Vía Terrestre,Holt-Winters multiplicativo,2025-05-01,prueba,181986.0,16434.1
+Vía Terrestre,Holt-Winters multiplicativo,2025-06-01,prueba,173923.0,17307.5
+Vía Terrestre,Holt-Winters multiplicativo,2025-07-01,prueba,189324.0,19683.7
+Vía Terrestre,Holt-Winters multiplicativo,2025-08-01,prueba,224363.0,22624.5
+Vía Terrestre,Holt-Winters multiplicativo,2025-09-01,prueba,165691.0,15306.0
+Vía Terrestre,Holt-Winters multiplicativo,2025-10-01,prueba,186906.0,15922.3
+Vía Terrestre,Holt-Winters multiplicativo,2025-11-01,prueba,216330.0,17797.1
+Vía Terrestre,Holt-Winters multiplicativo,2025-12-01,prueba,264140.0,24503.5
+Vía Terrestre,Holt-Winters multiplicativo,2026-01-01,prueba,205027.0,20914.9
+Vía Terrestre,Holt-Winters multiplicativo,2026-02-01,prueba,146469.0,16653.1
+Vía Terrestre,Holt-Winters multiplicativo,2026-03-01,prueba,183014.0,18579.3
+Vía Terrestre,Holt-Winters multiplicativo,2026-04-01,prueba,175450.0,18094.1
+Vía Terrestre,Holt-Winters multiplicativo,2026-05-01,prueba,164259.0,13770.1
+Vía Terrestre,Holt-Winters multiplicativo,2026-06-01,prueba,160604.0,14501.9
+Tipo: Turista,Suavizamiento exponencial,2009-01-01,entrenamiento,135041.8,
+Tipo: Turista,Suavizamiento exponencial,2009-02-01,entrenamiento,102970.7,
+Tipo: Turista,Suavizamiento exponencial,2009-03-01,entrenamiento,138196.0,
+Tipo: Turista,Suavizamiento exponencial,2009-04-01,entrenamiento,142963.8,
+Tipo: Turista,Suavizamiento exponencial,2009-05-01,entrenamiento,107033.8,
+Tipo: Turista,Suavizamiento exponencial,2009-06-01,entrenamiento,129975.8,
+Tipo: Turista,Suavizamiento exponencial,2009-07-01,entrenamiento,120238.1,
+Tipo: Turista,Suavizamiento exponencial,2009-08-01,entrenamiento,152763.1,
+Tipo: Turista,Suavizamiento exponencial,2009-09-01,entrenamiento,113473.0,
+Tipo: Turista,Suavizamiento exponencial,2009-10-01,entrenamiento,132319.2,
+Tipo: Turista,Suavizamiento exponencial,2009-11-01,entrenamiento,151304.3,
+Tipo: Turista,Suavizamiento exponencial,2009-12-01,entrenamiento,189805.1,
+Tipo: Turista,Suavizamiento exponencial,2010-01-01,entrenamiento,142795.8,
+Tipo: Turista,Suavizamiento exponencial,2010-02-01,entrenamiento,105688.3,
+Tipo: Turista,Suavizamiento exponencial,2010-03-01,entrenamiento,138100.5,
+Tipo: Turista,Suavizamiento exponencial,2010-04-01,entrenamiento,141775.7,
+Tipo: Turista,Suavizamiento exponencial,2010-05-01,entrenamiento,117453.1,
+Tipo: Turista,Suavizamiento exponencial,2010-06-01,entrenamiento,133244.2,
+Tipo: Turista,Suavizamiento exponencial,2010-07-01,entrenamiento,170213.9,
+Tipo: Turista,Suavizamiento exponencial,2010-08-01,entrenamiento,156125.9,
+Tipo: Turista,Suavizamiento exponencial,2010-09-01,entrenamiento,111427.6,
+Tipo: Turista,Suavizamiento exponencial,2010-10-01,entrenamiento,135644.3,
+Tipo: Turista,Suavizamiento exponencial,2010-11-01,entrenamiento,156863.4,
+Tipo: Turista,Suavizamiento exponencial,2010-12-01,entrenamiento,195448.1,
+Tipo: Turista,Suavizamiento exponencial,2011-01-01,entrenamiento,148190.9,
+Tipo: Turista,Suavizamiento exponencial,2011-02-01,entrenamiento,108903.0,
+Tipo: Turista,Suavizamiento exponencial,2011-03-01,entrenamiento,143552.5,
+Tipo: Turista,Suavizamiento exponencial,2011-04-01,entrenamiento,154370.4,
+Tipo: Turista,Suavizamiento exponencial,2011-05-01,entrenamiento,122931.9,
+Tipo: Turista,Suavizamiento exponencial,2011-06-01,entrenamiento,137413.0,
+Tipo: Turista,Suavizamiento exponencial,2011-07-01,entrenamiento,169416.4,
+Tipo: Turista,Suavizamiento exponencial,2011-08-01,entrenamiento,148421.1,
+Tipo: Turista,Suavizamiento exponencial,2011-09-01,entrenamiento,119224.2,
+Tipo: Turista,Suavizamiento exponencial,2011-10-01,entrenamiento,130894.6,
+Tipo: Turista,Suavizamiento exponencial,2011-11-01,entrenamiento,162870.5,
+Tipo: Turista,Suavizamiento exponencial,2011-12-01,entrenamiento,209339.0,
+Tipo: Turista,Suavizamiento exponencial,2012-01-01,entrenamiento,152837.8,
+Tipo: Turista,Suavizamiento exponencial,2012-02-01,entrenamiento,112386.2,
+Tipo: Turista,Suavizamiento exponencial,2012-03-01,entrenamiento,154704.5,
+Tipo: Turista,Suavizamiento exponencial,2012-04-01,entrenamiento,145478.6,
+Tipo: Turista,Suavizamiento exponencial,2012-05-01,entrenamiento,126080.3,
+Tipo: Turista,Suavizamiento exponencial,2012-06-01,entrenamiento,145179.4,
+Tipo: Turista,Suavizamiento exponencial,2012-07-01,entrenamiento,166496.7,
+Tipo: Turista,Suavizamiento exponencial,2012-08-01,entrenamiento,143003.8,
+Tipo: Turista,Suavizamiento exponencial,2012-09-01,entrenamiento,123304.6,
+Tipo: Turista,Suavizamiento exponencial,2012-10-01,entrenamiento,140984.7,
+Tipo: Turista,Suavizamiento exponencial,2012-11-01,entrenamiento,167456.8,
+Tipo: Turista,Suavizamiento exponencial,2012-12-01,entrenamiento,202323.9,
+Tipo: Turista,Suavizamiento exponencial,2013-01-01,entrenamiento,146485.2,
+Tipo: Turista,Suavizamiento exponencial,2013-02-01,entrenamiento,105772.3,
+Tipo: Turista,Suavizamiento exponencial,2013-03-01,entrenamiento,175628.0,
+Tipo: Turista,Suavizamiento exponencial,2013-04-01,entrenamiento,147582.8,
+Tipo: Turista,Suavizamiento exponencial,2013-05-01,entrenamiento,148953.3,
+Tipo: Turista,Suavizamiento exponencial,2013-06-01,entrenamiento,165542.0,
+Tipo: Turista,Suavizamiento exponencial,2013-07-01,entrenamiento,177040.0,
+Tipo: Turista,Suavizamiento exponencial,2013-08-01,entrenamiento,166817.1,
+Tipo: Turista,Suavizamiento exponencial,2013-09-01,entrenamiento,137826.1,
+Tipo: Turista,Suavizamiento exponencial,2013-10-01,entrenamiento,141818.0,
+Tipo: Turista,Suavizamiento exponencial,2013-11-01,entrenamiento,174254.0,
+Tipo: Turista,Suavizamiento exponencial,2013-12-01,entrenamiento,222869.3,
+Tipo: Turista,Suavizamiento exponencial,2014-01-01,entrenamiento,185334.5,
+Tipo: Turista,Suavizamiento exponencial,2014-02-01,entrenamiento,146437.4,
+Tipo: Turista,Suavizamiento exponencial,2014-03-01,entrenamiento,169335.8,
+Tipo: Turista,Suavizamiento exponencial,2014-04-01,entrenamiento,198985.7,
+Tipo: Turista,Suavizamiento exponencial,2014-05-01,entrenamiento,163274.0,
+Tipo: Turista,Suavizamiento exponencial,2014-06-01,entrenamiento,174375.9,
+Tipo: Turista,Suavizamiento exponencial,2014-07-01,entrenamiento,203605.6,
+Tipo: Turista,Suavizamiento exponencial,2014-08-01,entrenamiento,182043.6,
+Tipo: Turista,Suavizamiento exponencial,2014-09-01,entrenamiento,152275.8,
+Tipo: Turista,Suavizamiento exponencial,2014-10-01,entrenamiento,178162.4,
+Tipo: Turista,Suavizamiento exponencial,2014-11-01,entrenamiento,197122.2,
+Tipo: Turista,Suavizamiento exponencial,2014-12-01,entrenamiento,259966.7,
+Tipo: Turista,Suavizamiento exponencial,2015-01-01,entrenamiento,195364.9,
+Tipo: Turista,Suavizamiento exponencial,2015-02-01,entrenamiento,155674.2,
+Tipo: Turista,Suavizamiento exponencial,2015-03-01,entrenamiento,207842.2,
+Tipo: Turista,Suavizamiento exponencial,2015-04-01,entrenamiento,211702.7,
+Tipo: Turista,Suavizamiento exponencial,2015-05-01,entrenamiento,183886.6,
+Tipo: Turista,Suavizamiento exponencial,2015-06-01,entrenamiento,198782.1,
+Tipo: Turista,Suavizamiento exponencial,2015-07-01,entrenamiento,203935.2,
+Tipo: Turista,Suavizamiento exponencial,2015-08-01,entrenamiento,198959.8,
+Tipo: Turista,Suavizamiento exponencial,2015-09-01,entrenamiento,169841.8,
+Tipo: Turista,Suavizamiento exponencial,2015-10-01,entrenamiento,193181.5,
+Tipo: Turista,Suavizamiento exponencial,2015-11-01,entrenamiento,210543.3,
+Tipo: Turista,Suavizamiento exponencial,2015-12-01,entrenamiento,283047.3,
+Tipo: Turista,Suavizamiento exponencial,2016-01-01,entrenamiento,232425.3,
+Tipo: Turista,Suavizamiento exponencial,2016-02-01,entrenamiento,187700.4,
+Tipo: Turista,Suavizamiento exponencial,2016-03-01,entrenamiento,279937.1,
+Tipo: Turista,Suavizamiento exponencial,2016-04-01,entrenamiento,179987.4,
+Tipo: Turista,Suavizamiento exponencial,2016-05-01,entrenamiento,186322.5,
+Tipo: Turista,Suavizamiento exponencial,2016-06-01,entrenamiento,201427.8,
+Tipo: Turista,Suavizamiento exponencial,2016-07-01,entrenamiento,240849.0,
+Tipo: Turista,Suavizamiento exponencial,2016-08-01,entrenamiento,231749.3,
+Tipo: Turista,Suavizamiento exponencial,2016-09-01,entrenamiento,163755.8,
+Tipo: Turista,Suavizamiento exponencial,2016-10-01,entrenamiento,220072.4,
+Tipo: Turista,Suavizamiento exponencial,2016-11-01,entrenamiento,223169.7,
+Tipo: Turista,Suavizamiento exponencial,2016-12-01,entrenamiento,290026.8,
+Tipo: Turista,Suavizamiento exponencial,2017-01-01,entrenamiento,234710.3,
+Tipo: Turista,Suavizamiento exponencial,2017-02-01,entrenamiento,199673.7,
+Tipo: Turista,Suavizamiento exponencial,2017-03-01,entrenamiento,241667.6,
+Tipo: Turista,Suavizamiento exponencial,2017-04-01,entrenamiento,303498.4,
+Tipo: Turista,Suavizamiento exponencial,2017-05-01,entrenamiento,203347.3,
+Tipo: Turista,Suavizamiento exponencial,2017-06-01,entrenamiento,197453.1,
+Tipo: Turista,Suavizamiento exponencial,2017-07-01,entrenamiento,241611.2,
+Tipo: Turista,Suavizamiento exponencial,2017-08-01,entrenamiento,213796.2,
+Tipo: Turista,Suavizamiento exponencial,2017-09-01,entrenamiento,171054.7,
+Tipo: Turista,Suavizamiento exponencial,2017-10-01,entrenamiento,198602.3,
+Tipo: Turista,Suavizamiento exponencial,2017-11-01,entrenamiento,230918.2,
+Tipo: Turista,Suavizamiento exponencial,2017-12-01,entrenamiento,288478.2,
+Tipo: Turista,Suavizamiento exponencial,2018-01-01,entrenamiento,243702.7,
+Tipo: Turista,Suavizamiento exponencial,2018-02-01,entrenamiento,199484.6,
+Tipo: Turista,Suavizamiento exponencial,2018-03-01,entrenamiento,299707.1,
+Tipo: Turista,Suavizamiento exponencial,2018-04-01,entrenamiento,236935.1,
+Tipo: Turista,Suavizamiento exponencial,2018-05-01,entrenamiento,216947.5,
+Tipo: Turista,Suavizamiento exponencial,2018-06-01,entrenamiento,239429.6,
+Tipo: Turista,Suavizamiento exponencial,2018-07-01,entrenamiento,271128.1,
+Tipo: Turista,Suavizamiento exponencial,2018-08-01,entrenamiento,266012.9,
+Tipo: Turista,Suavizamiento exponencial,2018-09-01,entrenamiento,210085.9,
+Tipo: Turista,Suavizamiento exponencial,2018-10-01,entrenamiento,231055.7,
+Tipo: Turista,Suavizamiento exponencial,2018-11-01,entrenamiento,262473.4,
+Tipo: Turista,Suavizamiento exponencial,2018-12-01,entrenamiento,332516.9,
+Tipo: Turista,Suavizamiento exponencial,2019-01-01,entrenamiento,280595.5,
+Tipo: Turista,Suavizamiento exponencial,2019-02-01,entrenamiento,206367.5,
+Tipo: Turista,Suavizamiento exponencial,2019-03-01,entrenamiento,262214.8,
+Tipo: Turista,Suavizamiento exponencial,2019-04-01,entrenamiento,292828.3,
+Tipo: Turista,Suavizamiento exponencial,2019-05-01,entrenamiento,217694.7,
+Tipo: Turista,Suavizamiento exponencial,2019-06-01,entrenamiento,238247.9,
+Tipo: Turista,Suavizamiento exponencial,2019-07-01,entrenamiento,269881.6,
+Tipo: Turista,Suavizamiento exponencial,2019-08-01,entrenamiento,250987.3,
+Tipo: Turista,Suavizamiento exponencial,2019-09-01,entrenamiento,214342.9,
+Tipo: Turista,Suavizamiento exponencial,2019-10-01,entrenamiento,220915.9,
+Tipo: Turista,Suavizamiento exponencial,2019-11-01,entrenamiento,252912.2,
+Tipo: Turista,Suavizamiento exponencial,2019-12-01,entrenamiento,344011.2,
+Tipo: Turista,Suavizamiento exponencial,2020-01-01,entrenamiento,280836.7,
+Tipo: Turista,Suavizamiento exponencial,2020-02-01,entrenamiento,219984.5,
+Tipo: Turista,Suavizamiento exponencial,2020-03-01,entrenamiento,109750.9,
+Tipo: Turista,Suavizamiento exponencial,2020-04-01,entrenamiento,10039.0,
+Tipo: Turista,Suavizamiento exponencial,2020-05-01,entrenamiento,9779.0,
+Tipo: Turista,Suavizamiento exponencial,2020-06-01,entrenamiento,11817.0,
+Tipo: Turista,Suavizamiento exponencial,2020-07-01,entrenamiento,13484.0,
+Tipo: Turista,Suavizamiento exponencial,2020-08-01,entrenamiento,15357.0,
+Tipo: Turista,Suavizamiento exponencial,2020-09-01,entrenamiento,12219.5,
+Tipo: Turista,Suavizamiento exponencial,2020-10-01,entrenamiento,14975.7,
+Tipo: Turista,Suavizamiento exponencial,2020-11-01,entrenamiento,51926.0,
+Tipo: Turista,Suavizamiento exponencial,2020-12-01,entrenamiento,47028.0,
+Tipo: Turista,Suavizamiento exponencial,2021-01-01,entrenamiento,78623.0,
+Tipo: Turista,Suavizamiento exponencial,2021-02-01,entrenamiento,49318.0,
+Tipo: Turista,Suavizamiento exponencial,2021-03-01,entrenamiento,82703.4,
+Tipo: Turista,Suavizamiento exponencial,2021-04-01,prueba,56912.2,71675.6
+Tipo: Turista,Suavizamiento exponencial,2021-05-01,prueba,69945.0,71675.6
+Tipo: Turista,Suavizamiento exponencial,2021-06-01,prueba,87847.0,71675.6
+Tipo: Turista,Suavizamiento exponencial,2021-07-01,prueba,93913.7,71675.6
+Tipo: Turista,Suavizamiento exponencial,2021-08-01,prueba,69117.0,71675.6
+Tipo: Turista,Suavizamiento exponencial,2021-09-01,prueba,62018.0,71675.6
+Tipo: Turista,Suavizamiento exponencial,2021-10-01,prueba,74749.0,71675.6
+Tipo: Turista,Suavizamiento exponencial,2021-11-01,prueba,92575.0,71675.6
+Tipo: Turista,Suavizamiento exponencial,2021-12-01,prueba,198773.1,71675.6
+Tipo: Turista,Suavizamiento exponencial,2022-01-01,prueba,127518.0,71675.6
+Tipo: Turista,Suavizamiento exponencial,2022-02-01,prueba,171303.6,71675.6
+Tipo: Turista,Suavizamiento exponencial,2022-03-01,prueba,199307.0,71675.6
+Tipo: Turista,Suavizamiento exponencial,2022-04-01,prueba,233879.0,71675.6
+Tipo: Turista,Suavizamiento exponencial,2022-05-01,prueba,202086.0,71675.6
+Tipo: Turista,Suavizamiento exponencial,2022-06-01,prueba,219846.0,71675.6
+Tipo: Turista,Suavizamiento exponencial,2022-07-01,prueba,251652.0,71675.6
+Tipo: Turista,Suavizamiento exponencial,2022-08-01,prueba,236157.0,71675.6
+Tipo: Turista,Suavizamiento exponencial,2022-09-01,prueba,208702.0,71675.6
+Tipo: Turista,Suavizamiento exponencial,2022-10-01,prueba,236899.0,71675.6
+Tipo: Turista,Suavizamiento exponencial,2022-11-01,prueba,270805.0,71675.6
+Tipo: Turista,Suavizamiento exponencial,2022-12-01,prueba,320803.0,71675.6
+Tipo: Turista,Suavizamiento exponencial,2023-01-01,prueba,183364.8,71675.6
+Tipo: Turista,Suavizamiento exponencial,2023-02-01,prueba,147419.4,71675.6
+Tipo: Turista,Suavizamiento exponencial,2023-03-01,prueba,192831.1,71675.6
+Tipo: Turista,Suavizamiento exponencial,2023-04-01,prueba,201509.8,71675.6
+Tipo: Turista,Suavizamiento exponencial,2023-05-01,prueba,152914.2,71675.6
+Tipo: Turista,Suavizamiento exponencial,2023-06-01,prueba,161376.2,71675.6
+Tipo: Turista,Suavizamiento exponencial,2023-07-01,prueba,179188.1,71675.6
+Tipo: Turista,Suavizamiento exponencial,2023-08-01,prueba,191451.1,71675.6
+Tipo: Turista,Suavizamiento exponencial,2023-09-01,prueba,159058.9,71675.6
+Tipo: Turista,Suavizamiento exponencial,2023-10-01,prueba,118585.8,71675.6
+Tipo: Turista,Suavizamiento exponencial,2023-11-01,prueba,202092.4,71675.6
+Tipo: Turista,Suavizamiento exponencial,2023-12-01,prueba,234187.9,71675.6
+Tipo: Turista,Suavizamiento exponencial,2024-01-01,prueba,214519.4,71675.6
+Tipo: Turista,Suavizamiento exponencial,2024-02-01,prueba,189941.6,71675.6
+Tipo: Turista,Suavizamiento exponencial,2024-03-01,prueba,241340.5,71675.6
+Tipo: Turista,Suavizamiento exponencial,2024-04-01,prueba,176258.6,71675.6
+Tipo: Turista,Suavizamiento exponencial,2024-05-01,prueba,171460.8,71675.6
+Tipo: Turista,Suavizamiento exponencial,2024-06-01,prueba,171274.6,71675.6
+Tipo: Turista,Suavizamiento exponencial,2024-07-01,prueba,205982.2,71675.6
+Tipo: Turista,Suavizamiento exponencial,2024-08-01,prueba,210722.2,71675.6
+Tipo: Turista,Suavizamiento exponencial,2024-09-01,prueba,160371.5,71675.6
+Tipo: Turista,Suavizamiento exponencial,2024-10-01,prueba,195543.4,71675.6
+Tipo: Turista,Suavizamiento exponencial,2024-11-01,prueba,228181.4,71675.6
+Tipo: Turista,Suavizamiento exponencial,2024-12-01,prueba,275312.3,71675.6
+Tipo: Turista,Suavizamiento exponencial,2025-01-01,prueba,215732.6,71675.6
+Tipo: Turista,Suavizamiento exponencial,2025-02-01,prueba,211483.4,71675.6
+Tipo: Turista,Suavizamiento exponencial,2025-03-01,prueba,214378.4,71675.6
+Tipo: Turista,Suavizamiento exponencial,2025-04-01,prueba,222748.6,71675.6
+Tipo: Turista,Suavizamiento exponencial,2025-05-01,prueba,183967.0,71675.6
+Tipo: Turista,Suavizamiento exponencial,2025-06-01,prueba,186922.6,71675.6
+Tipo: Turista,Suavizamiento exponencial,2025-07-01,prueba,219678.6,71675.6
+Tipo: Turista,Suavizamiento exponencial,2025-08-01,prueba,212947.1,71675.6
+Tipo: Turista,Suavizamiento exponencial,2025-09-01,prueba,159752.8,71675.6
+Tipo: Turista,Suavizamiento exponencial,2025-10-01,prueba,188991.5,71675.6
+Tipo: Turista,Suavizamiento exponencial,2025-11-01,prueba,239682.3,71675.6
+Tipo: Turista,Suavizamiento exponencial,2025-12-01,prueba,284612.2,71675.6
+Tipo: Turista,Suavizamiento exponencial,2026-01-01,prueba,236979.5,71675.6
+Tipo: Turista,Suavizamiento exponencial,2026-02-01,prueba,190178.7,71675.6
+Tipo: Turista,Suavizamiento exponencial,2026-03-01,prueba,233477.9,71675.6
+Tipo: Turista,Suavizamiento exponencial,2026-04-01,prueba,206519.6,71675.6
+Tipo: Turista,Suavizamiento exponencial,2026-05-01,prueba,177765.3,71675.6
+Tipo: Turista,Suavizamiento exponencial,2026-06-01,prueba,185759.1,71675.6
+Tipo: Turista,"ARIMA(1,1,1)",2009-01-01,entrenamiento,135041.8,
+Tipo: Turista,"ARIMA(1,1,1)",2009-02-01,entrenamiento,102970.7,
+Tipo: Turista,"ARIMA(1,1,1)",2009-03-01,entrenamiento,138196.0,
+Tipo: Turista,"ARIMA(1,1,1)",2009-04-01,entrenamiento,142963.8,
+Tipo: Turista,"ARIMA(1,1,1)",2009-05-01,entrenamiento,107033.8,
+Tipo: Turista,"ARIMA(1,1,1)",2009-06-01,entrenamiento,129975.8,
+Tipo: Turista,"ARIMA(1,1,1)",2009-07-01,entrenamiento,120238.1,
+Tipo: Turista,"ARIMA(1,1,1)",2009-08-01,entrenamiento,152763.1,
+Tipo: Turista,"ARIMA(1,1,1)",2009-09-01,entrenamiento,113473.0,
+Tipo: Turista,"ARIMA(1,1,1)",2009-10-01,entrenamiento,132319.2,
+Tipo: Turista,"ARIMA(1,1,1)",2009-11-01,entrenamiento,151304.3,
+Tipo: Turista,"ARIMA(1,1,1)",2009-12-01,entrenamiento,189805.1,
+Tipo: Turista,"ARIMA(1,1,1)",2010-01-01,entrenamiento,142795.8,
+Tipo: Turista,"ARIMA(1,1,1)",2010-02-01,entrenamiento,105688.3,
+Tipo: Turista,"ARIMA(1,1,1)",2010-03-01,entrenamiento,138100.5,
+Tipo: Turista,"ARIMA(1,1,1)",2010-04-01,entrenamiento,141775.7,
+Tipo: Turista,"ARIMA(1,1,1)",2010-05-01,entrenamiento,117453.1,
+Tipo: Turista,"ARIMA(1,1,1)",2010-06-01,entrenamiento,133244.2,
+Tipo: Turista,"ARIMA(1,1,1)",2010-07-01,entrenamiento,170213.9,
+Tipo: Turista,"ARIMA(1,1,1)",2010-08-01,entrenamiento,156125.9,
+Tipo: Turista,"ARIMA(1,1,1)",2010-09-01,entrenamiento,111427.6,
+Tipo: Turista,"ARIMA(1,1,1)",2010-10-01,entrenamiento,135644.3,
+Tipo: Turista,"ARIMA(1,1,1)",2010-11-01,entrenamiento,156863.4,
+Tipo: Turista,"ARIMA(1,1,1)",2010-12-01,entrenamiento,195448.1,
+Tipo: Turista,"ARIMA(1,1,1)",2011-01-01,entrenamiento,148190.9,
+Tipo: Turista,"ARIMA(1,1,1)",2011-02-01,entrenamiento,108903.0,
+Tipo: Turista,"ARIMA(1,1,1)",2011-03-01,entrenamiento,143552.5,
+Tipo: Turista,"ARIMA(1,1,1)",2011-04-01,entrenamiento,154370.4,
+Tipo: Turista,"ARIMA(1,1,1)",2011-05-01,entrenamiento,122931.9,
+Tipo: Turista,"ARIMA(1,1,1)",2011-06-01,entrenamiento,137413.0,
+Tipo: Turista,"ARIMA(1,1,1)",2011-07-01,entrenamiento,169416.4,
+Tipo: Turista,"ARIMA(1,1,1)",2011-08-01,entrenamiento,148421.1,
+Tipo: Turista,"ARIMA(1,1,1)",2011-09-01,entrenamiento,119224.2,
+Tipo: Turista,"ARIMA(1,1,1)",2011-10-01,entrenamiento,130894.6,
+Tipo: Turista,"ARIMA(1,1,1)",2011-11-01,entrenamiento,162870.5,
+Tipo: Turista,"ARIMA(1,1,1)",2011-12-01,entrenamiento,209339.0,
+Tipo: Turista,"ARIMA(1,1,1)",2012-01-01,entrenamiento,152837.8,
+Tipo: Turista,"ARIMA(1,1,1)",2012-02-01,entrenamiento,112386.2,
+Tipo: Turista,"ARIMA(1,1,1)",2012-03-01,entrenamiento,154704.5,
+Tipo: Turista,"ARIMA(1,1,1)",2012-04-01,entrenamiento,145478.6,
+Tipo: Turista,"ARIMA(1,1,1)",2012-05-01,entrenamiento,126080.3,
+Tipo: Turista,"ARIMA(1,1,1)",2012-06-01,entrenamiento,145179.4,
+Tipo: Turista,"ARIMA(1,1,1)",2012-07-01,entrenamiento,166496.7,
+Tipo: Turista,"ARIMA(1,1,1)",2012-08-01,entrenamiento,143003.8,
+Tipo: Turista,"ARIMA(1,1,1)",2012-09-01,entrenamiento,123304.6,
+Tipo: Turista,"ARIMA(1,1,1)",2012-10-01,entrenamiento,140984.7,
+Tipo: Turista,"ARIMA(1,1,1)",2012-11-01,entrenamiento,167456.8,
+Tipo: Turista,"ARIMA(1,1,1)",2012-12-01,entrenamiento,202323.9,
+Tipo: Turista,"ARIMA(1,1,1)",2013-01-01,entrenamiento,146485.2,
+Tipo: Turista,"ARIMA(1,1,1)",2013-02-01,entrenamiento,105772.3,
+Tipo: Turista,"ARIMA(1,1,1)",2013-03-01,entrenamiento,175628.0,
+Tipo: Turista,"ARIMA(1,1,1)",2013-04-01,entrenamiento,147582.8,
+Tipo: Turista,"ARIMA(1,1,1)",2013-05-01,entrenamiento,148953.3,
+Tipo: Turista,"ARIMA(1,1,1)",2013-06-01,entrenamiento,165542.0,
+Tipo: Turista,"ARIMA(1,1,1)",2013-07-01,entrenamiento,177040.0,
+Tipo: Turista,"ARIMA(1,1,1)",2013-08-01,entrenamiento,166817.1,
+Tipo: Turista,"ARIMA(1,1,1)",2013-09-01,entrenamiento,137826.1,
+Tipo: Turista,"ARIMA(1,1,1)",2013-10-01,entrenamiento,141818.0,
+Tipo: Turista,"ARIMA(1,1,1)",2013-11-01,entrenamiento,174254.0,
+Tipo: Turista,"ARIMA(1,1,1)",2013-12-01,entrenamiento,222869.3,
+Tipo: Turista,"ARIMA(1,1,1)",2014-01-01,entrenamiento,185334.5,
+Tipo: Turista,"ARIMA(1,1,1)",2014-02-01,entrenamiento,146437.4,
+Tipo: Turista,"ARIMA(1,1,1)",2014-03-01,entrenamiento,169335.8,
+Tipo: Turista,"ARIMA(1,1,1)",2014-04-01,entrenamiento,198985.7,
+Tipo: Turista,"ARIMA(1,1,1)",2014-05-01,entrenamiento,163274.0,
+Tipo: Turista,"ARIMA(1,1,1)",2014-06-01,entrenamiento,174375.9,
+Tipo: Turista,"ARIMA(1,1,1)",2014-07-01,entrenamiento,203605.6,
+Tipo: Turista,"ARIMA(1,1,1)",2014-08-01,entrenamiento,182043.6,
+Tipo: Turista,"ARIMA(1,1,1)",2014-09-01,entrenamiento,152275.8,
+Tipo: Turista,"ARIMA(1,1,1)",2014-10-01,entrenamiento,178162.4,
+Tipo: Turista,"ARIMA(1,1,1)",2014-11-01,entrenamiento,197122.2,
+Tipo: Turista,"ARIMA(1,1,1)",2014-12-01,entrenamiento,259966.7,
+Tipo: Turista,"ARIMA(1,1,1)",2015-01-01,entrenamiento,195364.9,
+Tipo: Turista,"ARIMA(1,1,1)",2015-02-01,entrenamiento,155674.2,
+Tipo: Turista,"ARIMA(1,1,1)",2015-03-01,entrenamiento,207842.2,
+Tipo: Turista,"ARIMA(1,1,1)",2015-04-01,entrenamiento,211702.7,
+Tipo: Turista,"ARIMA(1,1,1)",2015-05-01,entrenamiento,183886.6,
+Tipo: Turista,"ARIMA(1,1,1)",2015-06-01,entrenamiento,198782.1,
+Tipo: Turista,"ARIMA(1,1,1)",2015-07-01,entrenamiento,203935.2,
+Tipo: Turista,"ARIMA(1,1,1)",2015-08-01,entrenamiento,198959.8,
+Tipo: Turista,"ARIMA(1,1,1)",2015-09-01,entrenamiento,169841.8,
+Tipo: Turista,"ARIMA(1,1,1)",2015-10-01,entrenamiento,193181.5,
+Tipo: Turista,"ARIMA(1,1,1)",2015-11-01,entrenamiento,210543.3,
+Tipo: Turista,"ARIMA(1,1,1)",2015-12-01,entrenamiento,283047.3,
+Tipo: Turista,"ARIMA(1,1,1)",2016-01-01,entrenamiento,232425.3,
+Tipo: Turista,"ARIMA(1,1,1)",2016-02-01,entrenamiento,187700.4,
+Tipo: Turista,"ARIMA(1,1,1)",2016-03-01,entrenamiento,279937.1,
+Tipo: Turista,"ARIMA(1,1,1)",2016-04-01,entrenamiento,179987.4,
+Tipo: Turista,"ARIMA(1,1,1)",2016-05-01,entrenamiento,186322.5,
+Tipo: Turista,"ARIMA(1,1,1)",2016-06-01,entrenamiento,201427.8,
+Tipo: Turista,"ARIMA(1,1,1)",2016-07-01,entrenamiento,240849.0,
+Tipo: Turista,"ARIMA(1,1,1)",2016-08-01,entrenamiento,231749.3,
+Tipo: Turista,"ARIMA(1,1,1)",2016-09-01,entrenamiento,163755.8,
+Tipo: Turista,"ARIMA(1,1,1)",2016-10-01,entrenamiento,220072.4,
+Tipo: Turista,"ARIMA(1,1,1)",2016-11-01,entrenamiento,223169.7,
+Tipo: Turista,"ARIMA(1,1,1)",2016-12-01,entrenamiento,290026.8,
+Tipo: Turista,"ARIMA(1,1,1)",2017-01-01,entrenamiento,234710.3,
+Tipo: Turista,"ARIMA(1,1,1)",2017-02-01,entrenamiento,199673.7,
+Tipo: Turista,"ARIMA(1,1,1)",2017-03-01,entrenamiento,241667.6,
+Tipo: Turista,"ARIMA(1,1,1)",2017-04-01,entrenamiento,303498.4,
+Tipo: Turista,"ARIMA(1,1,1)",2017-05-01,entrenamiento,203347.3,
+Tipo: Turista,"ARIMA(1,1,1)",2017-06-01,entrenamiento,197453.1,
+Tipo: Turista,"ARIMA(1,1,1)",2017-07-01,entrenamiento,241611.2,
+Tipo: Turista,"ARIMA(1,1,1)",2017-08-01,entrenamiento,213796.2,
+Tipo: Turista,"ARIMA(1,1,1)",2017-09-01,entrenamiento,171054.7,
+Tipo: Turista,"ARIMA(1,1,1)",2017-10-01,entrenamiento,198602.3,
+Tipo: Turista,"ARIMA(1,1,1)",2017-11-01,entrenamiento,230918.2,
+Tipo: Turista,"ARIMA(1,1,1)",2017-12-01,entrenamiento,288478.2,
+Tipo: Turista,"ARIMA(1,1,1)",2018-01-01,entrenamiento,243702.7,
+Tipo: Turista,"ARIMA(1,1,1)",2018-02-01,entrenamiento,199484.6,
+Tipo: Turista,"ARIMA(1,1,1)",2018-03-01,entrenamiento,299707.1,
+Tipo: Turista,"ARIMA(1,1,1)",2018-04-01,entrenamiento,236935.1,
+Tipo: Turista,"ARIMA(1,1,1)",2018-05-01,entrenamiento,216947.5,
+Tipo: Turista,"ARIMA(1,1,1)",2018-06-01,entrenamiento,239429.6,
+Tipo: Turista,"ARIMA(1,1,1)",2018-07-01,entrenamiento,271128.1,
+Tipo: Turista,"ARIMA(1,1,1)",2018-08-01,entrenamiento,266012.9,
+Tipo: Turista,"ARIMA(1,1,1)",2018-09-01,entrenamiento,210085.9,
+Tipo: Turista,"ARIMA(1,1,1)",2018-10-01,entrenamiento,231055.7,
+Tipo: Turista,"ARIMA(1,1,1)",2018-11-01,entrenamiento,262473.4,
+Tipo: Turista,"ARIMA(1,1,1)",2018-12-01,entrenamiento,332516.9,
+Tipo: Turista,"ARIMA(1,1,1)",2019-01-01,entrenamiento,280595.5,
+Tipo: Turista,"ARIMA(1,1,1)",2019-02-01,entrenamiento,206367.5,
+Tipo: Turista,"ARIMA(1,1,1)",2019-03-01,entrenamiento,262214.8,
+Tipo: Turista,"ARIMA(1,1,1)",2019-04-01,entrenamiento,292828.3,
+Tipo: Turista,"ARIMA(1,1,1)",2019-05-01,entrenamiento,217694.7,
+Tipo: Turista,"ARIMA(1,1,1)",2019-06-01,entrenamiento,238247.9,
+Tipo: Turista,"ARIMA(1,1,1)",2019-07-01,entrenamiento,269881.6,
+Tipo: Turista,"ARIMA(1,1,1)",2019-08-01,entrenamiento,250987.3,
+Tipo: Turista,"ARIMA(1,1,1)",2019-09-01,entrenamiento,214342.9,
+Tipo: Turista,"ARIMA(1,1,1)",2019-10-01,entrenamiento,220915.9,
+Tipo: Turista,"ARIMA(1,1,1)",2019-11-01,entrenamiento,252912.2,
+Tipo: Turista,"ARIMA(1,1,1)",2019-12-01,entrenamiento,344011.2,
+Tipo: Turista,"ARIMA(1,1,1)",2020-01-01,entrenamiento,280836.7,
+Tipo: Turista,"ARIMA(1,1,1)",2020-02-01,entrenamiento,219984.5,
+Tipo: Turista,"ARIMA(1,1,1)",2020-03-01,entrenamiento,109750.9,
+Tipo: Turista,"ARIMA(1,1,1)",2020-04-01,entrenamiento,10039.0,
+Tipo: Turista,"ARIMA(1,1,1)",2020-05-01,entrenamiento,9779.0,
+Tipo: Turista,"ARIMA(1,1,1)",2020-06-01,entrenamiento,11817.0,
+Tipo: Turista,"ARIMA(1,1,1)",2020-07-01,entrenamiento,13484.0,
+Tipo: Turista,"ARIMA(1,1,1)",2020-08-01,entrenamiento,15357.0,
+Tipo: Turista,"ARIMA(1,1,1)",2020-09-01,entrenamiento,12219.5,
+Tipo: Turista,"ARIMA(1,1,1)",2020-10-01,entrenamiento,14975.7,
+Tipo: Turista,"ARIMA(1,1,1)",2020-11-01,entrenamiento,51926.0,
+Tipo: Turista,"ARIMA(1,1,1)",2020-12-01,entrenamiento,47028.0,
+Tipo: Turista,"ARIMA(1,1,1)",2021-01-01,entrenamiento,78623.0,
+Tipo: Turista,"ARIMA(1,1,1)",2021-02-01,entrenamiento,49318.0,
+Tipo: Turista,"ARIMA(1,1,1)",2021-03-01,entrenamiento,82703.4,
+Tipo: Turista,"ARIMA(1,1,1)",2021-04-01,prueba,56912.2,72555.3
+Tipo: Turista,"ARIMA(1,1,1)",2021-05-01,prueba,69945.0,68366.1
+Tipo: Turista,"ARIMA(1,1,1)",2021-06-01,prueba,87847.0,66636.7
+Tipo: Turista,"ARIMA(1,1,1)",2021-07-01,prueba,93913.7,65922.8
+Tipo: Turista,"ARIMA(1,1,1)",2021-08-01,prueba,69117.0,65628.1
+Tipo: Turista,"ARIMA(1,1,1)",2021-09-01,prueba,62018.0,65506.4
+Tipo: Turista,"ARIMA(1,1,1)",2021-10-01,prueba,74749.0,65456.2
+Tipo: Turista,"ARIMA(1,1,1)",2021-11-01,prueba,92575.0,65435.5
+Tipo: Turista,"ARIMA(1,1,1)",2021-12-01,prueba,198773.1,65426.9
+Tipo: Turista,"ARIMA(1,1,1)",2022-01-01,prueba,127518.0,65423.4
+Tipo: Turista,"ARIMA(1,1,1)",2022-02-01,prueba,171303.6,65421.9
+Tipo: Turista,"ARIMA(1,1,1)",2022-03-01,prueba,199307.0,65421.3
+Tipo: Turista,"ARIMA(1,1,1)",2022-04-01,prueba,233879.0,65421.1
+Tipo: Turista,"ARIMA(1,1,1)",2022-05-01,prueba,202086.0,65421.0
+Tipo: Turista,"ARIMA(1,1,1)",2022-06-01,prueba,219846.0,65420.9
+Tipo: Turista,"ARIMA(1,1,1)",2022-07-01,prueba,251652.0,65420.9
+Tipo: Turista,"ARIMA(1,1,1)",2022-08-01,prueba,236157.0,65420.9
+Tipo: Turista,"ARIMA(1,1,1)",2022-09-01,prueba,208702.0,65420.9
+Tipo: Turista,"ARIMA(1,1,1)",2022-10-01,prueba,236899.0,65420.9
+Tipo: Turista,"ARIMA(1,1,1)",2022-11-01,prueba,270805.0,65420.9
+Tipo: Turista,"ARIMA(1,1,1)",2022-12-01,prueba,320803.0,65420.9
+Tipo: Turista,"ARIMA(1,1,1)",2023-01-01,prueba,183364.8,65420.9
+Tipo: Turista,"ARIMA(1,1,1)",2023-02-01,prueba,147419.4,65420.9
+Tipo: Turista,"ARIMA(1,1,1)",2023-03-01,prueba,192831.1,65420.9
+Tipo: Turista,"ARIMA(1,1,1)",2023-04-01,prueba,201509.8,65420.9
+Tipo: Turista,"ARIMA(1,1,1)",2023-05-01,prueba,152914.2,65420.9
+Tipo: Turista,"ARIMA(1,1,1)",2023-06-01,prueba,161376.2,65420.9
+Tipo: Turista,"ARIMA(1,1,1)",2023-07-01,prueba,179188.1,65420.9
+Tipo: Turista,"ARIMA(1,1,1)",2023-08-01,prueba,191451.1,65420.9
+Tipo: Turista,"ARIMA(1,1,1)",2023-09-01,prueba,159058.9,65420.9
+Tipo: Turista,"ARIMA(1,1,1)",2023-10-01,prueba,118585.8,65420.9
+Tipo: Turista,"ARIMA(1,1,1)",2023-11-01,prueba,202092.4,65420.9
+Tipo: Turista,"ARIMA(1,1,1)",2023-12-01,prueba,234187.9,65420.9
+Tipo: Turista,"ARIMA(1,1,1)",2024-01-01,prueba,214519.4,65420.9
+Tipo: Turista,"ARIMA(1,1,1)",2024-02-01,prueba,189941.6,65420.9
+Tipo: Turista,"ARIMA(1,1,1)",2024-03-01,prueba,241340.5,65420.9
+Tipo: Turista,"ARIMA(1,1,1)",2024-04-01,prueba,176258.6,65420.9
+Tipo: Turista,"ARIMA(1,1,1)",2024-05-01,prueba,171460.8,65420.9
+Tipo: Turista,"ARIMA(1,1,1)",2024-06-01,prueba,171274.6,65420.9
+Tipo: Turista,"ARIMA(1,1,1)",2024-07-01,prueba,205982.2,65420.9
+Tipo: Turista,"ARIMA(1,1,1)",2024-08-01,prueba,210722.2,65420.9
+Tipo: Turista,"ARIMA(1,1,1)",2024-09-01,prueba,160371.5,65420.9
+Tipo: Turista,"ARIMA(1,1,1)",2024-10-01,prueba,195543.4,65420.9
+Tipo: Turista,"ARIMA(1,1,1)",2024-11-01,prueba,228181.4,65420.9
+Tipo: Turista,"ARIMA(1,1,1)",2024-12-01,prueba,275312.3,65420.9
+Tipo: Turista,"ARIMA(1,1,1)",2025-01-01,prueba,215732.6,65420.9
+Tipo: Turista,"ARIMA(1,1,1)",2025-02-01,prueba,211483.4,65420.9
+Tipo: Turista,"ARIMA(1,1,1)",2025-03-01,prueba,214378.4,65420.9
+Tipo: Turista,"ARIMA(1,1,1)",2025-04-01,prueba,222748.6,65420.9
+Tipo: Turista,"ARIMA(1,1,1)",2025-05-01,prueba,183967.0,65420.9
+Tipo: Turista,"ARIMA(1,1,1)",2025-06-01,prueba,186922.6,65420.9
+Tipo: Turista,"ARIMA(1,1,1)",2025-07-01,prueba,219678.6,65420.9
+Tipo: Turista,"ARIMA(1,1,1)",2025-08-01,prueba,212947.1,65420.9
+Tipo: Turista,"ARIMA(1,1,1)",2025-09-01,prueba,159752.8,65420.9
+Tipo: Turista,"ARIMA(1,1,1)",2025-10-01,prueba,188991.5,65420.9
+Tipo: Turista,"ARIMA(1,1,1)",2025-11-01,prueba,239682.3,65420.9
+Tipo: Turista,"ARIMA(1,1,1)",2025-12-01,prueba,284612.2,65420.9
+Tipo: Turista,"ARIMA(1,1,1)",2026-01-01,prueba,236979.5,65420.9
+Tipo: Turista,"ARIMA(1,1,1)",2026-02-01,prueba,190178.7,65420.9
+Tipo: Turista,"ARIMA(1,1,1)",2026-03-01,prueba,233477.9,65420.9
+Tipo: Turista,"ARIMA(1,1,1)",2026-04-01,prueba,206519.6,65420.9
+Tipo: Turista,"ARIMA(1,1,1)",2026-05-01,prueba,177765.3,65420.9
+Tipo: Turista,"ARIMA(1,1,1)",2026-06-01,prueba,185759.1,65420.9
+Tipo: Turista,Holt-Winters multiplicativo,2009-01-01,entrenamiento,135041.8,
+Tipo: Turista,Holt-Winters multiplicativo,2009-02-01,entrenamiento,102970.7,
+Tipo: Turista,Holt-Winters multiplicativo,2009-03-01,entrenamiento,138196.0,
+Tipo: Turista,Holt-Winters multiplicativo,2009-04-01,entrenamiento,142963.8,
+Tipo: Turista,Holt-Winters multiplicativo,2009-05-01,entrenamiento,107033.8,
+Tipo: Turista,Holt-Winters multiplicativo,2009-06-01,entrenamiento,129975.8,
+Tipo: Turista,Holt-Winters multiplicativo,2009-07-01,entrenamiento,120238.1,
+Tipo: Turista,Holt-Winters multiplicativo,2009-08-01,entrenamiento,152763.1,
+Tipo: Turista,Holt-Winters multiplicativo,2009-09-01,entrenamiento,113473.0,
+Tipo: Turista,Holt-Winters multiplicativo,2009-10-01,entrenamiento,132319.2,
+Tipo: Turista,Holt-Winters multiplicativo,2009-11-01,entrenamiento,151304.3,
+Tipo: Turista,Holt-Winters multiplicativo,2009-12-01,entrenamiento,189805.1,
+Tipo: Turista,Holt-Winters multiplicativo,2010-01-01,entrenamiento,142795.8,
+Tipo: Turista,Holt-Winters multiplicativo,2010-02-01,entrenamiento,105688.3,
+Tipo: Turista,Holt-Winters multiplicativo,2010-03-01,entrenamiento,138100.5,
+Tipo: Turista,Holt-Winters multiplicativo,2010-04-01,entrenamiento,141775.7,
+Tipo: Turista,Holt-Winters multiplicativo,2010-05-01,entrenamiento,117453.1,
+Tipo: Turista,Holt-Winters multiplicativo,2010-06-01,entrenamiento,133244.2,
+Tipo: Turista,Holt-Winters multiplicativo,2010-07-01,entrenamiento,170213.9,
+Tipo: Turista,Holt-Winters multiplicativo,2010-08-01,entrenamiento,156125.9,
+Tipo: Turista,Holt-Winters multiplicativo,2010-09-01,entrenamiento,111427.6,
+Tipo: Turista,Holt-Winters multiplicativo,2010-10-01,entrenamiento,135644.3,
+Tipo: Turista,Holt-Winters multiplicativo,2010-11-01,entrenamiento,156863.4,
+Tipo: Turista,Holt-Winters multiplicativo,2010-12-01,entrenamiento,195448.1,
+Tipo: Turista,Holt-Winters multiplicativo,2011-01-01,entrenamiento,148190.9,
+Tipo: Turista,Holt-Winters multiplicativo,2011-02-01,entrenamiento,108903.0,
+Tipo: Turista,Holt-Winters multiplicativo,2011-03-01,entrenamiento,143552.5,
+Tipo: Turista,Holt-Winters multiplicativo,2011-04-01,entrenamiento,154370.4,
+Tipo: Turista,Holt-Winters multiplicativo,2011-05-01,entrenamiento,122931.9,
+Tipo: Turista,Holt-Winters multiplicativo,2011-06-01,entrenamiento,137413.0,
+Tipo: Turista,Holt-Winters multiplicativo,2011-07-01,entrenamiento,169416.4,
+Tipo: Turista,Holt-Winters multiplicativo,2011-08-01,entrenamiento,148421.1,
+Tipo: Turista,Holt-Winters multiplicativo,2011-09-01,entrenamiento,119224.2,
+Tipo: Turista,Holt-Winters multiplicativo,2011-10-01,entrenamiento,130894.6,
+Tipo: Turista,Holt-Winters multiplicativo,2011-11-01,entrenamiento,162870.5,
+Tipo: Turista,Holt-Winters multiplicativo,2011-12-01,entrenamiento,209339.0,
+Tipo: Turista,Holt-Winters multiplicativo,2012-01-01,entrenamiento,152837.8,
+Tipo: Turista,Holt-Winters multiplicativo,2012-02-01,entrenamiento,112386.2,
+Tipo: Turista,Holt-Winters multiplicativo,2012-03-01,entrenamiento,154704.5,
+Tipo: Turista,Holt-Winters multiplicativo,2012-04-01,entrenamiento,145478.6,
+Tipo: Turista,Holt-Winters multiplicativo,2012-05-01,entrenamiento,126080.3,
+Tipo: Turista,Holt-Winters multiplicativo,2012-06-01,entrenamiento,145179.4,
+Tipo: Turista,Holt-Winters multiplicativo,2012-07-01,entrenamiento,166496.7,
+Tipo: Turista,Holt-Winters multiplicativo,2012-08-01,entrenamiento,143003.8,
+Tipo: Turista,Holt-Winters multiplicativo,2012-09-01,entrenamiento,123304.6,
+Tipo: Turista,Holt-Winters multiplicativo,2012-10-01,entrenamiento,140984.7,
+Tipo: Turista,Holt-Winters multiplicativo,2012-11-01,entrenamiento,167456.8,
+Tipo: Turista,Holt-Winters multiplicativo,2012-12-01,entrenamiento,202323.9,
+Tipo: Turista,Holt-Winters multiplicativo,2013-01-01,entrenamiento,146485.2,
+Tipo: Turista,Holt-Winters multiplicativo,2013-02-01,entrenamiento,105772.3,
+Tipo: Turista,Holt-Winters multiplicativo,2013-03-01,entrenamiento,175628.0,
+Tipo: Turista,Holt-Winters multiplicativo,2013-04-01,entrenamiento,147582.8,
+Tipo: Turista,Holt-Winters multiplicativo,2013-05-01,entrenamiento,148953.3,
+Tipo: Turista,Holt-Winters multiplicativo,2013-06-01,entrenamiento,165542.0,
+Tipo: Turista,Holt-Winters multiplicativo,2013-07-01,entrenamiento,177040.0,
+Tipo: Turista,Holt-Winters multiplicativo,2013-08-01,entrenamiento,166817.1,
+Tipo: Turista,Holt-Winters multiplicativo,2013-09-01,entrenamiento,137826.1,
+Tipo: Turista,Holt-Winters multiplicativo,2013-10-01,entrenamiento,141818.0,
+Tipo: Turista,Holt-Winters multiplicativo,2013-11-01,entrenamiento,174254.0,
+Tipo: Turista,Holt-Winters multiplicativo,2013-12-01,entrenamiento,222869.3,
+Tipo: Turista,Holt-Winters multiplicativo,2014-01-01,entrenamiento,185334.5,
+Tipo: Turista,Holt-Winters multiplicativo,2014-02-01,entrenamiento,146437.4,
+Tipo: Turista,Holt-Winters multiplicativo,2014-03-01,entrenamiento,169335.8,
+Tipo: Turista,Holt-Winters multiplicativo,2014-04-01,entrenamiento,198985.7,
+Tipo: Turista,Holt-Winters multiplicativo,2014-05-01,entrenamiento,163274.0,
+Tipo: Turista,Holt-Winters multiplicativo,2014-06-01,entrenamiento,174375.9,
+Tipo: Turista,Holt-Winters multiplicativo,2014-07-01,entrenamiento,203605.6,
+Tipo: Turista,Holt-Winters multiplicativo,2014-08-01,entrenamiento,182043.6,
+Tipo: Turista,Holt-Winters multiplicativo,2014-09-01,entrenamiento,152275.8,
+Tipo: Turista,Holt-Winters multiplicativo,2014-10-01,entrenamiento,178162.4,
+Tipo: Turista,Holt-Winters multiplicativo,2014-11-01,entrenamiento,197122.2,
+Tipo: Turista,Holt-Winters multiplicativo,2014-12-01,entrenamiento,259966.7,
+Tipo: Turista,Holt-Winters multiplicativo,2015-01-01,entrenamiento,195364.9,
+Tipo: Turista,Holt-Winters multiplicativo,2015-02-01,entrenamiento,155674.2,
+Tipo: Turista,Holt-Winters multiplicativo,2015-03-01,entrenamiento,207842.2,
+Tipo: Turista,Holt-Winters multiplicativo,2015-04-01,entrenamiento,211702.7,
+Tipo: Turista,Holt-Winters multiplicativo,2015-05-01,entrenamiento,183886.6,
+Tipo: Turista,Holt-Winters multiplicativo,2015-06-01,entrenamiento,198782.1,
+Tipo: Turista,Holt-Winters multiplicativo,2015-07-01,entrenamiento,203935.2,
+Tipo: Turista,Holt-Winters multiplicativo,2015-08-01,entrenamiento,198959.8,
+Tipo: Turista,Holt-Winters multiplicativo,2015-09-01,entrenamiento,169841.8,
+Tipo: Turista,Holt-Winters multiplicativo,2015-10-01,entrenamiento,193181.5,
+Tipo: Turista,Holt-Winters multiplicativo,2015-11-01,entrenamiento,210543.3,
+Tipo: Turista,Holt-Winters multiplicativo,2015-12-01,entrenamiento,283047.3,
+Tipo: Turista,Holt-Winters multiplicativo,2016-01-01,entrenamiento,232425.3,
+Tipo: Turista,Holt-Winters multiplicativo,2016-02-01,entrenamiento,187700.4,
+Tipo: Turista,Holt-Winters multiplicativo,2016-03-01,entrenamiento,279937.1,
+Tipo: Turista,Holt-Winters multiplicativo,2016-04-01,entrenamiento,179987.4,
+Tipo: Turista,Holt-Winters multiplicativo,2016-05-01,entrenamiento,186322.5,
+Tipo: Turista,Holt-Winters multiplicativo,2016-06-01,entrenamiento,201427.8,
+Tipo: Turista,Holt-Winters multiplicativo,2016-07-01,entrenamiento,240849.0,
+Tipo: Turista,Holt-Winters multiplicativo,2016-08-01,entrenamiento,231749.3,
+Tipo: Turista,Holt-Winters multiplicativo,2016-09-01,entrenamiento,163755.8,
+Tipo: Turista,Holt-Winters multiplicativo,2016-10-01,entrenamiento,220072.4,
+Tipo: Turista,Holt-Winters multiplicativo,2016-11-01,entrenamiento,223169.7,
+Tipo: Turista,Holt-Winters multiplicativo,2016-12-01,entrenamiento,290026.8,
+Tipo: Turista,Holt-Winters multiplicativo,2017-01-01,entrenamiento,234710.3,
+Tipo: Turista,Holt-Winters multiplicativo,2017-02-01,entrenamiento,199673.7,
+Tipo: Turista,Holt-Winters multiplicativo,2017-03-01,entrenamiento,241667.6,
+Tipo: Turista,Holt-Winters multiplicativo,2017-04-01,entrenamiento,303498.4,
+Tipo: Turista,Holt-Winters multiplicativo,2017-05-01,entrenamiento,203347.3,
+Tipo: Turista,Holt-Winters multiplicativo,2017-06-01,entrenamiento,197453.1,
+Tipo: Turista,Holt-Winters multiplicativo,2017-07-01,entrenamiento,241611.2,
+Tipo: Turista,Holt-Winters multiplicativo,2017-08-01,entrenamiento,213796.2,
+Tipo: Turista,Holt-Winters multiplicativo,2017-09-01,entrenamiento,171054.7,
+Tipo: Turista,Holt-Winters multiplicativo,2017-10-01,entrenamiento,198602.3,
+Tipo: Turista,Holt-Winters multiplicativo,2017-11-01,entrenamiento,230918.2,
+Tipo: Turista,Holt-Winters multiplicativo,2017-12-01,entrenamiento,288478.2,
+Tipo: Turista,Holt-Winters multiplicativo,2018-01-01,entrenamiento,243702.7,
+Tipo: Turista,Holt-Winters multiplicativo,2018-02-01,entrenamiento,199484.6,
+Tipo: Turista,Holt-Winters multiplicativo,2018-03-01,entrenamiento,299707.1,
+Tipo: Turista,Holt-Winters multiplicativo,2018-04-01,entrenamiento,236935.1,
+Tipo: Turista,Holt-Winters multiplicativo,2018-05-01,entrenamiento,216947.5,
+Tipo: Turista,Holt-Winters multiplicativo,2018-06-01,entrenamiento,239429.6,
+Tipo: Turista,Holt-Winters multiplicativo,2018-07-01,entrenamiento,271128.1,
+Tipo: Turista,Holt-Winters multiplicativo,2018-08-01,entrenamiento,266012.9,
+Tipo: Turista,Holt-Winters multiplicativo,2018-09-01,entrenamiento,210085.9,
+Tipo: Turista,Holt-Winters multiplicativo,2018-10-01,entrenamiento,231055.7,
+Tipo: Turista,Holt-Winters multiplicativo,2018-11-01,entrenamiento,262473.4,
+Tipo: Turista,Holt-Winters multiplicativo,2018-12-01,entrenamiento,332516.9,
+Tipo: Turista,Holt-Winters multiplicativo,2019-01-01,entrenamiento,280595.5,
+Tipo: Turista,Holt-Winters multiplicativo,2019-02-01,entrenamiento,206367.5,
+Tipo: Turista,Holt-Winters multiplicativo,2019-03-01,entrenamiento,262214.8,
+Tipo: Turista,Holt-Winters multiplicativo,2019-04-01,entrenamiento,292828.3,
+Tipo: Turista,Holt-Winters multiplicativo,2019-05-01,entrenamiento,217694.7,
+Tipo: Turista,Holt-Winters multiplicativo,2019-06-01,entrenamiento,238247.9,
+Tipo: Turista,Holt-Winters multiplicativo,2019-07-01,entrenamiento,269881.6,
+Tipo: Turista,Holt-Winters multiplicativo,2019-08-01,entrenamiento,250987.3,
+Tipo: Turista,Holt-Winters multiplicativo,2019-09-01,entrenamiento,214342.9,
+Tipo: Turista,Holt-Winters multiplicativo,2019-10-01,entrenamiento,220915.9,
+Tipo: Turista,Holt-Winters multiplicativo,2019-11-01,entrenamiento,252912.2,
+Tipo: Turista,Holt-Winters multiplicativo,2019-12-01,entrenamiento,344011.2,
+Tipo: Turista,Holt-Winters multiplicativo,2020-01-01,entrenamiento,280836.7,
+Tipo: Turista,Holt-Winters multiplicativo,2020-02-01,entrenamiento,219984.5,
+Tipo: Turista,Holt-Winters multiplicativo,2020-03-01,entrenamiento,109750.9,
+Tipo: Turista,Holt-Winters multiplicativo,2020-04-01,entrenamiento,10039.0,
+Tipo: Turista,Holt-Winters multiplicativo,2020-05-01,entrenamiento,9779.0,
+Tipo: Turista,Holt-Winters multiplicativo,2020-06-01,entrenamiento,11817.0,
+Tipo: Turista,Holt-Winters multiplicativo,2020-07-01,entrenamiento,13484.0,
+Tipo: Turista,Holt-Winters multiplicativo,2020-08-01,entrenamiento,15357.0,
+Tipo: Turista,Holt-Winters multiplicativo,2020-09-01,entrenamiento,12219.5,
+Tipo: Turista,Holt-Winters multiplicativo,2020-10-01,entrenamiento,14975.7,
+Tipo: Turista,Holt-Winters multiplicativo,2020-11-01,entrenamiento,51926.0,
+Tipo: Turista,Holt-Winters multiplicativo,2020-12-01,entrenamiento,47028.0,
+Tipo: Turista,Holt-Winters multiplicativo,2021-01-01,entrenamiento,78623.0,
+Tipo: Turista,Holt-Winters multiplicativo,2021-02-01,entrenamiento,49318.0,
+Tipo: Turista,Holt-Winters multiplicativo,2021-03-01,entrenamiento,82703.4,
+Tipo: Turista,Holt-Winters multiplicativo,2021-04-01,prueba,56912.2,77236.7
+Tipo: Turista,Holt-Winters multiplicativo,2021-05-01,prueba,69945.0,62901.4
+Tipo: Turista,Holt-Winters multiplicativo,2021-06-01,prueba,87847.0,68288.1
+Tipo: Turista,Holt-Winters multiplicativo,2021-07-01,prueba,93913.7,77807.5
+Tipo: Turista,Holt-Winters multiplicativo,2021-08-01,prueba,69117.0,73152.9
+Tipo: Turista,Holt-Winters multiplicativo,2021-09-01,prueba,62018.0,58458.8
+Tipo: Turista,Holt-Winters multiplicativo,2021-10-01,prueba,74749.0,66333.9
+Tipo: Turista,Holt-Winters multiplicativo,2021-11-01,prueba,92575.0,75110.1
+Tipo: Turista,Holt-Winters multiplicativo,2021-12-01,prueba,198773.1,96734.5
+Tipo: Turista,Holt-Winters multiplicativo,2022-01-01,prueba,127518.0,77864.1
+Tipo: Turista,Holt-Winters multiplicativo,2022-02-01,prueba,171303.6,60744.1
+Tipo: Turista,Holt-Winters multiplicativo,2022-03-01,prueba,199307.0,74213.7
+Tipo: Turista,Holt-Winters multiplicativo,2022-04-01,prueba,233879.0,69308.2
+Tipo: Turista,Holt-Winters multiplicativo,2022-05-01,prueba,202086.0,56444.4
+Tipo: Turista,Holt-Winters multiplicativo,2022-06-01,prueba,219846.0,61278.1
+Tipo: Turista,Holt-Winters multiplicativo,2022-07-01,prueba,251652.0,69820.4
+Tipo: Turista,Holt-Winters multiplicativo,2022-08-01,prueba,236157.0,65643.6
+Tipo: Turista,Holt-Winters multiplicativo,2022-09-01,prueba,208702.0,52457.9
+Tipo: Turista,Holt-Winters multiplicativo,2022-10-01,prueba,236899.0,59524.6
+Tipo: Turista,Holt-Winters multiplicativo,2022-11-01,prueba,270805.0,67399.9
+Tipo: Turista,Holt-Winters multiplicativo,2022-12-01,prueba,320803.0,86804.5
+Tipo: Turista,Holt-Winters multiplicativo,2023-01-01,prueba,183364.8,69871.2
+Tipo: Turista,Holt-Winters multiplicativo,2023-02-01,prueba,147419.4,54508.6
+Tipo: Turista,Holt-Winters multiplicativo,2023-03-01,prueba,192831.1,66595.5
+Tipo: Turista,Holt-Winters multiplicativo,2023-04-01,prueba,201509.8,62193.5
+Tipo: Turista,Holt-Winters multiplicativo,2023-05-01,prueba,152914.2,50650.3
+Tipo: Turista,Holt-Winters multiplicativo,2023-06-01,prueba,161376.2,54987.8
+Tipo: Turista,Holt-Winters multiplicativo,2023-07-01,prueba,179188.1,62653.2
+Tipo: Turista,Holt-Winters multiplicativo,2023-08-01,prueba,191451.1,58905.2
+Tipo: Turista,Holt-Winters multiplicativo,2023-09-01,prueba,159058.9,47073.0
+Tipo: Turista,Holt-Winters multiplicativo,2023-10-01,prueba,118585.8,53414.3
+Tipo: Turista,Holt-Winters multiplicativo,2023-11-01,prueba,202092.4,60481.2
+Tipo: Turista,Holt-Winters multiplicativo,2023-12-01,prueba,234187.9,77893.8
+Tipo: Turista,Holt-Winters multiplicativo,2024-01-01,prueba,214519.4,62698.8
+Tipo: Turista,Holt-Winters multiplicativo,2024-02-01,prueba,189941.6,48913.2
+Tipo: Turista,Holt-Winters multiplicativo,2024-03-01,prueba,241340.5,59759.4
+Tipo: Turista,Holt-Winters multiplicativo,2024-04-01,prueba,176258.6,55809.3
+Tipo: Turista,Holt-Winters multiplicativo,2024-05-01,prueba,171460.8,45450.9
+Tipo: Turista,Holt-Winters multiplicativo,2024-06-01,prueba,171274.6,49343.2
+Tipo: Turista,Holt-Winters multiplicativo,2024-07-01,prueba,205982.2,56221.7
+Tipo: Turista,Holt-Winters multiplicativo,2024-08-01,prueba,210722.2,52858.4
+Tipo: Turista,Holt-Winters multiplicativo,2024-09-01,prueba,160371.5,42240.8
+Tipo: Turista,Holt-Winters multiplicativo,2024-10-01,prueba,195543.4,47931.2
+Tipo: Turista,Holt-Winters multiplicativo,2024-11-01,prueba,228181.4,54272.6
+Tipo: Turista,Holt-Winters multiplicativo,2024-12-01,prueba,275312.3,69897.9
+Tipo: Turista,Holt-Winters multiplicativo,2025-01-01,prueba,215732.6,56262.6
+Tipo: Turista,Holt-Winters multiplicativo,2025-02-01,prueba,211483.4,43892.2
+Tipo: Turista,Holt-Winters multiplicativo,2025-03-01,prueba,214378.4,53624.9
+Tipo: Turista,Holt-Winters multiplicativo,2025-04-01,prueba,222748.6,50080.3
+Tipo: Turista,Holt-Winters multiplicativo,2025-05-01,prueba,183967.0,40785.3
+Tipo: Turista,Holt-Winters multiplicativo,2025-06-01,prueba,186922.6,44278.0
+Tipo: Turista,Holt-Winters multiplicativo,2025-07-01,prueba,219678.6,50450.4
+Tipo: Turista,Holt-Winters multiplicativo,2025-08-01,prueba,212947.1,47432.4
+Tipo: Turista,Holt-Winters multiplicativo,2025-09-01,prueba,159752.8,37904.7
+Tipo: Turista,Holt-Winters multiplicativo,2025-10-01,prueba,188991.5,43010.9
+Tipo: Turista,Holt-Winters multiplicativo,2025-11-01,prueba,239682.3,48701.4
+Tipo: Turista,Holt-Winters multiplicativo,2025-12-01,prueba,284612.2,62722.7
+Tipo: Turista,Holt-Winters multiplicativo,2026-01-01,prueba,236979.5,50487.1
+Tipo: Turista,Holt-Winters multiplicativo,2026-02-01,prueba,190178.7,39386.5
+Tipo: Turista,Holt-Winters multiplicativo,2026-03-01,prueba,233477.9,48120.2
+Tipo: Turista,Holt-Winters multiplicativo,2026-04-01,prueba,206519.6,44939.5
+Tipo: Turista,Holt-Winters multiplicativo,2026-05-01,prueba,177765.3,36598.6
+Tipo: Turista,Holt-Winters multiplicativo,2026-06-01,prueba,185759.1,39732.8

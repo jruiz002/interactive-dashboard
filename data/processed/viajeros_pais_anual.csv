@@ -1,0 +1,2844 @@
+anio,region,pais,viajeros
+2009,América Del Centro,Belice,55133
+2009,América Del Centro,Costa Rica,35127
+2009,América Del Centro,El Salvador,438269
+2009,América Del Centro,Guatemala,668408
+2009,América Del Centro,Honduras,89913
+2009,América Del Centro,Nicaragua,37921
+2009,América Del Centro,Panamá,10477
+2009,América Del Norte,Canadá,27400
+2009,América Del Norte,Estados Unidos de América,294276
+2009,América Del Norte,México,95877
+2009,América Del Sur y el Caribe,Antigua y Barbuda,6
+2009,América Del Sur y el Caribe,Argentina,8611
+2009,América Del Sur y el Caribe,Bahamas,59
+2009,América Del Sur y el Caribe,Barbados,26
+2009,América Del Sur y el Caribe,Bermuda,12
+2009,América Del Sur y el Caribe,Bolivia (Estado Plurinacional de),872
+2009,América Del Sur y el Caribe,Brasil,6226
+2009,América Del Sur y el Caribe,Chile,5101
+2009,América Del Sur y el Caribe,Colombia,12436
+2009,América Del Sur y el Caribe,Cuba,2154
+2009,América Del Sur y el Caribe,Dominica,75
+2009,América Del Sur y el Caribe,Ecuador,1928
+2009,América Del Sur y el Caribe,Granada,18
+2009,América Del Sur y el Caribe,Guadalupe,75
+2009,América Del Sur y el Caribe,Guayana francés,5
+2009,América Del Sur y el Caribe,Guyana,49
+2009,América Del Sur y el Caribe,Haití,80
+2009,América Del Sur y el Caribe,Islas Turcas y Caicos,14
+2009,América Del Sur y el Caribe,Islas Vírgenes Británicas,1
+2009,América Del Sur y el Caribe,Jamaica,113
+2009,América Del Sur y el Caribe,Montserrat,6
+2009,América Del Sur y el Caribe,Paraguay,460
+2009,América Del Sur y el Caribe,Perú,3148
+2009,América Del Sur y el Caribe,Puerto Rico,5
+2009,América Del Sur y el Caribe,República Dominicana,3906
+2009,América Del Sur y el Caribe,San Cristóbal y Nieves,23
+2009,América Del Sur y el Caribe,San Vicente y las Granadinas,5
+2009,América Del Sur y el Caribe,Santa Lucía,11
+2009,América Del Sur y el Caribe,Suriname,11
+2009,América Del Sur y el Caribe,Trinidad y Tobago,204
+2009,América Del Sur y el Caribe,Uruguay,1640
+2009,América Del Sur y el Caribe,Venezuela (República Bolivariana de),5285
+2009,Asia,Afganistán,8
+2009,Asia,Bangladesh,15
+2009,Asia,Brunei Darussalam,5
+2009,Asia,Camboya,6
+2009,Asia,China,2511
+2009,Asia,Filipinas,314
+2009,Asia,India,928
+2009,Asia,Indonesia,38
+2009,Asia,Irán (República Islámica del),30
+2009,Asia,Japón,3851
+2009,Asia,Malasia,107
+2009,Asia,Mongolia,7
+2009,Asia,Nepal,11
+2009,Asia,Pakistán,34
+2009,Asia,República Democrática Popular Lao,6
+2009,Asia,República Popular Democrática de Corea,19
+2009,Asia,República de Corea,6660
+2009,Asia,Singapur,98
+2009,Asia,Sri Lanka,32
+2009,Asia,Tailandia,50
+2009,Asia,Timor-Leste,5
+2009,Asia,Viet Nam,6
+2009,Cruceristas,Cruceristas,81346
+2009,Europa,Albania,27
+2009,Europa,Alemania,13674
+2009,Europa,Andorra,15
+2009,Europa,Armenia,15
+2009,Europa,Austria,2007
+2009,Europa,Azerbaiyán,2
+2009,Europa,Bielorrusia,28
+2009,Europa,Bosnia y Herzegovina,6
+2009,Europa,Bulgaria,214
+2009,Europa,Bélgica,3803
+2009,Europa,Chipre,29
+2009,Europa,Croacia,110
+2009,Europa,Dinamarca,2918
+2009,Europa,Eslovaquia,401
+2009,Europa,Eslovenia,243
+2009,Europa,España,19025
+2009,Europa,Estonia,233
+2009,Europa,Federación de Rusia,934
+2009,Europa,Finlandia,1102
+2009,Europa,Francia,19106
+2009,Europa,Georgia,16
+2009,Europa,Gibraltar,1
+2009,Europa,Grecia,482
+2009,Europa,Groenlandia,1
+2009,Europa,Hungría,372
+2009,Europa,Irlanda,1489
+2009,Europa,Islandia,64
+2009,Europa,Italia,9544
+2009,Europa,Kazajstán,4
+2009,Europa,Kirguistán,5
+2009,Europa,La ex República Yugoslava de Macedonia,33
+2009,Europa,Letonia,111
+2009,Europa,Liechtenstein,9
+2009,Europa,Lituania,176
+2009,Europa,Luxemburgo,67
+2009,Europa,Malta,89
+2009,Europa,Montenegro,11
+2009,Europa,Mónaco,7
+2009,Europa,Noruega,2199
+2009,Europa,Países Bajos,8538
+2009,Europa,Polonia,2067
+2009,Europa,Portugal,826
+2009,Europa,Reino Unido de Gran Bretaña e Irlanda del Norte,13493
+2009,Europa,República Checa,1673
+2009,Europa,República de Moldova,16
+2009,Europa,Rumania,143
+2009,Europa,San Marino,10
+2009,Europa,Serbia,15
+2009,Europa,Suecia,3068
+2009,Europa,Suiza,4130
+2009,Europa,Turkmenistán,1
+2009,Europa,Turquía,299
+2009,Europa,Ucrania,246
+2009,Europa,Uzbekistán,10
+2009,Oceanía,Australia,5248
+2009,Oceanía,Fiji,20
+2009,Oceanía,Guam,48
+2009,Oceanía,Islas Marshall,2
+2009,Oceanía,Kiribati,3
+2009,Oceanía,Micronesia (Estados Federados de),23
+2009,Oceanía,Nauru,1
+2009,Oceanía,Nueva Caledonia,2
+2009,Oceanía,Nueva Zelanda,1115
+2009,Oceanía,Papúa Nueva Guinea,2
+2009,Oceanía,Polinesia francés,3
+2009,Oceanía,Samoa,8
+2009,Oceanía,Tuvalu,1
+2009,Oceanía,Vanuatu,3
+2009,Oriente Medio,Arabia Saudita,17
+2009,Oriente Medio,Bahrein,1
+2009,Oriente Medio,Emiratos Árabes Unidos,51
+2009,Oriente Medio,Irak,13
+2009,Oriente Medio,Israel,5384
+2009,Oriente Medio,Jordania,76
+2009,Oriente Medio,Katar,97
+2009,Oriente Medio,Kuwait,8
+2009,Oriente Medio,Libia,11
+2009,Oriente Medio,Líbano,45
+2009,Oriente Medio,Omán,2
+2009,Oriente Medio,República Árabe Siria,41
+2009,Oriente Medio,Yemen,1
+2009,Otros Paises Del Mundo,Angola,7
+2009,Otros Paises Del Mundo,Argelia,15
+2009,Otros Paises Del Mundo,Benin,30
+2009,Otros Paises Del Mundo,Botswana,7
+2009,Otros Paises Del Mundo,Burkina Faso,6
+2009,Otros Paises Del Mundo,Burundi,3
+2009,Otros Paises Del Mundo,Bután,3
+2009,Otros Paises Del Mundo,Cabo Verde,11
+2009,Otros Paises Del Mundo,Camerún,33
+2009,Otros Paises Del Mundo,Chad,2
+2009,Otros Paises Del Mundo,Comoras,48
+2009,Otros Paises Del Mundo,Congo,55
+2009,Otros Paises Del Mundo,Côte d'Ivoire,19
+2009,Otros Paises Del Mundo,Djibouti,6
+2009,Otros Paises Del Mundo,Egipto,56
+2009,Otros Paises Del Mundo,Eritrea,6
+2009,Otros Paises Del Mundo,Estado de Palestina,20
+2009,Otros Paises Del Mundo,Etiopía,32
+2009,Otros Paises Del Mundo,Gabón,24
+2009,Otros Paises Del Mundo,Gambia,10
+2009,Otros Paises Del Mundo,Ghana,10
+2009,Otros Paises Del Mundo,Guinea,436
+2009,Otros Paises Del Mundo,Guinea Ecuatorial,25
+2009,Otros Paises Del Mundo,Guinea-Bissau,29
+2009,Otros Paises Del Mundo,Islas Caimán,2
+2009,Otros Paises Del Mundo,Kenia,43
+2009,Otros Paises Del Mundo,Lesoto,4
+2009,Otros Paises Del Mundo,Liberia,8
+2009,Otros Paises Del Mundo,Madagascar,6
+2009,Otros Paises Del Mundo,Malawi,8
+2009,Otros Paises Del Mundo,Malí,3
+2009,Otros Paises Del Mundo,Marruecos,38
+2009,Otros Paises Del Mundo,Mauricio,5
+2009,Otros Paises Del Mundo,Mauritania,5
+2009,Otros Paises Del Mundo,Mayotte,1
+2009,Otros Paises Del Mundo,Mozambique,7
+2009,Otros Paises Del Mundo,Namibia,14
+2009,Otros Paises Del Mundo,Nigeria,70
+2009,Otros Paises Del Mundo,Niue,8
+2009,Otros Paises Del Mundo,Níger,31
+2009,Otros Paises Del Mundo,OTROS PAISES DEL MUNDO,53
+2009,Otros Paises Del Mundo,Pitcairn,3
+2009,Otros Paises Del Mundo,República Centroafricana,17
+2009,Otros Paises Del Mundo,República Unida de Tanzania,10
+2009,Otros Paises Del Mundo,Ruanda,7
+2009,Otros Paises Del Mundo,Réunion,4
+2009,Otros Paises Del Mundo,Santo Tomé y Príncipe,260
+2009,Otros Paises Del Mundo,Senegal,5
+2009,Otros Paises Del Mundo,Seychelles,1
+2009,Otros Paises Del Mundo,Sierra Leona,1
+2009,Otros Paises Del Mundo,Sudáfrica,408
+2009,Otros Paises Del Mundo,Sudán,4
+2009,Otros Paises Del Mundo,Togo,15
+2009,Otros Paises Del Mundo,Túnez,7
+2009,Otros Paises Del Mundo,Uganda,22
+2009,Otros Paises Del Mundo,Zambia,27
+2010,América Del Centro,Belice,52589
+2010,América Del Centro,Costa Rica,34417
+2010,América Del Centro,El Salvador,477284
+2010,América Del Centro,Guatemala,714103
+2010,América Del Centro,Honduras,94790
+2010,América Del Centro,Nicaragua,44735
+2010,América Del Centro,Panamá,11136
+2010,América Del Norte,Canadá,27843
+2010,América Del Norte,Estados Unidos de América,314410
+2010,América Del Norte,México,105590
+2010,América Del Sur y el Caribe,Antigua y Barbuda,5
+2010,América Del Sur y el Caribe,Argentina,8695
+2010,América Del Sur y el Caribe,Bahamas,87
+2010,América Del Sur y el Caribe,Barbados,39
+2010,América Del Sur y el Caribe,Bermuda,20
+2010,América Del Sur y el Caribe,Bolivia (Estado Plurinacional de),758
+2010,América Del Sur y el Caribe,Brasil,6485
+2010,América Del Sur y el Caribe,Chile,5100
+2010,América Del Sur y el Caribe,Colombia,12805
+2010,América Del Sur y el Caribe,Cuba,1702
+2010,América Del Sur y el Caribe,Dominica,48
+2010,América Del Sur y el Caribe,Ecuador,2185
+2010,América Del Sur y el Caribe,Granada,8
+2010,América Del Sur y el Caribe,Guadalupe,132
+2010,América Del Sur y el Caribe,Guayana francés,8
+2010,América Del Sur y el Caribe,Guyana,36
+2010,América Del Sur y el Caribe,Haití,94
+2010,América Del Sur y el Caribe,Islas Turcas y Caicos,17
+2010,América Del Sur y el Caribe,Islas Vírgenes Británicas,1
+2010,América Del Sur y el Caribe,Jamaica,152
+2010,América Del Sur y el Caribe,Paraguay,519
+2010,América Del Sur y el Caribe,Perú,3118
+2010,América Del Sur y el Caribe,Puerto Rico,6
+2010,América Del Sur y el Caribe,República Dominicana,4449
+2010,América Del Sur y el Caribe,San Cristóbal y Nieves,6
+2010,América Del Sur y el Caribe,San Vicente y las Granadinas,13
+2010,América Del Sur y el Caribe,Santa Lucía,14
+2010,América Del Sur y el Caribe,Suriname,29
+2010,América Del Sur y el Caribe,Trinidad y Tobago,276
+2010,América Del Sur y el Caribe,Uruguay,1690
+2010,América Del Sur y el Caribe,Venezuela (República Bolivariana de),5844
+2010,Asia,Afganistán,30
+2010,Asia,Bangladesh,23
+2010,Asia,Brunei Darussalam,1
+2010,Asia,Camboya,4
+2010,Asia,China,2792
+2010,Asia,Filipinas,319
+2010,Asia,India,4842
+2010,Asia,Indonesia,53
+2010,Asia,Irán (República Islámica del),12
+2010,Asia,Japón,4165
+2010,Asia,Malasia,258
+2010,Asia,Maldivas,2
+2010,Asia,Mongolia,5
+2010,Asia,Nepal,27
+2010,Asia,Pakistán,32
+2010,Asia,República Democrática Popular Lao,17
+2010,Asia,República Popular Democrática de Corea,10
+2010,Asia,República de Corea,7124
+2010,Asia,Singapur,133
+2010,Asia,Sri Lanka,28
+2010,Asia,Tailandia,37
+2010,Asia,Viet Nam,7
+2010,Cruceristas,Cruceristas,72488
+2010,Europa,Albania,24
+2010,Europa,Alemania,13164
+2010,Europa,Andorra,22
+2010,Europa,Armenia,8
+2010,Europa,Austria,2146
+2010,Europa,Azerbaiyán,2
+2010,Europa,Bielorrusia,33
+2010,Europa,Bosnia y Herzegovina,8
+2010,Europa,Bulgaria,153
+2010,Europa,Bélgica,4238
+2010,Europa,Chipre,23
+2010,Europa,Croacia,93
+2010,Europa,Dinamarca,2817
+2010,Europa,Eslovaquia,313
+2010,Europa,Eslovenia,249
+2010,Europa,España,20753
+2010,Europa,Estonia,154
+2010,Europa,Federación de Rusia,1097
+2010,Europa,Finlandia,879
+2010,Europa,Francia,17222
+2010,Europa,Georgia,15
+2010,Europa,Gibraltar,3
+2010,Europa,Grecia,549
+2010,Europa,Groenlandia,1
+2010,Europa,Hungría,432
+2010,Europa,Irlanda,1725
+2010,Europa,Islandia,109
+2010,Europa,Italia,10251
+2010,Europa,Kazajstán,7
+2010,Europa,Kirguistán,3
+2010,Europa,La ex República Yugoslava de Macedonia,32
+2010,Europa,Letonia,100
+2010,Europa,Liechtenstein,13
+2010,Europa,Lituania,113
+2010,Europa,Luxemburgo,57
+2010,Europa,Malta,52
+2010,Europa,Montenegro,2
+2010,Europa,Mónaco,2
+2010,Europa,Noruega,2230
+2010,Europa,Países Bajos,9423
+2010,Europa,Polonia,1448
+2010,Europa,Portugal,757
+2010,Europa,Reino Unido de Gran Bretaña e Irlanda del Norte,14261
+2010,Europa,República Checa,1248
+2010,Europa,República de Moldova,14
+2010,Europa,Rumania,455
+2010,Europa,San Marino,5
+2010,Europa,Serbia,39
+2010,Europa,Suecia,2679
+2010,Europa,Suiza,4190
+2010,Europa,Tayikistán,1
+2010,Europa,Turkmenistán,2
+2010,Europa,Turquía,406
+2010,Europa,Ucrania,257
+2010,Europa,Uzbekistán,3
+2010,Oceanía,Australia,6102
+2010,Oceanía,Fiji,22
+2010,Oceanía,Guam,15
+2010,Oceanía,Kiribati,2
+2010,Oceanía,Micronesia (Estados Federados de),6
+2010,Oceanía,Nueva Caledonia,2
+2010,Oceanía,Nueva Zelanda,1149
+2010,Oceanía,Papúa Nueva Guinea,5
+2010,Oceanía,Polinesia francés,2
+2010,Oceanía,Samoa,3
+2010,Oceanía,Tonga,1
+2010,Oceanía,Vanuatu,3
+2010,Oriente Medio,Arabia Saudita,14
+2010,Oriente Medio,Bahrein,2
+2010,Oriente Medio,Emiratos Árabes Unidos,42
+2010,Oriente Medio,Irak,4
+2010,Oriente Medio,Israel,5840
+2010,Oriente Medio,Jordania,69
+2010,Oriente Medio,Katar,115
+2010,Oriente Medio,Kuwait,3
+2010,Oriente Medio,Libia,1
+2010,Oriente Medio,Líbano,45
+2010,Oriente Medio,Omán,1
+2010,Oriente Medio,República Árabe Siria,23
+2010,Oriente Medio,Yemen,3
+2010,Otros Paises Del Mundo,Angola,13
+2010,Otros Paises Del Mundo,Anguila,2
+2010,Otros Paises Del Mundo,Argelia,9
+2010,Otros Paises Del Mundo,Benin,15
+2010,Otros Paises Del Mundo,Botswana,9
+2010,Otros Paises Del Mundo,Burkina Faso,1
+2010,Otros Paises Del Mundo,Burundi,4
+2010,Otros Paises Del Mundo,Bután,2
+2010,Otros Paises Del Mundo,Cabo Verde,4
+2010,Otros Paises Del Mundo,Camerún,28
+2010,Otros Paises Del Mundo,Chad,2
+2010,Otros Paises Del Mundo,Comoras,24
+2010,Otros Paises Del Mundo,Congo,40
+2010,Otros Paises Del Mundo,Côte d'Ivoire,30
+2010,Otros Paises Del Mundo,Djibouti,7
+2010,Otros Paises Del Mundo,Egipto,46
+2010,Otros Paises Del Mundo,Eritrea,1
+2010,Otros Paises Del Mundo,Estado de Palestina,19
+2010,Otros Paises Del Mundo,Etiopía,10
+2010,Otros Paises Del Mundo,Gabón,22
+2010,Otros Paises Del Mundo,Gambia,3
+2010,Otros Paises Del Mundo,Ghana,14
+2010,Otros Paises Del Mundo,Guinea,291
+2010,Otros Paises Del Mundo,Guinea Ecuatorial,10
+2010,Otros Paises Del Mundo,Guinea-Bissau,18
+2010,Otros Paises Del Mundo,Islas Caimán,8
+2010,Otros Paises Del Mundo,Kenia,58
+2010,Otros Paises Del Mundo,Lesoto,2
+2010,Otros Paises Del Mundo,Liberia,9
+2010,Otros Paises Del Mundo,Madagascar,10
+2010,Otros Paises Del Mundo,Malawi,4
+2010,Otros Paises Del Mundo,Malí,5
+2010,Otros Paises Del Mundo,Marruecos,29
+2010,Otros Paises Del Mundo,Mauricio,7
+2010,Otros Paises Del Mundo,Mayotte,1
+2010,Otros Paises Del Mundo,Mozambique,12
+2010,Otros Paises Del Mundo,Namibia,9
+2010,Otros Paises Del Mundo,Nigeria,41
+2010,Otros Paises Del Mundo,Niue,6
+2010,Otros Paises Del Mundo,Níger,12
+2010,Otros Paises Del Mundo,OTROS PAISES DEL MUNDO,77
+2010,Otros Paises Del Mundo,Pitcairn,6
+2010,Otros Paises Del Mundo,República Centroafricana,16
+2010,Otros Paises Del Mundo,República Unida de Tanzania,19
+2010,Otros Paises Del Mundo,Ruanda,5
+2010,Otros Paises Del Mundo,Réunion,7
+2010,Otros Paises Del Mundo,Santo Tomé y Príncipe,81
+2010,Otros Paises Del Mundo,Senegal,9
+2010,Otros Paises Del Mundo,Seychelles,1
+2010,Otros Paises Del Mundo,Sierra Leona,3
+2010,Otros Paises Del Mundo,Sudáfrica,392
+2010,Otros Paises Del Mundo,Sudán,2
+2010,Otros Paises Del Mundo,Swazilandia,2
+2010,Otros Paises Del Mundo,Togo,3
+2010,Otros Paises Del Mundo,Túnez,4
+2010,Otros Paises Del Mundo,Uganda,19
+2010,Otros Paises Del Mundo,Zambia,14
+2011,América Del Centro,Belice,46325
+2011,América Del Centro,Costa Rica,33340
+2011,América Del Centro,El Salvador,555198
+2011,América Del Centro,Guatemala,739739
+2011,América Del Centro,Honduras,98264
+2011,América Del Centro,Nicaragua,44372
+2011,América Del Centro,Panamá,10763
+2011,América Del Norte,Canadá,26679
+2011,América Del Norte,Estados Unidos de América,301658
+2011,América Del Norte,México,103418
+2011,América Del Sur y el Caribe,Antigua y Barbuda,17
+2011,América Del Sur y el Caribe,Argentina,9081
+2011,América Del Sur y el Caribe,Aruba,1
+2011,América Del Sur y el Caribe,Bahamas,74
+2011,América Del Sur y el Caribe,Barbados,54
+2011,América Del Sur y el Caribe,Bermuda,10
+2011,América Del Sur y el Caribe,Bolivia (Estado Plurinacional de),837
+2011,América Del Sur y el Caribe,Brasil,5941
+2011,América Del Sur y el Caribe,Chile,5273
+2011,América Del Sur y el Caribe,Colombia,13506
+2011,América Del Sur y el Caribe,Cuba,1636
+2011,América Del Sur y el Caribe,Dominica,27
+2011,América Del Sur y el Caribe,Ecuador,2205
+2011,América Del Sur y el Caribe,Granada,27
+2011,América Del Sur y el Caribe,Guadalupe,138
+2011,América Del Sur y el Caribe,Guayana francés,5
+2011,América Del Sur y el Caribe,Guyana,51
+2011,América Del Sur y el Caribe,Haití,154
+2011,América Del Sur y el Caribe,Islas Turcas y Caicos,11
+2011,América Del Sur y el Caribe,Islas Vírgenes Británicas,1
+2011,América Del Sur y el Caribe,Jamaica,170
+2011,América Del Sur y el Caribe,Paraguay,470
+2011,América Del Sur y el Caribe,Perú,3292
+2011,América Del Sur y el Caribe,Puerto Rico,16
+2011,América Del Sur y el Caribe,República Dominicana,2791
+2011,América Del Sur y el Caribe,San Cristóbal y Nieves,17
+2011,América Del Sur y el Caribe,San Vicente y las Granadinas,31
+2011,América Del Sur y el Caribe,Santa Lucía,18
+2011,América Del Sur y el Caribe,Suriname,48
+2011,América Del Sur y el Caribe,Trinidad y Tobago,249
+2011,América Del Sur y el Caribe,Uruguay,1586
+2011,América Del Sur y el Caribe,Venezuela (República Bolivariana de),6656
+2011,Asia,Afganistán,22
+2011,Asia,Bangladesh,14
+2011,Asia,Brunei Darussalam,1
+2011,Asia,Camboya,7
+2011,Asia,China,2934
+2011,Asia,Filipinas,402
+2011,Asia,India,3222
+2011,Asia,Indonesia,79
+2011,Asia,Irán (República Islámica del),12
+2011,Asia,Japón,4431
+2011,Asia,Malasia,248
+2011,Asia,Maldivas,1
+2011,Asia,Mongolia,7
+2011,Asia,Nepal,13
+2011,Asia,Pakistán,25
+2011,Asia,República Democrática Popular Lao,64
+2011,Asia,República Popular Democrática de Corea,180
+2011,Asia,República de Corea,6858
+2011,Asia,Singapur,131
+2011,Asia,Sri Lanka,16
+2011,Asia,Tailandia,82
+2011,Asia,Timor-Leste,2
+2011,Asia,Viet Nam,23
+2011,Cruceristas,Cruceristas,72350
+2011,Europa,Albania,28
+2011,Europa,Alemania,12807
+2011,Europa,Andorra,27
+2011,Europa,Armenia,11
+2011,Europa,Austria,1998
+2011,Europa,Azerbaiyán,5
+2011,Europa,Bielorrusia,19
+2011,Europa,Bosnia y Herzegovina,6
+2011,Europa,Bulgaria,147
+2011,Europa,Bélgica,3916
+2011,Europa,Chipre,35
+2011,Europa,Croacia,96
+2011,Europa,Dinamarca,2549
+2011,Europa,Eslovaquia,529
+2011,Europa,Eslovenia,311
+2011,Europa,España,19503
+2011,Europa,Estonia,180
+2011,Europa,Federación de Rusia,1667
+2011,Europa,Finlandia,816
+2011,Europa,Francia,16869
+2011,Europa,Georgia,82
+2011,Europa,Gibraltar,7
+2011,Europa,Grecia,414
+2011,Europa,Groenlandia,1
+2011,Europa,Hungría,295
+2011,Europa,Irlanda,1540
+2011,Europa,Islandia,81
+2011,Europa,Italia,11136
+2011,Europa,Kazajstán,10
+2011,Europa,Kirguistán,5
+2011,Europa,La ex República Yugoslava de Macedonia,10
+2011,Europa,Letonia,125
+2011,Europa,Liechtenstein,14
+2011,Europa,Lituania,154
+2011,Europa,Luxemburgo,72
+2011,Europa,Malta,83
+2011,Europa,Montenegro,4
+2011,Europa,Mónaco,5
+2011,Europa,Noruega,1988
+2011,Europa,Países Bajos,8477
+2011,Europa,Polonia,1657
+2011,Europa,Portugal,707
+2011,Europa,Reino Unido de Gran Bretaña e Irlanda del Norte,12649
+2011,Europa,República Checa,906
+2011,Europa,República de Moldova,12
+2011,Europa,Rumania,247
+2011,Europa,San Marino,7
+2011,Europa,Serbia,33
+2011,Europa,Suecia,2467
+2011,Europa,Suiza,4131
+2011,Europa,Tayikistán,2
+2011,Europa,Turkmenistán,2
+2011,Europa,Turquía,390
+2011,Europa,Ucrania,362
+2011,Europa,Uzbekistán,8
+2011,Oceanía,Australia,6060
+2011,Oceanía,Fiji,25
+2011,Oceanía,Guam,12
+2011,Oceanía,Islas Marshall,2
+2011,Oceanía,Kiribati,2
+2011,Oceanía,Micronesia (Estados Federados de),17
+2011,Oceanía,Nauru,2
+2011,Oceanía,Nueva Caledonia,2
+2011,Oceanía,Nueva Zelanda,1005
+2011,Oceanía,Papúa Nueva Guinea,8
+2011,Oceanía,Polinesia francés,1
+2011,Oceanía,Samoa,4
+2011,Oceanía,Tuvalu,7
+2011,Oceanía,Vanuatu,2
+2011,Oriente Medio,Arabia Saudita,14
+2011,Oriente Medio,Bahrein,3
+2011,Oriente Medio,Emiratos Árabes Unidos,54
+2011,Oriente Medio,Irak,10
+2011,Oriente Medio,Israel,7639
+2011,Oriente Medio,Jordania,62
+2011,Oriente Medio,Katar,140
+2011,Oriente Medio,Kuwait,6
+2011,Oriente Medio,Libia,1
+2011,Oriente Medio,Líbano,42
+2011,Oriente Medio,Omán,11
+2011,Oriente Medio,República Árabe Siria,19
+2011,Otros Paises Del Mundo,Angola,4
+2011,Otros Paises Del Mundo,Anguila,3
+2011,Otros Paises Del Mundo,Argelia,18
+2011,Otros Paises Del Mundo,Benin,27
+2011,Otros Paises Del Mundo,Botswana,5
+2011,Otros Paises Del Mundo,Burkina Faso,1
+2011,Otros Paises Del Mundo,Burundi,3
+2011,Otros Paises Del Mundo,Bután,2
+2011,Otros Paises Del Mundo,Cabo Verde,8
+2011,Otros Paises Del Mundo,Camerún,36
+2011,Otros Paises Del Mundo,Chad,4
+2011,Otros Paises Del Mundo,Comoras,26
+2011,Otros Paises Del Mundo,Congo,27
+2011,Otros Paises Del Mundo,Côte d'Ivoire,25
+2011,Otros Paises Del Mundo,Djibouti,7
+2011,Otros Paises Del Mundo,Egipto,43
+2011,Otros Paises Del Mundo,Eritrea,5
+2011,Otros Paises Del Mundo,Estado de Palestina,30
+2011,Otros Paises Del Mundo,Etiopía,29
+2011,Otros Paises Del Mundo,Gabón,27
+2011,Otros Paises Del Mundo,Gambia,12
+2011,Otros Paises Del Mundo,Ghana,24
+2011,Otros Paises Del Mundo,Guinea,180
+2011,Otros Paises Del Mundo,Guinea Ecuatorial,19
+2011,Otros Paises Del Mundo,Guinea-Bissau,29
+2011,Otros Paises Del Mundo,Islas Caimán,15
+2011,Otros Paises Del Mundo,Islas Feroe,1
+2011,Otros Paises Del Mundo,Kenia,65
+2011,Otros Paises Del Mundo,Lesoto,5
+2011,Otros Paises Del Mundo,Liberia,8
+2011,Otros Paises Del Mundo,Madagascar,10
+2011,Otros Paises Del Mundo,Malawi,3
+2011,Otros Paises Del Mundo,Marruecos,23
+2011,Otros Paises Del Mundo,Mauricio,9
+2011,Otros Paises Del Mundo,Mauritania,1
+2011,Otros Paises Del Mundo,Mayotte,3
+2011,Otros Paises Del Mundo,Mozambique,11
+2011,Otros Paises Del Mundo,Namibia,8
+2011,Otros Paises Del Mundo,Nigeria,44
+2011,Otros Paises Del Mundo,Niue,6
+2011,Otros Paises Del Mundo,Níger,20
+2011,Otros Paises Del Mundo,OTROS PAISES DEL MUNDO,48
+2011,Otros Paises Del Mundo,Pitcairn,6
+2011,Otros Paises Del Mundo,República Centroafricana,12
+2011,Otros Paises Del Mundo,República Unida de Tanzania,16
+2011,Otros Paises Del Mundo,Ruanda,9
+2011,Otros Paises Del Mundo,Réunion,6
+2011,Otros Paises Del Mundo,Santo Tomé y Príncipe,29
+2011,Otros Paises Del Mundo,Senegal,6
+2011,Otros Paises Del Mundo,Seychelles,1
+2011,Otros Paises Del Mundo,Sierra Leona,4
+2011,Otros Paises Del Mundo,Sudáfrica,417
+2011,Otros Paises Del Mundo,Sudán,2
+2011,Otros Paises Del Mundo,Swazilandia,1
+2011,Otros Paises Del Mundo,Togo,5
+2011,Otros Paises Del Mundo,Túnez,10
+2011,Otros Paises Del Mundo,Uganda,11
+2011,Otros Paises Del Mundo,Zambia,21
+2012,América Del Centro,Belice,53246
+2012,América Del Centro,Costa Rica,33705
+2012,América Del Centro,El Salvador,573596
+2012,América Del Centro,Guatemala,744045
+2012,América Del Centro,Honduras,101733
+2012,América Del Centro,Nicaragua,47405
+2012,América Del Centro,Panamá,10280
+2012,América Del Norte,Canadá,28549
+2012,América Del Norte,Estados Unidos de América,315247
+2012,América Del Norte,México,116521
+2012,América Del Sur y el Caribe,Antigua y Barbuda,42
+2012,América Del Sur y el Caribe,Argentina,8789
+2012,América Del Sur y el Caribe,Bahamas,86
+2012,América Del Sur y el Caribe,Barbados,59
+2012,América Del Sur y el Caribe,Bermuda,6
+2012,América Del Sur y el Caribe,Bolivia (Estado Plurinacional de),855
+2012,América Del Sur y el Caribe,Brasil,6125
+2012,América Del Sur y el Caribe,Chile,5114
+2012,América Del Sur y el Caribe,Colombia,15105
+2012,América Del Sur y el Caribe,Cuba,1737
+2012,América Del Sur y el Caribe,Dominica,36
+2012,América Del Sur y el Caribe,Ecuador,2944
+2012,América Del Sur y el Caribe,Granada,15
+2012,América Del Sur y el Caribe,Guadalupe,105
+2012,América Del Sur y el Caribe,Guayana francés,3
+2012,América Del Sur y el Caribe,Guyana,74
+2012,América Del Sur y el Caribe,Haití,231
+2012,América Del Sur y el Caribe,Islas Turcas y Caicos,3
+2012,América Del Sur y el Caribe,Islas Vírgenes Británicas,1
+2012,América Del Sur y el Caribe,Jamaica,246
+2012,América Del Sur y el Caribe,Montserrat,3
+2012,América Del Sur y el Caribe,Paraguay,611
+2012,América Del Sur y el Caribe,Perú,3639
+2012,América Del Sur y el Caribe,Puerto Rico,5
+2012,América Del Sur y el Caribe,República Dominicana,2570
+2012,América Del Sur y el Caribe,San Cristóbal y Nieves,24
+2012,América Del Sur y el Caribe,San Vicente y las Granadinas,20
+2012,América Del Sur y el Caribe,Santa Lucía,9
+2012,América Del Sur y el Caribe,Suriname,25
+2012,América Del Sur y el Caribe,Trinidad y Tobago,290
+2012,América Del Sur y el Caribe,Uruguay,1537
+2012,América Del Sur y el Caribe,Venezuela (República Bolivariana de),8114
+2012,Asia,Afganistán,35
+2012,Asia,Bangladesh,19
+2012,Asia,Brunei Darussalam,3
+2012,Asia,Camboya,3
+2012,Asia,China,3735
+2012,Asia,Filipinas,524
+2012,Asia,India,1445
+2012,Asia,Indonesia,100
+2012,Asia,Irán (República Islámica del),42
+2012,Asia,Japón,5124
+2012,Asia,Malasia,186
+2012,Asia,Maldivas,1
+2012,Asia,Mongolia,12
+2012,Asia,Nepal,22
+2012,Asia,Pakistán,58
+2012,Asia,República Democrática Popular Lao,44
+2012,Asia,República Popular Democrática de Corea,108
+2012,Asia,República de Corea,7157
+2012,Asia,Singapur,132
+2012,Asia,Sri Lanka,21
+2012,Asia,Tailandia,102
+2012,Asia,Viet Nam,16
+2012,Cruceristas,Cruceristas,72846
+2012,Europa,Albania,42
+2012,Europa,Alemania,13442
+2012,Europa,Andorra,29
+2012,Europa,Armenia,18
+2012,Europa,Austria,2155
+2012,Europa,Azerbaiyán,9
+2012,Europa,Bielorrusia,34
+2012,Europa,Bosnia y Herzegovina,2
+2012,Europa,Bulgaria,198
+2012,Europa,Bélgica,3664
+2012,Europa,Chipre,50
+2012,Europa,Croacia,149
+2012,Europa,Dinamarca,2308
+2012,Europa,Eslovaquia,331
+2012,Europa,Eslovenia,374
+2012,Europa,España,18777
+2012,Europa,Estonia,191
+2012,Europa,Federación de Rusia,1699
+2012,Europa,Finlandia,702
+2012,Europa,Francia,18187
+2012,Europa,Georgia,17
+2012,Europa,Gibraltar,3
+2012,Europa,Grecia,462
+2012,Europa,Groenlandia,7
+2012,Europa,Hungría,382
+2012,Europa,Irlanda,1502
+2012,Europa,Islandia,114
+2012,Europa,Italia,10336
+2012,Europa,Kazajstán,41
+2012,Europa,Kirguistán,2
+2012,Europa,La ex República Yugoslava de Macedonia,30
+2012,Europa,Letonia,156
+2012,Europa,Liechtenstein,15
+2012,Europa,Lituania,211
+2012,Europa,Luxemburgo,55
+2012,Europa,Malta,54
+2012,Europa,Montenegro,5
+2012,Europa,Mónaco,6
+2012,Europa,Noruega,1777
+2012,Europa,Países Bajos,7343
+2012,Europa,Polonia,1522
+2012,Europa,Portugal,792
+2012,Europa,Reino Unido de Gran Bretaña e Irlanda del Norte,12055
+2012,Europa,República Checa,1036
+2012,Europa,República de Moldova,16
+2012,Europa,Rumania,314
+2012,Europa,San Marino,5
+2012,Europa,Serbia,34
+2012,Europa,Suecia,2507
+2012,Europa,Suiza,4109
+2012,Europa,Tayikistán,13
+2012,Europa,Turkmenistán,8
+2012,Europa,Turquía,479
+2012,Europa,Ucrania,503
+2012,Europa,Uzbekistán,6
+2012,Oceanía,Australia,6965
+2012,Oceanía,Fiji,43
+2012,Oceanía,Guam,13
+2012,Oceanía,Islas Marshall,4
+2012,Oceanía,Kiribati,9
+2012,Oceanía,Micronesia (Estados Federados de),15
+2012,Oceanía,Nauru,1
+2012,Oceanía,Nueva Caledonia,1
+2012,Oceanía,Nueva Zelanda,1206
+2012,Oceanía,Palau,2
+2012,Oceanía,Papúa Nueva Guinea,4
+2012,Oceanía,Polinesia francés,5
+2012,Oceanía,Samoa,2
+2012,Oceanía,Tonga,1
+2012,Oriente Medio,Arabia Saudita,17
+2012,Oriente Medio,Bahrein,7
+2012,Oriente Medio,Emiratos Árabes Unidos,51
+2012,Oriente Medio,Irak,22
+2012,Oriente Medio,Israel,6744
+2012,Oriente Medio,Jordania,96
+2012,Oriente Medio,Katar,148
+2012,Oriente Medio,Kuwait,10
+2012,Oriente Medio,Líbano,63
+2012,Oriente Medio,Omán,4
+2012,Oriente Medio,República Árabe Siria,23
+2012,Otros Paises Del Mundo,Angola,3
+2012,Otros Paises Del Mundo,Anguila,2
+2012,Otros Paises Del Mundo,Argelia,13
+2012,Otros Paises Del Mundo,Benin,16
+2012,Otros Paises Del Mundo,Botswana,11
+2012,Otros Paises Del Mundo,Burkina Faso,5
+2012,Otros Paises Del Mundo,Burundi,3
+2012,Otros Paises Del Mundo,Bután,1
+2012,Otros Paises Del Mundo,Cabo Verde,10
+2012,Otros Paises Del Mundo,Camerún,31
+2012,Otros Paises Del Mundo,Chad,12
+2012,Otros Paises Del Mundo,Comoras,36
+2012,Otros Paises Del Mundo,Congo,45
+2012,Otros Paises Del Mundo,Côte d'Ivoire,31
+2012,Otros Paises Del Mundo,Djibouti,13
+2012,Otros Paises Del Mundo,Egipto,68
+2012,Otros Paises Del Mundo,Eritrea,7
+2012,Otros Paises Del Mundo,Estado de Palestina,24
+2012,Otros Paises Del Mundo,Etiopía,60
+2012,Otros Paises Del Mundo,Gabón,32
+2012,Otros Paises Del Mundo,Gambia,4
+2012,Otros Paises Del Mundo,Ghana,16
+2012,Otros Paises Del Mundo,Guinea,232
+2012,Otros Paises Del Mundo,Guinea Ecuatorial,14
+2012,Otros Paises Del Mundo,Guinea-Bissau,39
+2012,Otros Paises Del Mundo,Islas Caimán,19
+2012,Otros Paises Del Mundo,Islas Feroe,1
+2012,Otros Paises Del Mundo,Kenia,40
+2012,Otros Paises Del Mundo,Lesoto,4
+2012,Otros Paises Del Mundo,Liberia,5
+2012,Otros Paises Del Mundo,Madagascar,4
+2012,Otros Paises Del Mundo,Malawi,1
+2012,Otros Paises Del Mundo,Malí,3
+2012,Otros Paises Del Mundo,Marruecos,67
+2012,Otros Paises Del Mundo,Mauricio,11
+2012,Otros Paises Del Mundo,Mauritania,3
+2012,Otros Paises Del Mundo,Mayotte,2
+2012,Otros Paises Del Mundo,Mozambique,10
+2012,Otros Paises Del Mundo,Namibia,18
+2012,Otros Paises Del Mundo,Nigeria,32
+2012,Otros Paises Del Mundo,Niue,9
+2012,Otros Paises Del Mundo,Níger,12
+2012,Otros Paises Del Mundo,OTROS PAISES DEL MUNDO,78
+2012,Otros Paises Del Mundo,Pitcairn,3
+2012,Otros Paises Del Mundo,República Centroafricana,7
+2012,Otros Paises Del Mundo,República Unida de Tanzania,28
+2012,Otros Paises Del Mundo,Ruanda,12
+2012,Otros Paises Del Mundo,Réunion,5
+2012,Otros Paises Del Mundo,Santo Tomé y Príncipe,10
+2012,Otros Paises Del Mundo,Senegal,3
+2012,Otros Paises Del Mundo,Sierra Leona,4
+2012,Otros Paises Del Mundo,Sudáfrica,434
+2012,Otros Paises Del Mundo,Sudán,5
+2012,Otros Paises Del Mundo,Togo,2
+2012,Otros Paises Del Mundo,Túnez,9
+2012,Otros Paises Del Mundo,Uganda,8
+2012,Otros Paises Del Mundo,Zambia,21
+2013,América Del Centro,Belice,52707
+2013,América Del Centro,Costa Rica,31587
+2013,América Del Centro,El Salvador,559587
+2013,América Del Centro,Guatemala,868207
+2013,América Del Centro,Honduras,98198
+2013,América Del Centro,Nicaragua,45273
+2013,América Del Centro,Panamá,10472
+2013,América Del Norte,Canadá,28460
+2013,América Del Norte,Estados Unidos de América,329841
+2013,América Del Norte,México,117390
+2013,América Del Sur y el Caribe,Antigua y Barbuda,14
+2013,América Del Sur y el Caribe,Argentina,9252
+2013,América Del Sur y el Caribe,Bahamas,62
+2013,América Del Sur y el Caribe,Barbados,61
+2013,América Del Sur y el Caribe,Bermuda,13
+2013,América Del Sur y el Caribe,Bolivia (Estado Plurinacional de),949
+2013,América Del Sur y el Caribe,Brasil,7066
+2013,América Del Sur y el Caribe,Chile,5648
+2013,América Del Sur y el Caribe,Colombia,19414
+2013,América Del Sur y el Caribe,Cuba,2229
+2013,América Del Sur y el Caribe,Dominica,32
+2013,América Del Sur y el Caribe,Ecuador,3189
+2013,América Del Sur y el Caribe,Granada,16
+2013,América Del Sur y el Caribe,Guadalupe,217
+2013,América Del Sur y el Caribe,Guayana francés,6
+2013,América Del Sur y el Caribe,Guyana,76
+2013,América Del Sur y el Caribe,Haití,200
+2013,América Del Sur y el Caribe,Islas Turcas y Caicos,3
+2013,América Del Sur y el Caribe,Islas Vírgenes Británicas,2
+2013,América Del Sur y el Caribe,Jamaica,224
+2013,América Del Sur y el Caribe,Martinica,1
+2013,América Del Sur y el Caribe,Montserrat,4
+2013,América Del Sur y el Caribe,Paraguay,588
+2013,América Del Sur y el Caribe,Perú,4421
+2013,América Del Sur y el Caribe,Puerto Rico,13
+2013,América Del Sur y el Caribe,República Dominicana,2815
+2013,América Del Sur y el Caribe,San Cristóbal y Nieves,30
+2013,América Del Sur y el Caribe,San Vicente y las Granadinas,21
+2013,América Del Sur y el Caribe,Santa Lucía,20
+2013,América Del Sur y el Caribe,Suriname,17
+2013,América Del Sur y el Caribe,Trinidad y Tobago,286
+2013,América Del Sur y el Caribe,Uruguay,1539
+2013,América Del Sur y el Caribe,Venezuela (República Bolivariana de),8569
+2013,Asia,Afganistán,14
+2013,Asia,Bangladesh,16
+2013,Asia,Camboya,3
+2013,Asia,China,4326
+2013,Asia,Filipinas,533
+2013,Asia,India,1826
+2013,Asia,Indonesia,105
+2013,Asia,Irán (República Islámica del),20
+2013,Asia,Japón,4998
+2013,Asia,Malasia,184
+2013,Asia,Mongolia,17
+2013,Asia,Nepal,24
+2013,Asia,Pakistán,43
+2013,Asia,República Democrática Popular Lao,55
+2013,Asia,República Popular Democrática de Corea,120
+2013,Asia,República de Corea,7525
+2013,Asia,Singapur,146
+2013,Asia,Sri Lanka,19
+2013,Asia,Tailandia,109
+2013,Asia,Viet Nam,15
+2013,Cruceristas,Cruceristas,71690
+2013,Europa,Albania,42
+2013,Europa,Alemania,14033
+2013,Europa,Andorra,40
+2013,Europa,Armenia,19
+2013,Europa,Austria,2251
+2013,Europa,Azerbaiyán,7
+2013,Europa,Bielorrusia,39
+2013,Europa,Bosnia y Herzegovina,3
+2013,Europa,Bulgaria,447
+2013,Europa,Bélgica,3371
+2013,Europa,Chipre,45
+2013,Europa,Croacia,184
+2013,Europa,Dinamarca,2155
+2013,Europa,Eslovaquia,433
+2013,Europa,Eslovenia,439
+2013,Europa,España,20609
+2013,Europa,Estonia,198
+2013,Europa,Federación de Rusia,1878
+2013,Europa,Finlandia,835
+2013,Europa,Francia,16630
+2013,Europa,Georgia,23
+2013,Europa,Gibraltar,4
+2013,Europa,Grecia,487
+2013,Europa,Hungría,423
+2013,Europa,Irlanda,1816
+2013,Europa,Islandia,81
+2013,Europa,Italia,10477
+2013,Europa,Kazajstán,18
+2013,Europa,Kirguistán,9
+2013,Europa,La ex República Yugoslava de Macedonia,26
+2013,Europa,Letonia,147
+2013,Europa,Liechtenstein,12
+2013,Europa,Lituania,318
+2013,Europa,Luxemburgo,60
+2013,Europa,Malta,65
+2013,Europa,Montenegro,11
+2013,Europa,Mónaco,11
+2013,Europa,Noruega,1965
+2013,Europa,Países Bajos,7402
+2013,Europa,Polonia,1932
+2013,Europa,Portugal,883
+2013,Europa,Reino Unido de Gran Bretaña e Irlanda del Norte,13676
+2013,Europa,República Checa,1057
+2013,Europa,República de Moldova,21
+2013,Europa,Rumania,669
+2013,Europa,San Marino,11
+2013,Europa,Serbia,79
+2013,Europa,Suecia,2569
+2013,Europa,Suiza,4094
+2013,Europa,Tayikistán,9
+2013,Europa,Turkmenistán,1
+2013,Europa,Turquía,514
+2013,Europa,Ucrania,646
+2013,Oceanía,Australia,7354
+2013,Oceanía,Fiji,60
+2013,Oceanía,Guam,20
+2013,Oceanía,Islas Marshall,2
+2013,Oceanía,Kiribati,12
+2013,Oceanía,Micronesia (Estados Federados de),16
+2013,Oceanía,Nueva Caledonia,7
+2013,Oceanía,Nueva Zelanda,1385
+2013,Oceanía,Palau,1
+2013,Oceanía,Papúa Nueva Guinea,1
+2013,Oceanía,Polinesia francés,1
+2013,Oceanía,Samoa,3
+2013,Oceanía,Tuvalu,1
+2013,Oceanía,Vanuatu,2
+2013,Oriente Medio,Arabia Saudita,21
+2013,Oriente Medio,Bahrein,5
+2013,Oriente Medio,Emiratos Árabes Unidos,98
+2013,Oriente Medio,Irak,23
+2013,Oriente Medio,Israel,7398
+2013,Oriente Medio,Jordania,81
+2013,Oriente Medio,Katar,128
+2013,Oriente Medio,Kuwait,3
+2013,Oriente Medio,Líbano,65
+2013,Oriente Medio,Omán,3
+2013,Oriente Medio,República Árabe Siria,22
+2013,Oriente Medio,Yemen,2
+2013,Otros Paises Del Mundo,Angola,3
+2013,Otros Paises Del Mundo,Anguila,2
+2013,Otros Paises Del Mundo,Argelia,16
+2013,Otros Paises Del Mundo,Benin,11
+2013,Otros Paises Del Mundo,Botswana,2
+2013,Otros Paises Del Mundo,Burkina Faso,5
+2013,Otros Paises Del Mundo,Burundi,6
+2013,Otros Paises Del Mundo,Bután,2
+2013,Otros Paises Del Mundo,Cabo Verde,13
+2013,Otros Paises Del Mundo,Camerún,21
+2013,Otros Paises Del Mundo,Chad,15
+2013,Otros Paises Del Mundo,Comoras,24
+2013,Otros Paises Del Mundo,Congo,56
+2013,Otros Paises Del Mundo,Côte d'Ivoire,30
+2013,Otros Paises Del Mundo,Djibouti,4
+2013,Otros Paises Del Mundo,Egipto,103
+2013,Otros Paises Del Mundo,Eritrea,5
+2013,Otros Paises Del Mundo,Estado de Palestina,26
+2013,Otros Paises Del Mundo,Etiopía,78
+2013,Otros Paises Del Mundo,Gabón,58
+2013,Otros Paises Del Mundo,Gambia,10
+2013,Otros Paises Del Mundo,Ghana,14
+2013,Otros Paises Del Mundo,Guinea,279
+2013,Otros Paises Del Mundo,Guinea Ecuatorial,26
+2013,Otros Paises Del Mundo,Guinea-Bissau,36
+2013,Otros Paises Del Mundo,Islas Caimán,9
+2013,Otros Paises Del Mundo,Kenia,53
+2013,Otros Paises Del Mundo,Lesoto,5
+2013,Otros Paises Del Mundo,Liberia,4
+2013,Otros Paises Del Mundo,Madagascar,6
+2013,Otros Paises Del Mundo,Malawi,3
+2013,Otros Paises Del Mundo,Malí,3
+2013,Otros Paises Del Mundo,Marruecos,66
+2013,Otros Paises Del Mundo,Mauricio,9
+2013,Otros Paises Del Mundo,Mauritania,6
+2013,Otros Paises Del Mundo,Mayotte,1
+2013,Otros Paises Del Mundo,Mozambique,8
+2013,Otros Paises Del Mundo,Namibia,5
+2013,Otros Paises Del Mundo,Nigeria,60
+2013,Otros Paises Del Mundo,Niue,10
+2013,Otros Paises Del Mundo,Níger,10
+2013,Otros Paises Del Mundo,OTROS PAISES DEL MUNDO,82
+2013,Otros Paises Del Mundo,Pitcairn,3
+2013,Otros Paises Del Mundo,República Centroafricana,8
+2013,Otros Paises Del Mundo,República Unida de Tanzania,23
+2013,Otros Paises Del Mundo,Ruanda,5
+2013,Otros Paises Del Mundo,Réunion,9
+2013,Otros Paises Del Mundo,Santo Tomé y Príncipe,8
+2013,Otros Paises Del Mundo,Senegal,6
+2013,Otros Paises Del Mundo,Sierra Leona,2
+2013,Otros Paises Del Mundo,Sudáfrica,446
+2013,Otros Paises Del Mundo,Sudán,2
+2013,Otros Paises Del Mundo,Togo,4
+2013,Otros Paises Del Mundo,Túnez,4
+2013,Otros Paises Del Mundo,Uganda,17
+2013,Otros Paises Del Mundo,Zambia,53
+2014,América Del Centro,Belice,62989
+2014,América Del Centro,Costa Rica,34421
+2014,América Del Centro,El Salvador,679803
+2014,América Del Centro,Guatemala,1007524
+2014,América Del Centro,Honduras,103015
+2014,América Del Centro,Nicaragua,43231
+2014,América Del Centro,Panamá,11446
+2014,América Del Norte,Canadá,29500
+2014,América Del Norte,Estados Unidos de América,349196
+2014,América Del Norte,México,120524
+2014,América Del Sur y el Caribe,Antigua y Barbuda,11
+2014,América Del Sur y el Caribe,Argentina,9384
+2014,América Del Sur y el Caribe,Bahamas,117
+2014,América Del Sur y el Caribe,Barbados,96
+2014,América Del Sur y el Caribe,Bermuda,25
+2014,América Del Sur y el Caribe,Bolivia (Estado Plurinacional de),1007
+2014,América Del Sur y el Caribe,Brasil,7696
+2014,América Del Sur y el Caribe,Chile,5496
+2014,América Del Sur y el Caribe,Colombia,25093
+2014,América Del Sur y el Caribe,Cuba,2272
+2014,América Del Sur y el Caribe,Dominica,31
+2014,América Del Sur y el Caribe,Ecuador,3757
+2014,América Del Sur y el Caribe,Granada,17
+2014,América Del Sur y el Caribe,Guadalupe,177
+2014,América Del Sur y el Caribe,Guayana francés,8
+2014,América Del Sur y el Caribe,Guyana,82
+2014,América Del Sur y el Caribe,Haití,224
+2014,América Del Sur y el Caribe,Islas Turcas y Caicos,2
+2014,América Del Sur y el Caribe,Islas Vírgenes Británicas,3
+2014,América Del Sur y el Caribe,Jamaica,244
+2014,América Del Sur y el Caribe,Martinica,1
+2014,América Del Sur y el Caribe,Montserrat,3
+2014,América Del Sur y el Caribe,Paraguay,630
+2014,América Del Sur y el Caribe,Perú,5439
+2014,América Del Sur y el Caribe,Puerto Rico,12
+2014,América Del Sur y el Caribe,República Dominicana,3319
+2014,América Del Sur y el Caribe,San Cristóbal y Nieves,11
+2014,América Del Sur y el Caribe,San Vicente y las Granadinas,13
+2014,América Del Sur y el Caribe,Santa Lucía,43
+2014,América Del Sur y el Caribe,Suriname,32
+2014,América Del Sur y el Caribe,Trinidad y Tobago,304
+2014,América Del Sur y el Caribe,Uruguay,1893
+2014,América Del Sur y el Caribe,Venezuela (República Bolivariana de),8858
+2014,Asia,Afganistán,23
+2014,Asia,Bangladesh,26
+2014,Asia,Brunei Darussalam,3
+2014,Asia,Camboya,5
+2014,Asia,China,5319
+2014,Asia,Filipinas,725
+2014,Asia,India,1874
+2014,Asia,Indonesia,65
+2014,Asia,Irán (República Islámica del),21
+2014,Asia,Japón,4813
+2014,Asia,Malasia,221
+2014,Asia,Mongolia,15
+2014,Asia,Nepal,52
+2014,Asia,Pakistán,68
+2014,Asia,República Democrática Popular Lao,37
+2014,Asia,República Popular Democrática de Corea,76
+2014,Asia,República de Corea,8362
+2014,Asia,Singapur,169
+2014,Asia,Sri Lanka,46
+2014,Asia,Tailandia,126
+2014,Asia,Viet Nam,23
+2014,Cruceristas,Cruceristas,70601
+2014,Europa,Albania,53
+2014,Europa,Alemania,16955
+2014,Europa,Andorra,27
+2014,Europa,Armenia,13
+2014,Europa,Austria,2526
+2014,Europa,Azerbaiyán,3
+2014,Europa,Bielorrusia,47
+2014,Europa,Bosnia y Herzegovina,2
+2014,Europa,Bulgaria,249
+2014,Europa,Bélgica,3633
+2014,Europa,Chipre,39
+2014,Europa,Croacia,181
+2014,Europa,Dinamarca,2342
+2014,Europa,Eslovaquia,651
+2014,Europa,Eslovenia,506
+2014,Europa,España,23733
+2014,Europa,Estonia,245
+2014,Europa,Federación de Rusia,2078
+2014,Europa,Finlandia,752
+2014,Europa,Francia,19089
+2014,Europa,Georgia,30
+2014,Europa,Gibraltar,7
+2014,Europa,Grecia,522
+2014,Europa,Groenlandia,2
+2014,Europa,Hungría,463
+2014,Europa,Irlanda,2157
+2014,Europa,Islandia,101
+2014,Europa,Italia,11816
+2014,Europa,Kazajstán,16
+2014,Europa,Kirguistán,5
+2014,Europa,La ex República Yugoslava de Macedonia,46
+2014,Europa,Letonia,109
+2014,Europa,Liechtenstein,26
+2014,Europa,Lituania,308
+2014,Europa,Luxemburgo,73
+2014,Europa,Malta,96
+2014,Europa,Montenegro,10
+2014,Europa,Noruega,1753
+2014,Europa,Países Bajos,7972
+2014,Europa,Polonia,3294
+2014,Europa,Portugal,1058
+2014,Europa,Reino Unido de Gran Bretaña e Irlanda del Norte,15929
+2014,Europa,República Checa,1523
+2014,Europa,República de Moldova,37
+2014,Europa,Rumania,547
+2014,Europa,San Marino,4
+2014,Europa,Serbia,42
+2014,Europa,Suecia,2857
+2014,Europa,Suiza,4370
+2014,Europa,Tayikistán,9
+2014,Europa,Turquía,505
+2014,Europa,Ucrania,802
+2014,Europa,Uzbekistán,5
+2014,Oceanía,Australia,8886
+2014,Oceanía,Fiji,78
+2014,Oceanía,Guam,27
+2014,Oceanía,Islas Marshall,3
+2014,Oceanía,Kiribati,18
+2014,Oceanía,Micronesia (Estados Federados de),21
+2014,Oceanía,Nauru,2
+2014,Oceanía,Nueva Caledonia,14
+2014,Oceanía,Nueva Zelanda,1659
+2014,Oceanía,Papúa Nueva Guinea,9
+2014,Oceanía,Polinesia francés,3
+2014,Oceanía,Samoa,7
+2014,Oceanía,Tonga,1
+2014,Oceanía,Vanuatu,6
+2014,Oriente Medio,Arabia Saudita,37
+2014,Oriente Medio,Bahrein,2
+2014,Oriente Medio,Emiratos Árabes Unidos,206
+2014,Oriente Medio,Irak,24
+2014,Oriente Medio,Israel,8908
+2014,Oriente Medio,Jordania,118
+2014,Oriente Medio,Katar,123
+2014,Oriente Medio,Kuwait,12
+2014,Oriente Medio,Libia,1
+2014,Oriente Medio,Líbano,45
+2014,Oriente Medio,Omán,8
+2014,Oriente Medio,República Árabe Siria,36
+2014,Oriente Medio,Yemen,2
+2014,Otros Paises Del Mundo,Angola,4
+2014,Otros Paises Del Mundo,Anguila,2
+2014,Otros Paises Del Mundo,Argelia,22
+2014,Otros Paises Del Mundo,Benin,14
+2014,Otros Paises Del Mundo,Botswana,7
+2014,Otros Paises Del Mundo,Burkina Faso,4
+2014,Otros Paises Del Mundo,Burundi,4
+2014,Otros Paises Del Mundo,Bután,3
+2014,Otros Paises Del Mundo,Cabo Verde,3
+2014,Otros Paises Del Mundo,Camerún,11
+2014,Otros Paises Del Mundo,Chad,15
+2014,Otros Paises Del Mundo,Comoras,30
+2014,Otros Paises Del Mundo,Congo,35
+2014,Otros Paises Del Mundo,Côte d'Ivoire,32
+2014,Otros Paises Del Mundo,Djibouti,6
+2014,Otros Paises Del Mundo,Egipto,174
+2014,Otros Paises Del Mundo,Eritrea,3
+2014,Otros Paises Del Mundo,Estado de Palestina,25
+2014,Otros Paises Del Mundo,Etiopía,95
+2014,Otros Paises Del Mundo,Gabón,58
+2014,Otros Paises Del Mundo,Gambia,13
+2014,Otros Paises Del Mundo,Ghana,27
+2014,Otros Paises Del Mundo,Guinea,270
+2014,Otros Paises Del Mundo,Guinea Ecuatorial,32
+2014,Otros Paises Del Mundo,Guinea-Bissau,38
+2014,Otros Paises Del Mundo,Islas Caimán,35
+2014,Otros Paises Del Mundo,Islas Feroe,1
+2014,Otros Paises Del Mundo,Kenia,47
+2014,Otros Paises Del Mundo,Lesoto,4
+2014,Otros Paises Del Mundo,Liberia,3
+2014,Otros Paises Del Mundo,Madagascar,7
+2014,Otros Paises Del Mundo,Malawi,7
+2014,Otros Paises Del Mundo,Malí,4
+2014,Otros Paises Del Mundo,Marruecos,81
+2014,Otros Paises Del Mundo,Mauricio,16
+2014,Otros Paises Del Mundo,Mauritania,1
+2014,Otros Paises Del Mundo,Mayotte,3
+2014,Otros Paises Del Mundo,Mozambique,14
+2014,Otros Paises Del Mundo,Namibia,6
+2014,Otros Paises Del Mundo,Nigeria,81
+2014,Otros Paises Del Mundo,Niue,24
+2014,Otros Paises Del Mundo,Níger,16
+2014,Otros Paises Del Mundo,OTROS PAISES DEL MUNDO,140
+2014,Otros Paises Del Mundo,Pitcairn,8
+2014,Otros Paises Del Mundo,República Centroafricana,11
+2014,Otros Paises Del Mundo,República Unida de Tanzania,11
+2014,Otros Paises Del Mundo,Ruanda,12
+2014,Otros Paises Del Mundo,Réunion,14
+2014,Otros Paises Del Mundo,Santo Tomé y Príncipe,13
+2014,Otros Paises Del Mundo,Senegal,10
+2014,Otros Paises Del Mundo,Seychelles,2
+2014,Otros Paises Del Mundo,Sierra Leona,3
+2014,Otros Paises Del Mundo,Somalia,3
+2014,Otros Paises Del Mundo,Sudáfrica,542
+2014,Otros Paises Del Mundo,Swazilandia,1
+2014,Otros Paises Del Mundo,Togo,4
+2014,Otros Paises Del Mundo,Túnez,8
+2014,Otros Paises Del Mundo,Uganda,16
+2014,Otros Paises Del Mundo,Zambia,34
+2015,América Del Centro,Belice,60258
+2015,América Del Centro,Costa Rica,36206
+2015,América Del Centro,El Salvador,746976
+2015,América Del Centro,Guatemala,1150182
+2015,América Del Centro,Honduras,111594
+2015,América Del Centro,Nicaragua,55609
+2015,América Del Centro,Panamá,14299
+2015,América Del Norte,Canadá,30824
+2015,América Del Norte,Estados Unidos de América,363441
+2015,América Del Norte,México,131281
+2015,América Del Sur y el Caribe,Antigua y Barbuda,45
+2015,América Del Sur y el Caribe,Argentina,10189
+2015,América Del Sur y el Caribe,Bahamas,62
+2015,América Del Sur y el Caribe,Barbados,76
+2015,América Del Sur y el Caribe,Bermuda,41
+2015,América Del Sur y el Caribe,Bolivia (Estado Plurinacional de),1082
+2015,América Del Sur y el Caribe,Brasil,8418
+2015,América Del Sur y el Caribe,Chile,6080
+2015,América Del Sur y el Caribe,Colombia,30842
+2015,América Del Sur y el Caribe,Cuba,2283
+2015,América Del Sur y el Caribe,Dominica,31
+2015,América Del Sur y el Caribe,Ecuador,3881
+2015,América Del Sur y el Caribe,Granada,15
+2015,América Del Sur y el Caribe,Guadalupe,25
+2015,América Del Sur y el Caribe,Guayana francés,10
+2015,América Del Sur y el Caribe,Guyana,116
+2015,América Del Sur y el Caribe,Haití,244
+2015,América Del Sur y el Caribe,Islas Turcas y Caicos,2
+2015,América Del Sur y el Caribe,Islas Vírgenes Británicas,3
+2015,América Del Sur y el Caribe,Jamaica,234
+2015,América Del Sur y el Caribe,Montserrat,1
+2015,América Del Sur y el Caribe,Paraguay,706
+2015,América Del Sur y el Caribe,Perú,5941
+2015,América Del Sur y el Caribe,Puerto Rico,14
+2015,América Del Sur y el Caribe,República Dominicana,3712
+2015,América Del Sur y el Caribe,San Cristóbal y Nieves,10
+2015,América Del Sur y el Caribe,San Vicente y las Granadinas,20
+2015,América Del Sur y el Caribe,Santa Lucía,18
+2015,América Del Sur y el Caribe,Suriname,28
+2015,América Del Sur y el Caribe,Trinidad y Tobago,287
+2015,América Del Sur y el Caribe,Uruguay,2008
+2015,América Del Sur y el Caribe,Venezuela (República Bolivariana de),10215
+2015,Asia,Afganistán,14
+2015,Asia,Bangladesh,20
+2015,Asia,Brunei Darussalam,1
+2015,Asia,Camboya,2
+2015,Asia,China,5132
+2015,Asia,Filipinas,854
+2015,Asia,India,2154
+2015,Asia,Indonesia,95
+2015,Asia,Irán (República Islámica del),45
+2015,Asia,Japón,4813
+2015,Asia,Malasia,213
+2015,Asia,Maldivas,2
+2015,Asia,Mongolia,24
+2015,Asia,Nepal,18
+2015,Asia,Pakistán,63
+2015,Asia,República Democrática Popular Lao,29
+2015,Asia,República Popular Democrática de Corea,61
+2015,Asia,República de Corea,9033
+2015,Asia,Singapur,155
+2015,Asia,Sri Lanka,67
+2015,Asia,Tailandia,156
+2015,Asia,Timor-Leste,1
+2015,Asia,Viet Nam,20
+2015,Cruceristas,Cruceristas,77195
+2015,Europa,Albania,21
+2015,Europa,Alemania,16570
+2015,Europa,Andorra,27
+2015,Europa,Armenia,20
+2015,Europa,Austria,2738
+2015,Europa,Azerbaiyán,6
+2015,Europa,Bielorrusia,36
+2015,Europa,Bosnia y Herzegovina,3
+2015,Europa,Bulgaria,290
+2015,Europa,Bélgica,3500
+2015,Europa,Chipre,29
+2015,Europa,Croacia,174
+2015,Europa,Dinamarca,2327
+2015,Europa,Eslovaquia,727
+2015,Europa,Eslovenia,512
+2015,Europa,España,26023
+2015,Europa,Estonia,308
+2015,Europa,Federación de Rusia,1740
+2015,Europa,Finlandia,746
+2015,Europa,Francia,18836
+2015,Europa,Georgia,33
+2015,Europa,Gibraltar,1
+2015,Europa,Grecia,465
+2015,Europa,Groenlandia,1
+2015,Europa,Hungría,450
+2015,Europa,Irlanda,2323
+2015,Europa,Islandia,95
+2015,Europa,Italia,11979
+2015,Europa,Kazajstán,30
+2015,Europa,Kirguistán,8
+2015,Europa,La ex República Yugoslava de Macedonia,41
+2015,Europa,Letonia,134
+2015,Europa,Liechtenstein,15
+2015,Europa,Lituania,228
+2015,Europa,Luxemburgo,107
+2015,Europa,Malta,111
+2015,Europa,Montenegro,28
+2015,Europa,Mónaco,7
+2015,Europa,Noruega,1687
+2015,Europa,Países Bajos,8143
+2015,Europa,Polonia,2099
+2015,Europa,Portugal,1222
+2015,Europa,Reino Unido de Gran Bretaña e Irlanda del Norte,16521
+2015,Europa,República Checa,1136
+2015,Europa,República de Moldova,37
+2015,Europa,Rumania,598
+2015,Europa,San Marino,2
+2015,Europa,Serbia,44
+2015,Europa,Suecia,2938
+2015,Europa,Suiza,4384
+2015,Europa,Tayikistán,5
+2015,Europa,Turquía,580
+2015,Europa,Ucrania,853
+2015,Europa,Uzbekistán,3
+2015,Oceanía,Australia,8839
+2015,Oceanía,Fiji,107
+2015,Oceanía,Guam,66
+2015,Oceanía,Islas Marshall,2
+2015,Oceanía,Kiribati,15
+2015,Oceanía,Micronesia (Estados Federados de),30
+2015,Oceanía,Nueva Caledonia,26
+2015,Oceanía,Nueva Zelanda,1719
+2015,Oceanía,Palau,4
+2015,Oceanía,Papúa Nueva Guinea,6
+2015,Oceanía,Polinesia francés,3
+2015,Oceanía,Samoa,10
+2015,Oceanía,Tonga,2
+2015,Oceanía,Vanuatu,3
+2015,Oriente Medio,Arabia Saudita,38
+2015,Oriente Medio,Bahrein,2
+2015,Oriente Medio,Emiratos Árabes Unidos,205
+2015,Oriente Medio,Irak,21
+2015,Oriente Medio,Israel,9662
+2015,Oriente Medio,Jordania,93
+2015,Oriente Medio,Katar,178
+2015,Oriente Medio,Kuwait,14
+2015,Oriente Medio,Libia,2
+2015,Oriente Medio,Líbano,50
+2015,Oriente Medio,Omán,17
+2015,Oriente Medio,República Árabe Siria,17
+2015,Oriente Medio,Yemen,1
+2015,Otros Paises Del Mundo,Angola,11
+2015,Otros Paises Del Mundo,Anguila,1
+2015,Otros Paises Del Mundo,Argelia,16
+2015,Otros Paises Del Mundo,Benin,11
+2015,Otros Paises Del Mundo,Botswana,2
+2015,Otros Paises Del Mundo,Burkina Faso,8
+2015,Otros Paises Del Mundo,Burundi,4
+2015,Otros Paises Del Mundo,Bután,4
+2015,Otros Paises Del Mundo,Cabo Verde,11
+2015,Otros Paises Del Mundo,Camerún,21
+2015,Otros Paises Del Mundo,Chad,12
+2015,Otros Paises Del Mundo,Comoras,13
+2015,Otros Paises Del Mundo,Congo,42
+2015,Otros Paises Del Mundo,Côte d'Ivoire,26
+2015,Otros Paises Del Mundo,Djibouti,3
+2015,Otros Paises Del Mundo,Egipto,167
+2015,Otros Paises Del Mundo,Eritrea,7
+2015,Otros Paises Del Mundo,Estado de Palestina,23
+2015,Otros Paises Del Mundo,Etiopía,90
+2015,Otros Paises Del Mundo,Gabón,27
+2015,Otros Paises Del Mundo,Gambia,7
+2015,Otros Paises Del Mundo,Ghana,38
+2015,Otros Paises Del Mundo,Guinea,254
+2015,Otros Paises Del Mundo,Guinea Ecuatorial,76
+2015,Otros Paises Del Mundo,Guinea-Bissau,82
+2015,Otros Paises Del Mundo,Islas Caimán,5
+2015,Otros Paises Del Mundo,Islas Feroe,1
+2015,Otros Paises Del Mundo,Kenia,52
+2015,Otros Paises Del Mundo,Lesoto,2
+2015,Otros Paises Del Mundo,Liberia,2
+2015,Otros Paises Del Mundo,Madagascar,10
+2015,Otros Paises Del Mundo,Malawi,1
+2015,Otros Paises Del Mundo,Malí,1
+2015,Otros Paises Del Mundo,Marruecos,99
+2015,Otros Paises Del Mundo,Mauricio,12
+2015,Otros Paises Del Mundo,Mauritania,6
+2015,Otros Paises Del Mundo,Mayotte,3
+2015,Otros Paises Del Mundo,Mozambique,6
+2015,Otros Paises Del Mundo,Namibia,11
+2015,Otros Paises Del Mundo,Nigeria,110
+2015,Otros Paises Del Mundo,Niue,15
+2015,Otros Paises Del Mundo,Níger,9
+2015,Otros Paises Del Mundo,OTROS PAISES DEL MUNDO,126
+2015,Otros Paises Del Mundo,Pitcairn,8
+2015,Otros Paises Del Mundo,República Centroafricana,6
+2015,Otros Paises Del Mundo,República Unida de Tanzania,36
+2015,Otros Paises Del Mundo,Ruanda,19
+2015,Otros Paises Del Mundo,Réunion,25
+2015,Otros Paises Del Mundo,Santo Tomé y Príncipe,3
+2015,Otros Paises Del Mundo,Senegal,4
+2015,Otros Paises Del Mundo,Seychelles,3
+2015,Otros Paises Del Mundo,Sierra Leona,3
+2015,Otros Paises Del Mundo,Somalia,5
+2015,Otros Paises Del Mundo,Sudáfrica,499
+2015,Otros Paises Del Mundo,Sudán,1
+2015,Otros Paises Del Mundo,Swazilandia,1
+2015,Otros Paises Del Mundo,Togo,5
+2015,Otros Paises Del Mundo,Túnez,15
+2015,Otros Paises Del Mundo,Uganda,15
+2015,Otros Paises Del Mundo,Zambia,19
+2016,América Del Centro,Belice,29873
+2016,América Del Centro,Costa Rica,41814
+2016,América Del Centro,El Salvador,986931
+2016,América Del Centro,Guatemala,1371054
+2016,América Del Centro,Honduras,100456
+2016,América Del Centro,Nicaragua,56553
+2016,América Del Centro,Panamá,15664
+2016,América Del Norte,Canadá,30620
+2016,América Del Norte,Estados Unidos de América,375204
+2016,América Del Norte,México,112188
+2016,América Del Sur y el Caribe,Antigua y Barbuda,45
+2016,América Del Sur y el Caribe,Argentina,10361
+2016,América Del Sur y el Caribe,Aruba,1
+2016,América Del Sur y el Caribe,Bahamas,50
+2016,América Del Sur y el Caribe,Barbados,72
+2016,América Del Sur y el Caribe,Bermuda,29
+2016,América Del Sur y el Caribe,Bolivia (Estado Plurinacional de),1080
+2016,América Del Sur y el Caribe,Brasil,7978
+2016,América Del Sur y el Caribe,Chile,6025
+2016,América Del Sur y el Caribe,Colombia,34278
+2016,América Del Sur y el Caribe,Cuba,3780
+2016,América Del Sur y el Caribe,Dominica,12
+2016,América Del Sur y el Caribe,Ecuador,3997
+2016,América Del Sur y el Caribe,Granada,6
+2016,América Del Sur y el Caribe,Guadalupe,62
+2016,América Del Sur y el Caribe,Guayana francés,18
+2016,América Del Sur y el Caribe,Guyana,91
+2016,América Del Sur y el Caribe,Haití,248
+2016,América Del Sur y el Caribe,Islas Turcas y Caicos,1
+2016,América Del Sur y el Caribe,Jamaica,223
+2016,América Del Sur y el Caribe,Paraguay,646
+2016,América Del Sur y el Caribe,Perú,6231
+2016,América Del Sur y el Caribe,Puerto Rico,3
+2016,América Del Sur y el Caribe,República Dominicana,3593
+2016,América Del Sur y el Caribe,San Cristóbal y Nieves,12
+2016,América Del Sur y el Caribe,San Vicente y las Granadinas,11
+2016,América Del Sur y el Caribe,Santa Lucía,23
+2016,América Del Sur y el Caribe,Suriname,18
+2016,América Del Sur y el Caribe,Trinidad y Tobago,222
+2016,América Del Sur y el Caribe,Uruguay,2148
+2016,América Del Sur y el Caribe,Venezuela (República Bolivariana de),11284
+2016,Asia,Afganistán,24
+2016,Asia,Bangladesh,29
+2016,Asia,Brunei Darussalam,3
+2016,Asia,Camboya,8
+2016,Asia,China,5522
+2016,Asia,Filipinas,810
+2016,Asia,India,2124
+2016,Asia,Indonesia,108
+2016,Asia,Irán (República Islámica del),25
+2016,Asia,Japón,4662
+2016,Asia,Malasia,278
+2016,Asia,Maldivas,1
+2016,Asia,Mongolia,21
+2016,Asia,Nepal,22
+2016,Asia,Pakistán,66
+2016,Asia,República Democrática Popular Lao,40
+2016,Asia,República Popular Democrática de Corea,40
+2016,Asia,República de Corea,8550
+2016,Asia,Singapur,186
+2016,Asia,Sri Lanka,31
+2016,Asia,Tailandia,191
+2016,Asia,Taiwan,174
+2016,Asia,Timor-Leste,1
+2016,Asia,Viet Nam,34
+2016,Cruceristas,Cruceristas,103712
+2016,Europa,Albania,19
+2016,Europa,Alemania,17250
+2016,Europa,Andorra,28
+2016,Europa,Armenia,29
+2016,Europa,Austria,2491
+2016,Europa,Azerbaiyán,8
+2016,Europa,Bielorrusia,30
+2016,Europa,Bosnia y Herzegovina,6
+2016,Europa,Bulgaria,286
+2016,Europa,Bélgica,3400
+2016,Europa,Chipre,25
+2016,Europa,Croacia,180
+2016,Europa,Dinamarca,2298
+2016,Europa,Eslovaquia,595
+2016,Europa,Eslovenia,673
+2016,Europa,España,26433
+2016,Europa,Estonia,412
+2016,Europa,Federación de Rusia,1592
+2016,Europa,Finlandia,726
+2016,Europa,Francia,18824
+2016,Europa,Georgia,31
+2016,Europa,Gibraltar,6
+2016,Europa,Grecia,465
+2016,Europa,Groenlandia,5
+2016,Europa,Hungría,445
+2016,Europa,Irlanda,2229
+2016,Europa,Islandia,100
+2016,Europa,Italia,11915
+2016,Europa,Kazajstán,13
+2016,Europa,Kirguistán,6
+2016,Europa,La ex República Yugoslava de Macedonia,39
+2016,Europa,Letonia,100
+2016,Europa,Liechtenstein,43
+2016,Europa,Lituania,267
+2016,Europa,Luxemburgo,109
+2016,Europa,Malta,111
+2016,Europa,Montenegro,11
+2016,Europa,Mónaco,16
+2016,Europa,Noruega,1672
+2016,Europa,Países Bajos,8602
+2016,Europa,Polonia,2540
+2016,Europa,Portugal,1073
+2016,Europa,Reino Unido de Gran Bretaña e Irlanda del Norte,16705
+2016,Europa,República Checa,1131
+2016,Europa,República de Moldova,17
+2016,Europa,Rumania,691
+2016,Europa,San Marino,3
+2016,Europa,Serbia,59
+2016,Europa,Suecia,2722
+2016,Europa,Suiza,4641
+2016,Europa,Tayikistán,8
+2016,Europa,Turkmenistán,1
+2016,Europa,Turquía,671
+2016,Europa,Ucrania,764
+2016,Europa,Uzbekistán,9
+2016,Oceanía,Australia,9218
+2016,Oceanía,Fiji,96
+2016,Oceanía,Guam,61
+2016,Oceanía,Islas Marshall,5
+2016,Oceanía,Kiribati,31
+2016,Oceanía,Micronesia (Estados Federados de),24
+2016,Oceanía,Nauru,2
+2016,Oceanía,Nueva Caledonia,17
+2016,Oceanía,Nueva Zelanda,1838
+2016,Oceanía,Palau,2
+2016,Oceanía,Papúa Nueva Guinea,6
+2016,Oceanía,Polinesia francés,2
+2016,Oceanía,Samoa,3
+2016,Oceanía,Tonga,1
+2016,Oceanía,Tuvalu,1
+2016,Oceanía,Vanuatu,6
+2016,Oriente Medio,Arabia Saudita,46
+2016,Oriente Medio,Bahrein,6
+2016,Oriente Medio,Emiratos Árabes Unidos,283
+2016,Oriente Medio,Irak,19
+2016,Oriente Medio,Israel,9829
+2016,Oriente Medio,Jordania,83
+2016,Oriente Medio,Katar,223
+2016,Oriente Medio,Kuwait,15
+2016,Oriente Medio,Libia,1
+2016,Oriente Medio,Líbano,55
+2016,Oriente Medio,Omán,33
+2016,Oriente Medio,República Árabe Siria,28
+2016,Oriente Medio,Yemen,2
+2016,Otros Paises Del Mundo,Angola,3
+2016,Otros Paises Del Mundo,Anguila,1
+2016,Otros Paises Del Mundo,Argelia,13
+2016,Otros Paises Del Mundo,Benin,9
+2016,Otros Paises Del Mundo,Botswana,5
+2016,Otros Paises Del Mundo,Burkina Faso,8
+2016,Otros Paises Del Mundo,Burundi,6
+2016,Otros Paises Del Mundo,Bután,7
+2016,Otros Paises Del Mundo,Cabo Verde,16
+2016,Otros Paises Del Mundo,Camerún,17
+2016,Otros Paises Del Mundo,Chad,11
+2016,Otros Paises Del Mundo,Comoras,19
+2016,Otros Paises Del Mundo,Congo,36
+2016,Otros Paises Del Mundo,Côte d'Ivoire,22
+2016,Otros Paises Del Mundo,Djibouti,2
+2016,Otros Paises Del Mundo,Egipto,143
+2016,Otros Paises Del Mundo,Eritrea,12
+2016,Otros Paises Del Mundo,Estado de Palestina,21
+2016,Otros Paises Del Mundo,Etiopía,93
+2016,Otros Paises Del Mundo,Gabón,41
+2016,Otros Paises Del Mundo,Gambia,16
+2016,Otros Paises Del Mundo,Ghana,30
+2016,Otros Paises Del Mundo,Guinea,275
+2016,Otros Paises Del Mundo,Guinea Ecuatorial,109
+2016,Otros Paises Del Mundo,Guinea-Bissau,86
+2016,Otros Paises Del Mundo,Islas Caimán,11
+2016,Otros Paises Del Mundo,Islas Feroe,1
+2016,Otros Paises Del Mundo,Kenia,67
+2016,Otros Paises Del Mundo,Lesoto,5
+2016,Otros Paises Del Mundo,Liberia,1
+2016,Otros Paises Del Mundo,Madagascar,7
+2016,Otros Paises Del Mundo,Malawi,1
+2016,Otros Paises Del Mundo,Malí,3
+2016,Otros Paises Del Mundo,Marruecos,124
+2016,Otros Paises Del Mundo,Mauricio,25
+2016,Otros Paises Del Mundo,Mauritania,3
+2016,Otros Paises Del Mundo,Mozambique,12
+2016,Otros Paises Del Mundo,Namibia,18
+2016,Otros Paises Del Mundo,Nigeria,100
+2016,Otros Paises Del Mundo,Niue,9
+2016,Otros Paises Del Mundo,Níger,9
+2016,Otros Paises Del Mundo,OTROS PAISES DEL MUNDO,140
+2016,Otros Paises Del Mundo,Pitcairn,18
+2016,Otros Paises Del Mundo,República Centroafricana,6
+2016,Otros Paises Del Mundo,República Unida de Tanzania,28
+2016,Otros Paises Del Mundo,Ruanda,17
+2016,Otros Paises Del Mundo,Réunion,24
+2016,Otros Paises Del Mundo,Santo Tomé y Príncipe,1
+2016,Otros Paises Del Mundo,Senegal,1
+2016,Otros Paises Del Mundo,Seychelles,2
+2016,Otros Paises Del Mundo,Somalia,3
+2016,Otros Paises Del Mundo,Sudáfrica,478
+2016,Otros Paises Del Mundo,Sudán,2
+2016,Otros Paises Del Mundo,Swazilandia,4
+2016,Otros Paises Del Mundo,Túnez,21
+2016,Otros Paises Del Mundo,Uganda,14
+2016,Otros Paises Del Mundo,Zambia,33
+2017,América Del Centro,Belice,189161
+2017,América Del Centro,Costa Rica,71775
+2017,América Del Centro,El Salvador,1045102
+2017,América Del Centro,Guatemala,1455343
+2017,América Del Centro,Honduras,108970
+2017,América Del Centro,Nicaragua,61896
+2017,América Del Centro,Panamá,14983
+2017,América Del Norte,Canadá,34626
+2017,América Del Norte,Estados Unidos de América,391174
+2017,América Del Norte,México,125441
+2017,América Del Sur y el Caribe,Antigua y Barbuda,20
+2017,América Del Sur y el Caribe,Argentina,10901
+2017,América Del Sur y el Caribe,Bahamas,101
+2017,América Del Sur y el Caribe,Barbados,65
+2017,América Del Sur y el Caribe,Bermuda,40
+2017,América Del Sur y el Caribe,Bolivia (Estado Plurinacional de),1201
+2017,América Del Sur y el Caribe,Brasil,8449
+2017,América Del Sur y el Caribe,Chile,6959
+2017,América Del Sur y el Caribe,Colombia,36545
+2017,América Del Sur y el Caribe,Cuba,2098
+2017,América Del Sur y el Caribe,Dominica,21
+2017,América Del Sur y el Caribe,Ecuador,4099
+2017,América Del Sur y el Caribe,Granada,14
+2017,América Del Sur y el Caribe,Guadalupe,23
+2017,América Del Sur y el Caribe,Guayana francés,33
+2017,América Del Sur y el Caribe,Guyana,101
+2017,América Del Sur y el Caribe,Haití,225
+2017,América Del Sur y el Caribe,Islas Turcas y Caicos,1
+2017,América Del Sur y el Caribe,Jamaica,245
+2017,América Del Sur y el Caribe,Montserrat,1
+2017,América Del Sur y el Caribe,Paraguay,586
+2017,América Del Sur y el Caribe,Perú,6348
+2017,América Del Sur y el Caribe,Puerto Rico,10
+2017,América Del Sur y el Caribe,República Dominicana,4417
+2017,América Del Sur y el Caribe,San Cristóbal y Nieves,13
+2017,América Del Sur y el Caribe,San Vicente y las Granadinas,23
+2017,América Del Sur y el Caribe,Santa Lucía,32
+2017,América Del Sur y el Caribe,Suriname,23
+2017,América Del Sur y el Caribe,Trinidad y Tobago,199
+2017,América Del Sur y el Caribe,Uruguay,2088
+2017,América Del Sur y el Caribe,Venezuela (República Bolivariana de),12663
+2017,Asia,Afganistán,24
+2017,Asia,Bangladesh,33
+2017,Asia,Brunei Darussalam,2
+2017,Asia,Camboya,4
+2017,Asia,China,3589
+2017,Asia,Filipinas,695
+2017,Asia,India,2244
+2017,Asia,Indonesia,114
+2017,Asia,Irán (República Islámica del),22
+2017,Asia,Japón,5105
+2017,Asia,Malasia,306
+2017,Asia,Maldivas,3
+2017,Asia,Mongolia,17
+2017,Asia,Nepal,33
+2017,Asia,Pakistán,59
+2017,Asia,República Democrática Popular Lao,46
+2017,Asia,República Popular Democrática de Corea,47
+2017,Asia,República de Corea,8952
+2017,Asia,Singapur,208
+2017,Asia,Sri Lanka,56
+2017,Asia,Tailandia,205
+2017,Asia,Taiwan,2617
+2017,Asia,Timor-Leste,2
+2017,Asia,Viet Nam,43
+2017,Cruceristas,Cruceristas,129063
+2017,Europa,Albania,20
+2017,Europa,Alemania,19171
+2017,Europa,Andorra,37
+2017,Europa,Armenia,26
+2017,Europa,Austria,2596
+2017,Europa,Azerbaiyán,4
+2017,Europa,Bielorrusia,48
+2017,Europa,Bosnia y Herzegovina,7
+2017,Europa,Bulgaria,376
+2017,Europa,Bélgica,4766
+2017,Europa,Chipre,56
+2017,Europa,Croacia,167
+2017,Europa,Dinamarca,2293
+2017,Europa,Eslovaquia,804
+2017,Europa,Eslovenia,693
+2017,Europa,España,26715
+2017,Europa,Estonia,569
+2017,Europa,Federación de Rusia,1984
+2017,Europa,Finlandia,828
+2017,Europa,Francia,22596
+2017,Europa,Georgia,133
+2017,Europa,Gibraltar,1
+2017,Europa,Grecia,428
+2017,Europa,Groenlandia,3
+2017,Europa,Hungría,724
+2017,Europa,Irlanda,2827
+2017,Europa,Islandia,129
+2017,Europa,Italia,13109
+2017,Europa,Kazajstán,1
+2017,Europa,Kirguistán,8
+2017,Europa,La ex República Yugoslava de Macedonia,40
+2017,Europa,Letonia,104
+2017,Europa,Liechtenstein,19
+2017,Europa,Lituania,306
+2017,Europa,Luxemburgo,107
+2017,Europa,Malta,64
+2017,Europa,Montenegro,14
+2017,Europa,Mónaco,10
+2017,Europa,Noruega,1562
+2017,Europa,Países Bajos,10189
+2017,Europa,Polonia,3407
+2017,Europa,Portugal,1382
+2017,Europa,Reino Unido de Gran Bretaña e Irlanda del Norte,17754
+2017,Europa,República Checa,1727
+2017,Europa,República de Kazajistán,22
+2017,Europa,República de Moldova,34
+2017,Europa,Rumania,524
+2017,Europa,San Marino,14
+2017,Europa,Serbia,96
+2017,Europa,Suecia,2835
+2017,Europa,Suiza,5195
+2017,Europa,Tayikistán,12
+2017,Europa,Turkmenistán,1
+2017,Europa,Turquía,713
+2017,Europa,Ucrania,770
+2017,Europa,Uzbekistán,38
+2017,Oceanía,Australia,9743
+2017,Oceanía,Fiji,103
+2017,Oceanía,Guam,70
+2017,Oceanía,Islas Marshall,1
+2017,Oceanía,Kiribati,21
+2017,Oceanía,Micronesia (Estados Federados de),44
+2017,Oceanía,Nauru,4
+2017,Oceanía,Nueva Caledonia,34
+2017,Oceanía,Nueva Zelanda,2322
+2017,Oceanía,Palau,4
+2017,Oceanía,Papúa Nueva Guinea,11
+2017,Oceanía,Polinesia francés,2
+2017,Oceanía,Samoa,1
+2017,Oceanía,Tonga,1
+2017,Oceanía,Tuvalu,1
+2017,Oceanía,Vanuatu,1
+2017,Oriente Medio,Arabia Saudita,97
+2017,Oriente Medio,Bahrein,17
+2017,Oriente Medio,Emiratos Árabes Unidos,371
+2017,Oriente Medio,Irak,34
+2017,Oriente Medio,Israel,7917
+2017,Oriente Medio,Jordania,104
+2017,Oriente Medio,Katar,331
+2017,Oriente Medio,Kuwait,15
+2017,Oriente Medio,Libia,7
+2017,Oriente Medio,Líbano,52
+2017,Oriente Medio,Omán,22
+2017,Oriente Medio,República Árabe Siria,24
+2017,Otros Paises Del Mundo,Angola,34
+2017,Otros Paises Del Mundo,Anguila,2
+2017,Otros Paises Del Mundo,Argelia,9
+2017,Otros Paises Del Mundo,Benin,17
+2017,Otros Paises Del Mundo,Botswana,8
+2017,Otros Paises Del Mundo,Burkina Faso,3
+2017,Otros Paises Del Mundo,Burundi,4
+2017,Otros Paises Del Mundo,Bután,17
+2017,Otros Paises Del Mundo,Cabo Verde,6
+2017,Otros Paises Del Mundo,Camerún,20
+2017,Otros Paises Del Mundo,Chad,18
+2017,Otros Paises Del Mundo,Comoras,17
+2017,Otros Paises Del Mundo,Congo,37
+2017,Otros Paises Del Mundo,Côte d'Ivoire,38
+2017,Otros Paises Del Mundo,Djibouti,2
+2017,Otros Paises Del Mundo,Egipto,184
+2017,Otros Paises Del Mundo,Eritrea,19
+2017,Otros Paises Del Mundo,Estado de Palestina,27
+2017,Otros Paises Del Mundo,Etiopía,85
+2017,Otros Paises Del Mundo,Gabón,42
+2017,Otros Paises Del Mundo,Gambia,38
+2017,Otros Paises Del Mundo,Ghana,28
+2017,Otros Paises Del Mundo,Guinea,300
+2017,Otros Paises Del Mundo,Guinea Ecuatorial,148
+2017,Otros Paises Del Mundo,Guinea-Bissau,130
+2017,Otros Paises Del Mundo,Islas Caimán,47
+2017,Otros Paises Del Mundo,Islas Feroe,5
+2017,Otros Paises Del Mundo,Kenia,44
+2017,Otros Paises Del Mundo,Lesoto,5
+2017,Otros Paises Del Mundo,Liberia,1
+2017,Otros Paises Del Mundo,Madagascar,9
+2017,Otros Paises Del Mundo,Malawi,5
+2017,Otros Paises Del Mundo,Malí,3
+2017,Otros Paises Del Mundo,Marruecos,122
+2017,Otros Paises Del Mundo,Mauricio,14
+2017,Otros Paises Del Mundo,Mauritania,7
+2017,Otros Paises Del Mundo,Mayotte,1
+2017,Otros Paises Del Mundo,Mozambique,18
+2017,Otros Paises Del Mundo,Namibia,24
+2017,Otros Paises Del Mundo,Nigeria,111
+2017,Otros Paises Del Mundo,Niue,16
+2017,Otros Paises Del Mundo,Níger,21
+2017,Otros Paises Del Mundo,OTROS PAISES DEL MUNDO,176
+2017,Otros Paises Del Mundo,Pitcairn,8
+2017,Otros Paises Del Mundo,República Centroafricana,8
+2017,Otros Paises Del Mundo,República Unida de Tanzania,28
+2017,Otros Paises Del Mundo,Ruanda,11
+2017,Otros Paises Del Mundo,Réunion,22
+2017,Otros Paises Del Mundo,Santo Tomé y Príncipe,1
+2017,Otros Paises Del Mundo,Senegal,8
+2017,Otros Paises Del Mundo,Seychelles,5
+2017,Otros Paises Del Mundo,Sierra Leona,1
+2017,Otros Paises Del Mundo,Somalia,3
+2017,Otros Paises Del Mundo,Sudáfrica,524
+2017,Otros Paises Del Mundo,Sudán,4
+2017,Otros Paises Del Mundo,Togo,2
+2017,Otros Paises Del Mundo,Túnez,15
+2017,Otros Paises Del Mundo,Uganda,12
+2017,Otros Paises Del Mundo,Zambia,30
+2018,América Del Centro,Belice,71323
+2018,América Del Centro,Costa Rica,53962
+2018,América Del Centro,El Salvador,1210029
+2018,América Del Centro,Guatemala,1609080
+2018,América Del Centro,Honduras,156318
+2018,América Del Centro,Nicaragua,75534
+2018,América Del Centro,Panamá,15501
+2018,América Del Norte,Canadá,37070
+2018,América Del Norte,Estados Unidos de América,446416
+2018,América Del Norte,México,125853
+2018,América Del Sur y el Caribe,Antigua y Barbuda,19
+2018,América Del Sur y el Caribe,Argentina,10748
+2018,América Del Sur y el Caribe,Bahamas,70
+2018,América Del Sur y el Caribe,Barbados,69
+2018,América Del Sur y el Caribe,Bermuda,38
+2018,América Del Sur y el Caribe,Bolivia (Estado Plurinacional de),1403
+2018,América Del Sur y el Caribe,Brasil,8928
+2018,América Del Sur y el Caribe,Chile,6898
+2018,América Del Sur y el Caribe,Colombia,39305
+2018,América Del Sur y el Caribe,Cuba,2312
+2018,América Del Sur y el Caribe,Dominica,34
+2018,América Del Sur y el Caribe,Ecuador,4559
+2018,América Del Sur y el Caribe,Granada,20
+2018,América Del Sur y el Caribe,Guadalupe,19
+2018,América Del Sur y el Caribe,Guayana francés,78
+2018,América Del Sur y el Caribe,Guyana,130
+2018,América Del Sur y el Caribe,Haití,279
+2018,América Del Sur y el Caribe,Jamaica,249
+2018,América Del Sur y el Caribe,Montserrat,7
+2018,América Del Sur y el Caribe,Paraguay,726
+2018,América Del Sur y el Caribe,Perú,6833
+2018,América Del Sur y el Caribe,Puerto Rico,7
+2018,América Del Sur y el Caribe,República Dominicana,4775
+2018,América Del Sur y el Caribe,San Cristóbal y Nieves,16
+2018,América Del Sur y el Caribe,San Vicente y las Granadinas,17
+2018,América Del Sur y el Caribe,Santa Lucía,37
+2018,América Del Sur y el Caribe,Suriname,16
+2018,América Del Sur y el Caribe,Trinidad y Tobago,183
+2018,América Del Sur y el Caribe,Uruguay,2145
+2018,América Del Sur y el Caribe,Venezuela (República Bolivariana de),8664
+2018,Asia,Afganistán,9
+2018,Asia,Bangladesh,24
+2018,Asia,Brunei Darussalam,5
+2018,Asia,Camboya,16
+2018,Asia,China,3816
+2018,Asia,Filipinas,711
+2018,Asia,India,2566
+2018,Asia,Indonesia,115
+2018,Asia,Irán (República Islámica del),33
+2018,Asia,Japón,4922
+2018,Asia,Malasia,260
+2018,Asia,Maldivas,2
+2018,Asia,Mongolia,45
+2018,Asia,Nepal,19
+2018,Asia,Pakistán,106
+2018,Asia,República Democrática Popular Lao,49
+2018,Asia,República Popular Democrática de Corea,23
+2018,Asia,República de Corea,9464
+2018,Asia,Singapur,251
+2018,Asia,Sri Lanka,29
+2018,Asia,Tailandia,203
+2018,Asia,Taiwan,2730
+2018,Asia,Timor-Leste,6
+2018,Asia,Viet Nam,21
+2018,Cruceristas,Cruceristas,150392
+2018,Europa,Albania,8
+2018,Europa,Alemania,22040
+2018,Europa,Andorra,42
+2018,Europa,Armenia,25
+2018,Europa,Austria,2342
+2018,Europa,Azerbaiyán,8
+2018,Europa,Bielorrusia,57
+2018,Europa,Bosnia y Herzegovina,5
+2018,Europa,Bulgaria,385
+2018,Europa,Bélgica,4310
+2018,Europa,Chipre,41
+2018,Europa,Croacia,228
+2018,Europa,Dinamarca,2271
+2018,Europa,Eslovaquia,876
+2018,Europa,Eslovenia,1463
+2018,Europa,España,28393
+2018,Europa,Estonia,567
+2018,Europa,Federación de Rusia,1907
+2018,Europa,Finlandia,766
+2018,Europa,Francia,23418
+2018,Europa,Georgia,24
+2018,Europa,Gibraltar,5
+2018,Europa,Grecia,429
+2018,Europa,Groenlandia,5
+2018,Europa,Hungría,735
+2018,Europa,Irlanda,2964
+2018,Europa,Islandia,115
+2018,Europa,Italia,14328
+2018,Europa,Kirguistán,7
+2018,Europa,La ex República Yugoslava de Macedonia,28
+2018,Europa,Letonia,120
+2018,Europa,Liechtenstein,11
+2018,Europa,Lituania,440
+2018,Europa,Luxemburgo,150
+2018,Europa,Malta,146
+2018,Europa,Montenegro,23
+2018,Europa,Mónaco,4
+2018,Europa,Noruega,1735
+2018,Europa,Países Bajos,12181
+2018,Europa,Polonia,3244
+2018,Europa,Portugal,1572
+2018,Europa,Reino Unido de Gran Bretaña e Irlanda del Norte,18210
+2018,Europa,República Checa,1639
+2018,Europa,República de Kazajistán,15
+2018,Europa,República de Moldova,35
+2018,Europa,Rumania,518
+2018,Europa,San Marino,3
+2018,Europa,Serbia,109
+2018,Europa,Suecia,2797
+2018,Europa,Suiza,5055
+2018,Europa,Tayikistán,9
+2018,Europa,Turquía,709
+2018,Europa,Ucrania,984
+2018,Europa,Uzbekistán,23
+2018,Oceanía,Australia,8632
+2018,Oceanía,Fiji,90
+2018,Oceanía,Guam,50
+2018,Oceanía,Islas Marshall,3
+2018,Oceanía,Kiribati,1
+2018,Oceanía,Micronesia (Estados Federados de),55
+2018,Oceanía,Nauru,1
+2018,Oceanía,Nueva Caledonia,51
+2018,Oceanía,Nueva Zelanda,1930
+2018,Oceanía,Palau,3
+2018,Oceanía,Papúa Nueva Guinea,4
+2018,Oceanía,Samoa,5
+2018,Oceanía,Vanuatu,3
+2018,Oriente Medio,Arabia Saudita,63
+2018,Oriente Medio,Bahrein,6
+2018,Oriente Medio,Emiratos Árabes Unidos,444
+2018,Oriente Medio,Irak,53
+2018,Oriente Medio,Israel,8686
+2018,Oriente Medio,Jordania,80
+2018,Oriente Medio,Katar,347
+2018,Oriente Medio,Kuwait,12
+2018,Oriente Medio,Libia,1
+2018,Oriente Medio,Líbano,42
+2018,Oriente Medio,Omán,27
+2018,Oriente Medio,República Árabe Siria,22
+2018,Oriente Medio,Yemen,2
+2018,Otros Paises Del Mundo,Angola,11
+2018,Otros Paises Del Mundo,Anguila,1
+2018,Otros Paises Del Mundo,Argelia,10
+2018,Otros Paises Del Mundo,Benin,48
+2018,Otros Paises Del Mundo,Botswana,6
+2018,Otros Paises Del Mundo,Burkina Faso,4
+2018,Otros Paises Del Mundo,Bután,26
+2018,Otros Paises Del Mundo,Cabo Verde,7
+2018,Otros Paises Del Mundo,Camerún,14
+2018,Otros Paises Del Mundo,Chad,11
+2018,Otros Paises Del Mundo,Comoras,29
+2018,Otros Paises Del Mundo,Congo,42
+2018,Otros Paises Del Mundo,Côte d'Ivoire,25
+2018,Otros Paises Del Mundo,Djibouti,4
+2018,Otros Paises Del Mundo,Egipto,182
+2018,Otros Paises Del Mundo,Eritrea,20
+2018,Otros Paises Del Mundo,Estado de Palestina,26
+2018,Otros Paises Del Mundo,Etiopía,94
+2018,Otros Paises Del Mundo,Gabón,26
+2018,Otros Paises Del Mundo,Gambia,26
+2018,Otros Paises Del Mundo,Ghana,35
+2018,Otros Paises Del Mundo,Guinea,369
+2018,Otros Paises Del Mundo,Guinea Ecuatorial,146
+2018,Otros Paises Del Mundo,Guinea-Bissau,161
+2018,Otros Paises Del Mundo,Islas Caimán,6
+2018,Otros Paises Del Mundo,Islas Feroe,10
+2018,Otros Paises Del Mundo,Kenia,52
+2018,Otros Paises Del Mundo,Liberia,1
+2018,Otros Paises Del Mundo,Madagascar,6
+2018,Otros Paises Del Mundo,Malawi,3
+2018,Otros Paises Del Mundo,Malí,2
+2018,Otros Paises Del Mundo,Marruecos,148
+2018,Otros Paises Del Mundo,Mauricio,20
+2018,Otros Paises Del Mundo,Mauritania,4
+2018,Otros Paises Del Mundo,Mozambique,26
+2018,Otros Paises Del Mundo,Namibia,23
+2018,Otros Paises Del Mundo,Nigeria,127
+2018,Otros Paises Del Mundo,Niue,26
+2018,Otros Paises Del Mundo,Níger,26
+2018,Otros Paises Del Mundo,OTROS PAISES DEL MUNDO,255
+2018,Otros Paises Del Mundo,Pitcairn,12
+2018,Otros Paises Del Mundo,República Centroafricana,9
+2018,Otros Paises Del Mundo,República Unida de Tanzania,16
+2018,Otros Paises Del Mundo,Ruanda,13
+2018,Otros Paises Del Mundo,Réunion,25
+2018,Otros Paises Del Mundo,Santo Tomé y Príncipe,1
+2018,Otros Paises Del Mundo,Senegal,8
+2018,Otros Paises Del Mundo,Sierra Leona,3
+2018,Otros Paises Del Mundo,Sudáfrica,432
+2018,Otros Paises Del Mundo,Sudán,2
+2018,Otros Paises Del Mundo,Swazilandia,11
+2018,Otros Paises Del Mundo,Togo,4
+2018,Otros Paises Del Mundo,Túnez,29
+2018,Otros Paises Del Mundo,Uganda,54
+2018,Otros Paises Del Mundo,Zambia,52
+2019,América Del Centro,Belice,119119
+2019,América Del Centro,Costa Rica,58340
+2019,América Del Centro,El Salvador,1371077
+2019,América Del Centro,Guatemala,1791162
+2019,América Del Centro,Honduras,208826
+2019,América Del Centro,Nicaragua,82050
+2019,América Del Centro,Panamá,16224
+2019,América Del Norte,Canadá,34837
+2019,América Del Norte,Estados Unidos de América,464747
+2019,América Del Norte,México,123003
+2019,América Del Sur y el Caribe,Antigua y Barbuda,43
+2019,América Del Sur y el Caribe,Argentina,10492
+2019,América Del Sur y el Caribe,Aruba,1
+2019,América Del Sur y el Caribe,Bahamas,73
+2019,América Del Sur y el Caribe,Barbados,42
+2019,América Del Sur y el Caribe,Bermuda,26
+2019,América Del Sur y el Caribe,Bolivia (Estado Plurinacional de),1268
+2019,América Del Sur y el Caribe,Brasil,8648
+2019,América Del Sur y el Caribe,Chile,6640
+2019,América Del Sur y el Caribe,Colombia,40071
+2019,América Del Sur y el Caribe,Cuba,2450
+2019,América Del Sur y el Caribe,Dominica,35
+2019,América Del Sur y el Caribe,Ecuador,4567
+2019,América Del Sur y el Caribe,Granada,17
+2019,América Del Sur y el Caribe,Guadalupe,19
+2019,América Del Sur y el Caribe,Guayana francés,78
+2019,América Del Sur y el Caribe,Guyana,144
+2019,América Del Sur y el Caribe,Haití,262
+2019,América Del Sur y el Caribe,Islas Turcas y Caicos,1
+2019,América Del Sur y el Caribe,Jamaica,259
+2019,América Del Sur y el Caribe,Montserrat,10
+2019,América Del Sur y el Caribe,Paraguay,676
+2019,América Del Sur y el Caribe,Perú,7115
+2019,América Del Sur y el Caribe,Puerto Rico,12
+2019,América Del Sur y el Caribe,República Dominicana,4959
+2019,América Del Sur y el Caribe,San Cristóbal y Nieves,26
+2019,América Del Sur y el Caribe,San Vicente y las Granadinas,18
+2019,América Del Sur y el Caribe,Santa Lucía,28
+2019,América Del Sur y el Caribe,Suriname,22
+2019,América Del Sur y el Caribe,Trinidad y Tobago,151
+2019,América Del Sur y el Caribe,Uruguay,2170
+2019,América Del Sur y el Caribe,Venezuela (República Bolivariana de),7569
+2019,Asia,Afganistán,19
+2019,Asia,Bangladesh,44
+2019,Asia,Brunei Darussalam,11
+2019,Asia,Camboya,10
+2019,Asia,China,4638
+2019,Asia,Filipinas,695
+2019,Asia,India,2516
+2019,Asia,Indonesia,124
+2019,Asia,Irán (República Islámica del),29
+2019,Asia,Japón,4114
+2019,Asia,Malasia,268
+2019,Asia,Maldivas,2
+2019,Asia,Mongolia,29
+2019,Asia,Nepal,20
+2019,Asia,Pakistán,100
+2019,Asia,República Democrática Popular Lao,50
+2019,Asia,República Popular Democrática de Corea,16
+2019,Asia,República de Corea,9321
+2019,Asia,Singapur,249
+2019,Asia,Sri Lanka,49
+2019,Asia,Tailandia,157
+2019,Asia,Taiwan,2208
+2019,Asia,Viet Nam,35
+2019,Cruceristas,Cruceristas,130789
+2019,Europa,Albania,22
+2019,Europa,Alemania,20157
+2019,Europa,Andorra,19
+2019,Europa,Armenia,27
+2019,Europa,Austria,2543
+2019,Europa,Azerbaiyán,9
+2019,Europa,Bielorrusia,76
+2019,Europa,Bosnia y Herzegovina,14
+2019,Europa,Bulgaria,274
+2019,Europa,Bélgica,4678
+2019,Europa,Chipre,52
+2019,Europa,Croacia,215
+2019,Europa,Dinamarca,2217
+2019,Europa,Eslovaquia,767
+2019,Europa,Eslovenia,612
+2019,Europa,España,25704
+2019,Europa,Estonia,627
+2019,Europa,Federación de Rusia,2011
+2019,Europa,Finlandia,686
+2019,Europa,Francia,24113
+2019,Europa,Georgia,43
+2019,Europa,Gibraltar,6
+2019,Europa,Grecia,533
+2019,Europa,Groenlandia,3
+2019,Europa,Hungría,603
+2019,Europa,Irlanda,2545
+2019,Europa,Islandia,198
+2019,Europa,Italia,12788
+2019,Europa,Kirguistán,43
+2019,Europa,La ex República Yugoslava de Macedonia,37
+2019,Europa,Letonia,120
+2019,Europa,Liechtenstein,35
+2019,Europa,Lituania,424
+2019,Europa,Luxemburgo,168
+2019,Europa,Malta,85
+2019,Europa,Montenegro,14
+2019,Europa,Mónaco,11
+2019,Europa,Noruega,1399
+2019,Europa,Países Bajos,11351
+2019,Europa,Polonia,3143
+2019,Europa,Portugal,1713
+2019,Europa,Reino Unido de Gran Bretaña e Irlanda del Norte,16073
+2019,Europa,República Checa,1512
+2019,Europa,República de Kazajistán,27
+2019,Europa,República de Moldova,16
+2019,Europa,Rumania,623
+2019,Europa,San Marino,1
+2019,Europa,Serbia,87
+2019,Europa,Suecia,2179
+2019,Europa,Suiza,5114
+2019,Europa,Tayikistán,7
+2019,Europa,Turkmenistán,3
+2019,Europa,Turquía,812
+2019,Europa,Ucrania,849
+2019,Europa,Uzbekistán,43
+2019,Oceanía,Australia,7733
+2019,Oceanía,Fiji,50
+2019,Oceanía,Guam,43
+2019,Oceanía,Islas Marshall,1
+2019,Oceanía,Kiribati,2
+2019,Oceanía,Micronesia (Estados Federados de),58
+2019,Oceanía,Nueva Caledonia,36
+2019,Oceanía,Nueva Zelanda,1837
+2019,Oceanía,Papúa Nueva Guinea,6
+2019,Oceanía,Polinesia francés,2
+2019,Oceanía,Samoa,4
+2019,Oceanía,Vanuatu,3
+2019,Oriente Medio,Arabia Saudita,86
+2019,Oriente Medio,Bahrein,8
+2019,Oriente Medio,Emiratos Árabes Unidos,394
+2019,Oriente Medio,Irak,51
+2019,Oriente Medio,Israel,8299
+2019,Oriente Medio,Jordania,92
+2019,Oriente Medio,Katar,331
+2019,Oriente Medio,Kuwait,11
+2019,Oriente Medio,Libia,5
+2019,Oriente Medio,Líbano,58
+2019,Oriente Medio,Omán,24
+2019,Oriente Medio,República Árabe Siria,21
+2019,Oriente Medio,Yemen,1
+2019,Otros Paises Del Mundo,Angola,7
+2019,Otros Paises Del Mundo,Anguila,2
+2019,Otros Paises Del Mundo,Argelia,8
+2019,Otros Paises Del Mundo,Benin,53
+2019,Otros Paises Del Mundo,Botswana,12
+2019,Otros Paises Del Mundo,Burkina Faso,7
+2019,Otros Paises Del Mundo,Burundi,1
+2019,Otros Paises Del Mundo,Bután,11
+2019,Otros Paises Del Mundo,Cabo Verde,14
+2019,Otros Paises Del Mundo,Camerún,30
+2019,Otros Paises Del Mundo,Chad,13
+2019,Otros Paises Del Mundo,Comoras,19
+2019,Otros Paises Del Mundo,Congo,54
+2019,Otros Paises Del Mundo,Côte d'Ivoire,24
+2019,Otros Paises Del Mundo,Djibouti,5
+2019,Otros Paises Del Mundo,Egipto,190
+2019,Otros Paises Del Mundo,Eritrea,21
+2019,Otros Paises Del Mundo,Estado de Palestina,29
+2019,Otros Paises Del Mundo,Etiopía,66
+2019,Otros Paises Del Mundo,Gabón,30
+2019,Otros Paises Del Mundo,Gambia,15
+2019,Otros Paises Del Mundo,Ghana,42
+2019,Otros Paises Del Mundo,Guinea,268
+2019,Otros Paises Del Mundo,Guinea Ecuatorial,119
+2019,Otros Paises Del Mundo,Guinea-Bissau,108
+2019,Otros Paises Del Mundo,Islas Caimán,14
+2019,Otros Paises Del Mundo,Islas Feroe,10
+2019,Otros Paises Del Mundo,Kenia,55
+2019,Otros Paises Del Mundo,Liberia,2
+2019,Otros Paises Del Mundo,Madagascar,13
+2019,Otros Paises Del Mundo,Malawi,2
+2019,Otros Paises Del Mundo,Malí,4
+2019,Otros Paises Del Mundo,Marruecos,182
+2019,Otros Paises Del Mundo,Mauricio,20
+2019,Otros Paises Del Mundo,Mauritania,5
+2019,Otros Paises Del Mundo,Mayotte,2
+2019,Otros Paises Del Mundo,Mozambique,22
+2019,Otros Paises Del Mundo,Namibia,13
+2019,Otros Paises Del Mundo,Nigeria,88
+2019,Otros Paises Del Mundo,Niue,12
+2019,Otros Paises Del Mundo,Níger,29
+2019,Otros Paises Del Mundo,OTROS PAISES DEL MUNDO,188
+2019,Otros Paises Del Mundo,Pitcairn,6
+2019,Otros Paises Del Mundo,República Centroafricana,6
+2019,Otros Paises Del Mundo,República Unida de Tanzania,14
+2019,Otros Paises Del Mundo,Ruanda,17
+2019,Otros Paises Del Mundo,Réunion,25
+2019,Otros Paises Del Mundo,Senegal,8
+2019,Otros Paises Del Mundo,Seychelles,2
+2019,Otros Paises Del Mundo,Sierra Leona,2
+2019,Otros Paises Del Mundo,Somalia,5
+2019,Otros Paises Del Mundo,Sudáfrica,489
+2019,Otros Paises Del Mundo,Sudán,4
+2019,Otros Paises Del Mundo,Swazilandia,1
+2019,Otros Paises Del Mundo,Togo,11
+2019,Otros Paises Del Mundo,Túnez,27
+2019,Otros Paises Del Mundo,Uganda,8
+2019,Otros Paises Del Mundo,Zambia,32
+2020,América Del Centro,Belice,17657
+2020,América Del Centro,Costa Rica,13740
+2020,América Del Centro,El Salvador,344413
+2020,América Del Centro,Guatemala,532978
+2020,América Del Centro,Honduras,51531
+2020,América Del Centro,Nicaragua,23168
+2020,América Del Centro,Panamá,4353
+2020,América Del Norte,Canadá,11596
+2020,América Del Norte,Estados Unidos de América,122402
+2020,América Del Norte,México,26433
+2020,América Del Sur y el Caribe,Antigua y Barbuda,2
+2020,América Del Sur y el Caribe,Argentina,2487
+2020,América Del Sur y el Caribe,Bahamas,13
+2020,América Del Sur y el Caribe,Barbados,13
+2020,América Del Sur y el Caribe,Bermuda,13
+2020,América Del Sur y el Caribe,Bolivia (Estado Plurinacional De),25
+2020,América Del Sur y el Caribe,Bolivia (Estado Plurinacional de),271
+2020,América Del Sur y el Caribe,Brasil,2407
+2020,América Del Sur y el Caribe,Chile,1717
+2020,América Del Sur y el Caribe,Colombia,9856
+2020,América Del Sur y el Caribe,Cuba,449
+2020,América Del Sur y el Caribe,Dominica,12
+2020,América Del Sur y el Caribe,Ecuador,1266
+2020,América Del Sur y el Caribe,Granada,4
+2020,América Del Sur y el Caribe,Guadalupe,4
+2020,América Del Sur y el Caribe,Guayana francés,21
+2020,América Del Sur y el Caribe,Guyana,31
+2020,América Del Sur y el Caribe,Haití,85
+2020,América Del Sur y el Caribe,Jamaica,56
+2020,América Del Sur y el Caribe,Montserrat,3
+2020,América Del Sur y el Caribe,Paraguay,159
+2020,América Del Sur y el Caribe,Perú,1750
+2020,América Del Sur y el Caribe,Puerto Rico,0
+2020,América Del Sur y el Caribe,República Dominicana,1207
+2020,América Del Sur y el Caribe,San Cristóbal Y Nieves,3
+2020,América Del Sur y el Caribe,San Cristóbal y Nieves,3
+2020,América Del Sur y el Caribe,San Vicente y las Granadinas,2
+2020,América Del Sur y el Caribe,Santa Lucía,2
+2020,América Del Sur y el Caribe,Suriname,8
+2020,América Del Sur y el Caribe,Trinidad Y Tobago,1
+2020,América Del Sur y el Caribe,Trinidad y Tobago,28
+2020,América Del Sur y el Caribe,Uruguay,467
+2020,América Del Sur y el Caribe,Venezuela (República Bolivariana De),98
+2020,América Del Sur y el Caribe,Venezuela (República Bolivariana de),1656
+2020,Asia,Afganistán,7
+2020,Asia,Bangladesh,8
+2020,Asia,Brunei Darussalam,3
+2020,Asia,China,752
+2020,Asia,Filipinas,164
+2020,Asia,India,591
+2020,Asia,Indonesia,37
+2020,Asia,Irán (República Islámica Del),2
+2020,Asia,Irán (República Islámica del),16
+2020,Asia,Japón,1192
+2020,Asia,Malasia,29
+2020,Asia,Mongolia,6
+2020,Asia,Nepal,8
+2020,Asia,Pakistán,34
+2020,Asia,República De Corea,115
+2020,Asia,República Democrática Popular Lao,9
+2020,Asia,República Popular Democrática de Corea,5
+2020,Asia,República de Corea,1909
+2020,Asia,Singapur,45
+2020,Asia,Sri Lanka,8
+2020,Asia,Tailandia,57
+2020,Asia,Taiwan,499
+2020,Asia,Viet Nam,12
+2020,Cruceristas,Cruceristas,41992
+2020,Europa,Albania,7
+2020,Europa,Alemania,5843
+2020,Europa,Andorra,6
+2020,Europa,Armenia,7
+2020,Europa,Austria,829
+2020,Europa,Bielorrusia,23
+2020,Europa,Bosnia y Herzegovina,2
+2020,Europa,Bulgaria,142
+2020,Europa,Bélgica,1001
+2020,Europa,Chipre,24
+2020,Europa,Croacia,67
+2020,Europa,Dinamarca,651
+2020,Europa,Eslovaquia,173
+2020,Europa,Eslovenia,173
+2020,Europa,España,5960
+2020,Europa,Estonia,166
+2020,Europa,Federación De Rusia,39
+2020,Europa,Federación de Rusia,572
+2020,Europa,Finlandia,194
+2020,Europa,Francia,8270
+2020,Europa,Georgia,12
+2020,Europa,Gibraltar,2
+2020,Europa,Grecia,199
+2020,Europa,Hungría,235
+2020,Europa,Irlanda,414
+2020,Europa,Islandia,85
+2020,Europa,Italia,3357
+2020,Europa,Kirguistán,7
+2020,Europa,La ex República Yugoslava de Macedonia,5
+2020,Europa,Letonia,44
+2020,Europa,Liechtenstein,10
+2020,Europa,Lituania,133
+2020,Europa,Luxemburgo,31
+2020,Europa,Malta,38
+2020,Europa,Montenegro,3
+2020,Europa,Mónaco,2
+2020,Europa,Noruega,379
+2020,Europa,Países Bajos,2780
+2020,Europa,Polonia,1262
+2020,Europa,Portugal,431
+2020,Europa,Reino Unido De Gran Bretaña E Irlanda Del Norte,112
+2020,Europa,Reino Unido de Gran Bretaña e Irlanda del Norte,4123
+2020,Europa,República Checa,655
+2020,Europa,República De Moldova,1
+2020,Europa,República de Kazajistán,6
+2020,Europa,República de Moldova,3
+2020,Europa,Rumania,201
+2020,Europa,San Marino,1
+2020,Europa,Serbia,25
+2020,Europa,Suecia,747
+2020,Europa,Suiza,1396
+2020,Europa,Tayikistán,2
+2020,Europa,Turquía,298
+2020,Europa,Ucrania,313
+2020,Europa,Uzbekistán,58
+2020,Oceanía,Australia,2192
+2020,Oceanía,Fiji,14
+2020,Oceanía,Guam,9
+2020,Oceanía,Islas Marshall,1
+2020,Oceanía,Micronesia (Estados Federados De),4
+2020,Oceanía,Micronesia (Estados Federados de),16
+2020,Oceanía,Nauru,1
+2020,Oceanía,Nueva Caledonia,14
+2020,Oceanía,Nueva Zelanda,361
+2020,Oceanía,Palau,2
+2020,Oceanía,Papúa Nueva Guinea,1
+2020,Oceanía,Tonga,1
+2020,Oriente Medio,Arabia Saudita,20
+2020,Oriente Medio,Bahrein,1
+2020,Oriente Medio,Emiratos Árabes Unidos,75
+2020,Oriente Medio,Irak,13
+2020,Oriente Medio,Israel,1485
+2020,Oriente Medio,Jordania,27
+2020,Oriente Medio,Katar,78
+2020,Oriente Medio,Kuwait,12
+2020,Oriente Medio,Libia,1
+2020,Oriente Medio,Líbano,7
+2020,Oriente Medio,Omán,9
+2020,Oriente Medio,República Árabe Siria,7
+2020,Oriente Medio,Yemen,1
+2020,Otros Paises Del Mundo,Angola,2
+2020,Otros Paises Del Mundo,Argelia,2
+2020,Otros Paises Del Mundo,Benin,19
+2020,Otros Paises Del Mundo,Botswana,6
+2020,Otros Paises Del Mundo,Bután,1
+2020,Otros Paises Del Mundo,Cabo Verde,4
+2020,Otros Paises Del Mundo,Camerún,4
+2020,Otros Paises Del Mundo,Chad,2
+2020,Otros Paises Del Mundo,Comoras,6
+2020,Otros Paises Del Mundo,Congo,6
+2020,Otros Paises Del Mundo,Côte D'ivoire,1
+2020,Otros Paises Del Mundo,Côte d'Ivoire,5
+2020,Otros Paises Del Mundo,Djibouti,1
+2020,Otros Paises Del Mundo,Egipto,35
+2020,Otros Paises Del Mundo,Eritrea,3
+2020,Otros Paises Del Mundo,Estado de Palestina,5
+2020,Otros Paises Del Mundo,Etiopía,16
+2020,Otros Paises Del Mundo,Gabón,13
+2020,Otros Paises Del Mundo,Gambia,5
+2020,Otros Paises Del Mundo,Ghana,9
+2020,Otros Paises Del Mundo,Guinea,55
+2020,Otros Paises Del Mundo,Guinea Ecuatorial,36
+2020,Otros Paises Del Mundo,Guinea-Bissau,21
+2020,Otros Paises Del Mundo,Islas Feroe,3
+2020,Otros Paises Del Mundo,Kenia,9
+2020,Otros Paises Del Mundo,Madagascar,1
+2020,Otros Paises Del Mundo,Malawi,1
+2020,Otros Paises Del Mundo,Malí,1
+2020,Otros Paises Del Mundo,Marruecos,31
+2020,Otros Paises Del Mundo,Mauricio,4
+2020,Otros Paises Del Mundo,Mozambique,4
+2020,Otros Paises Del Mundo,Namibia,5
+2020,Otros Paises Del Mundo,Nigeria,24
+2020,Otros Paises Del Mundo,Niue,3
+2020,Otros Paises Del Mundo,Níger,5
+2020,Otros Paises Del Mundo,OTROS PAISES DEL MUNDO,52
+2020,Otros Paises Del Mundo,Otros Paises Del Mundo,3
+2020,Otros Paises Del Mundo,República Centroafricana,2
+2020,Otros Paises Del Mundo,República Unida de Tanzania,6
+2020,Otros Paises Del Mundo,Ruanda,3
+2020,Otros Paises Del Mundo,Réunion,5
+2020,Otros Paises Del Mundo,Senegal,2
+2020,Otros Paises Del Mundo,Sierra Leona,1
+2020,Otros Paises Del Mundo,Sudáfrica,124
+2020,Otros Paises Del Mundo,Togo,1
+2020,Otros Paises Del Mundo,Túnez,13
+2020,Otros Paises Del Mundo,Uganda,6
+2020,Otros Paises Del Mundo,Zambia,8
+2021,América Del Centro,Belice,1963
+2021,América Del Centro,Costa Rica,19288
+2021,América Del Centro,El Salvador,271297
+2021,América Del Centro,Guatemala,495166
+2021,América Del Centro,Honduras,66541
+2021,América Del Centro,Nicaragua,42232
+2021,América Del Centro,Panamá,7253
+2021,América Del Norte,Canadá,7008
+2021,América Del Norte,Estados Unidos de América,240577
+2021,América Del Norte,México,28116
+2021,América Del Sur y el Caribe,Antigua Y Barbuda,5
+2021,América Del Sur y el Caribe,Antigua y Barbuda,4
+2021,América Del Sur y el Caribe,Argentina,2807
+2021,América Del Sur y el Caribe,Bahamas,33
+2021,América Del Sur y el Caribe,Barbados,21
+2021,América Del Sur y el Caribe,Bermuda,10
+2021,América Del Sur y el Caribe,Bolivia (Estado Plurinacional de),394
+2021,América Del Sur y el Caribe,Brasil,2379
+2021,América Del Sur y el Caribe,Chile,1740
+2021,América Del Sur y el Caribe,Colombia,15143
+2021,América Del Sur y el Caribe,Cuba,1107
+2021,América Del Sur y el Caribe,Dominica,23
+2021,América Del Sur y el Caribe,Ecuador,2165
+2021,América Del Sur y el Caribe,Granada,6
+2021,América Del Sur y el Caribe,Guadalupe,5
+2021,América Del Sur y el Caribe,Guayana francés,45
+2021,América Del Sur y el Caribe,Guyana,62
+2021,América Del Sur y el Caribe,Haití,148
+2021,América Del Sur y el Caribe,Islas Vírgenes Británicas,5
+2021,América Del Sur y el Caribe,Jamaica,89
+2021,América Del Sur y el Caribe,Montserrat,2
+2021,América Del Sur y el Caribe,Paraguay,182
+2021,América Del Sur y el Caribe,Perú,2614
+2021,América Del Sur y el Caribe,Puerto Rico,5
+2021,América Del Sur y el Caribe,República Dominicana,2773
+2021,América Del Sur y el Caribe,San Cristóbal y Nieves,12
+2021,América Del Sur y el Caribe,San Vicente y las Granadinas,22
+2021,América Del Sur y el Caribe,Santa Lucía,8
+2021,América Del Sur y el Caribe,Suriname,20
+2021,América Del Sur y el Caribe,Trinidad Y Tobago,17
+2021,América Del Sur y el Caribe,Trinidad y Tobago,62
+2021,América Del Sur y el Caribe,Uruguay,586
+2021,América Del Sur y el Caribe,Venezuela (República Bolivariana de),2065
+2021,Asia,Afganistán,12
+2021,Asia,Bangladesh,22
+2021,Asia,Brunei Darussalam,2
+2021,Asia,Camboya,4
+2021,Asia,China,924
+2021,Asia,"China, Hong Kong Región Administrativa Especial",26
+2021,Asia,Filipinas,290
+2021,Asia,India,742
+2021,Asia,Indonesia,79
+2021,Asia,Irán (República Islámica del),26
+2021,Asia,Japón,484
+2021,Asia,Malasia,51
+2021,Asia,Mongolia,7
+2021,Asia,Nepal,8
+2021,Asia,Pakistán,28
+2021,Asia,República De Corea,3
+2021,Asia,República Democrática Popular Lao,20
+2021,Asia,República Popular Democrática de Corea,13
+2021,Asia,República de Corea,3148
+2021,Asia,Singapur,27
+2021,Asia,Sri Lanka,2
+2021,Asia,Tailandia,31
+2021,Asia,Taiwan,451
+2021,Asia,Viet Nam,10
+2021,Cruceristas,Cruceristas,3908
+2021,Europa,Albania,9
+2021,Europa,Alemania,5151
+2021,Europa,Andorra,2
+2021,Europa,Armenia,3
+2021,Europa,Austria,738
+2021,Europa,Azerbaiyán,6
+2021,Europa,Bielorrusia,45
+2021,Europa,Bosnia y Herzegovina,2
+2021,Europa,Bulgaria,117
+2021,Europa,Bélgica,982
+2021,Europa,Chipre,13
+2021,Europa,Croacia,77
+2021,Europa,Dinamarca,456
+2021,Europa,Eslovaquia,169
+2021,Europa,Eslovenia,183
+2021,Europa,España,8464
+2021,Europa,Estonia,185
+2021,Europa,Federación de Rusia,1182
+2021,Europa,Finlandia,129
+2021,Europa,Francia,5548
+2021,Europa,Georgia,33
+2021,Europa,Gibraltar,3
+2021,Europa,Grecia,134
+2021,Europa,Groenlandia,1
+2021,Europa,Hungría,212
+2021,Europa,Irlanda,434
+2021,Europa,Islandia,27
+2021,Europa,Italia,3047
+2021,Europa,Kazajstán,1
+2021,Europa,Kirguistán,10
+2021,Europa,La ex República Yugoslava de Macedonia,23
+2021,Europa,Letonia,44
+2021,Europa,Liechtenstein,13
+2021,Europa,Lituania,94
+2021,Europa,Luxemburgo,29
+2021,Europa,Malta,23
+2021,Europa,Montenegro,8
+2021,Europa,Mónaco,1
+2021,Europa,Noruega,244
+2021,Europa,Países Bajos,2226
+2021,Europa,Polonia,645
+2021,Europa,Portugal,470
+2021,Europa,Reino Unido de Gran Bretaña e Irlanda del Norte,3093
+2021,Europa,República Checa,351
+2021,Europa,República de Kazajistán,12
+2021,Europa,República de Moldova,8
+2021,Europa,Rumania,357
+2021,Europa,San Marino,3
+2021,Europa,Serbia,36
+2021,Europa,Suecia,490
+2021,Europa,Suiza,1501
+2021,Europa,Tayikistán,2
+2021,Europa,Turquía,279
+2021,Europa,Ucrania,575
+2021,Europa,Uzbekistán,2
+2021,Oceanía,Australia,455
+2021,Oceanía,Fiji,22
+2021,Oceanía,Guam,10
+2021,Oceanía,Islas Marshall,1
+2021,Oceanía,Micronesia (Estados Federados De),4
+2021,Oceanía,Micronesia (Estados Federados de),26
+2021,Oceanía,Nueva Caledonia,28
+2021,Oceanía,Nueva Zelanda,117
+2021,Oceanía,Palau,1
+2021,Oceanía,Papúa Nueva Guinea,1
+2021,Oceanía,Vanuatu,2
+2021,Oriente Medio,Arabia Saudita,31
+2021,Oriente Medio,Bahrein,2
+2021,Oriente Medio,Emiratos Árabes Unidos,142
+2021,Oriente Medio,Irak,32
+2021,Oriente Medio,Israel,3599
+2021,Oriente Medio,Jordania,65
+2021,Oriente Medio,Katar,90
+2021,Oriente Medio,Kuwait,18
+2021,Oriente Medio,Líbano,10
+2021,Oriente Medio,Omán,10
+2021,Oriente Medio,República Árabe Siria,12
+2021,Oriente Medio,Yemen,1
+2021,Otros Paises Del Mundo,Angola,1
+2021,Otros Paises Del Mundo,Argelia,4
+2021,Otros Paises Del Mundo,Benin,3
+2021,Otros Paises Del Mundo,Botswana,6
+2021,Otros Paises Del Mundo,Burundi,1
+2021,Otros Paises Del Mundo,Cabo Verde,1
+2021,Otros Paises Del Mundo,Camerún,6
+2021,Otros Paises Del Mundo,Chad,1
+2021,Otros Paises Del Mundo,Comoras,8
+2021,Otros Paises Del Mundo,Congo,20
+2021,Otros Paises Del Mundo,Côte d'Ivoire,5
+2021,Otros Paises Del Mundo,Egipto,89
+2021,Otros Paises Del Mundo,Eritrea,4
+2021,Otros Paises Del Mundo,Estado de Palestina,5
+2021,Otros Paises Del Mundo,Etiopía,31
+2021,Otros Paises Del Mundo,Gabón,23
+2021,Otros Paises Del Mundo,Gambia,2
+2021,Otros Paises Del Mundo,Ghana,11
+2021,Otros Paises Del Mundo,Guinea,94
+2021,Otros Paises Del Mundo,Guinea Ecuatorial,91
+2021,Otros Paises Del Mundo,Guinea-Bissau,42
+2021,Otros Paises Del Mundo,Islas Caimán,3
+2021,Otros Paises Del Mundo,Islas Feroe,0
+2021,Otros Paises Del Mundo,Kenia,13
+2021,Otros Paises Del Mundo,Liberia,1
+2021,Otros Paises Del Mundo,Madagascar,1
+2021,Otros Paises Del Mundo,Malí,1
+2021,Otros Paises Del Mundo,Marruecos,52
+2021,Otros Paises Del Mundo,Mauricio,8
+2021,Otros Paises Del Mundo,Mozambique,3
+2021,Otros Paises Del Mundo,Namibia,12
+2021,Otros Paises Del Mundo,Nigeria,42
+2021,Otros Paises Del Mundo,Niue,3
+2021,Otros Paises Del Mundo,Níger,26
+2021,Otros Paises Del Mundo,OTROS PAISES DEL MUNDO,71
+2021,Otros Paises Del Mundo,Pitcairn,2
+2021,Otros Paises Del Mundo,República Centroafricana,7
+2021,Otros Paises Del Mundo,República Unida de Tanzania,10
+2021,Otros Paises Del Mundo,Ruanda,4
+2021,Otros Paises Del Mundo,Réunion,9
+2021,Otros Paises Del Mundo,Senegal,2
+2021,Otros Paises Del Mundo,Seychelles,5
+2021,Otros Paises Del Mundo,Sudáfrica,130
+2021,Otros Paises Del Mundo,Sudán,1
+2021,Otros Paises Del Mundo,Togo,2
+2021,Otros Paises Del Mundo,Túnez,15
+2021,Otros Paises Del Mundo,Uganda,2
+2021,Otros Paises Del Mundo,Zambia,8
+2022,0,Islas Vírgenes Americanas,747
+2022,0,República Democrática del Congo,74
+2022,América Del Centro,Belice,88375
+2022,América Del Centro,Costa Rica,50637
+2022,América Del Centro,El Salvador,1216523
+2022,América Del Centro,Guatemala,1645339
+2022,América Del Centro,Honduras,232642
+2022,América Del Centro,Nicaragua,223600
+2022,América Del Centro,Panamá,16156
+2022,América Del Norte,Canadá,24462
+2022,América Del Norte,Estados Unidos de América,459848
+2022,América Del Norte,México,75744
+2022,América Del Sur y el Caribe,Argentina,8022
+2022,América Del Sur y el Caribe,Bermuda,16
+2022,América Del Sur y el Caribe,Bolivia (Estado Plurinacional de),1757
+2022,América Del Sur y el Caribe,Brasil,8489
+2022,América Del Sur y el Caribe,Chile,4843
+2022,América Del Sur y el Caribe,Colombia,42847
+2022,América Del Sur y el Caribe,Cuba,1644
+2022,América Del Sur y el Caribe,Dominica,21
+2022,América Del Sur y el Caribe,Ecuador,1592
+2022,América Del Sur y el Caribe,Guayana francés,25
+2022,América Del Sur y el Caribe,Haití,72
+2022,América Del Sur y el Caribe,Islas Vírgenes Británicas,132
+2022,América Del Sur y el Caribe,Jamaica,3
+2022,América Del Sur y el Caribe,Paraguay,103
+2022,América Del Sur y el Caribe,Perú,5806
+2022,América Del Sur y el Caribe,Puerto Rico,9382
+2022,América Del Sur y el Caribe,República Dominicana,4336
+2022,América Del Sur y el Caribe,Santa Lucía,14
+2022,América Del Sur y el Caribe,Trinidad y Tobago,37
+2022,América Del Sur y el Caribe,Uruguay,3982
+2022,América Del Sur y el Caribe,Venezuela (República Bolivariana de),2143
+2022,Asia,Afganistán,4
+2022,Asia,Bangladesh,2
+2022,Asia,Brunei Darussalam,877
+2022,Asia,China,2556
+2022,Asia,"China, Hong Kong Región Administrativa Especial",894
+2022,Asia,"China, Macao, Región Administrativa Especial",30
+2022,Asia,Filipinas,231
+2022,Asia,India,620
+2022,Asia,Japón,1531
+2022,Asia,Malasia,76
+2022,Asia,Pakistán,9
+2022,Asia,República Democrática Popular Lao,15
+2022,Asia,República Popular Democrática de Corea,12
+2022,Asia,República de Corea,4462
+2022,Asia,Singapur,40
+2022,Asia,Tailandia,131
+2022,Asia,Taiwan,107
+2022,Asia,Viet Nam,12
+2022,Cruceros,Cruceros,26030
+2022,Europa,Alemania,18960
+2022,Europa,Austria,1217
+2022,Europa,Azerbaiyán,7
+2022,Europa,Bielorrusia,13
+2022,Europa,Bulgaria,177
+2022,Europa,Bélgica,1536
+2022,Europa,Chipre,16
+2022,Europa,Croacia,9
+2022,Europa,Dinamarca,1457
+2022,Europa,Eslovaquia,112
+2022,Europa,Eslovenia,187
+2022,Europa,España,29218
+2022,Europa,Estonia,2606
+2022,Europa,Federación de Rusia,1313
+2022,Europa,Finlandia,112
+2022,Europa,Francia,18483
+2022,Europa,Georgia,23
+2022,Europa,Grecia,38
+2022,Europa,Hungría,318
+2022,Europa,Irlanda,1544
+2022,Europa,Islandia,3
+2022,Europa,Italia,8819
+2022,Europa,Kazajstán,2
+2022,Europa,Letonia,8
+2022,Europa,Liechtenstein,2
+2022,Europa,Lituania,122
+2022,Europa,Luxemburgo,87
+2022,Europa,Malta,7
+2022,Europa,Noruega,221
+2022,Europa,Países Bajos,12275
+2022,Europa,Polonia,2059
+2022,Europa,Portugal,6375
+2022,Europa,Reino Unido de Gran Bretaña e Irlanda del Norte,16093
+2022,Europa,República Checa,362
+2022,Europa,Rumania,297
+2022,Europa,Suecia,1554
+2022,Europa,Suiza,3110
+2022,Europa,Turquía,473
+2022,Europa,Ucrania,179
+2022,Oceanía,Australia,3168
+2022,Oceanía,Guam,2
+2022,Oceanía,Micronesia (Estados Federados de),2876
+2022,Oceanía,Nueva Zelanda,441
+2022,Oriente Medio,Arabia Saudita,47
+2022,Oriente Medio,Emiratos Árabes Unidos,136
+2022,Oriente Medio,Irak,1
+2022,Oriente Medio,Israel,11813
+2022,Otros Paises Del Mundo,Benin,9
+2022,Otros Paises Del Mundo,Egipto,19
+2022,Otros Paises Del Mundo,Islas Caimán,14
+2022,Otros Paises Del Mundo,Madagascar,12
+2022,Otros Paises Del Mundo,Marruecos,17
+2022,Otros Paises Del Mundo,Mauritania,8
+2022,Otros Paises Del Mundo,OTROS PAISES DEL MUNDO,885
+2022,Otros Paises Del Mundo,República Centroafricana,13
+2022,Otros Paises Del Mundo,Sudáfrica,242
+2022,Otros Paises Del Mundo,Túnez,15
+2023,América Del Centro,Belice,129204
+2023,América Del Centro,Costa Rica,79445
+2023,América Del Centro,El Salvador,1571990
+2023,América Del Centro,Honduras,348759
+2023,América Del Centro,Nicaragua,77495
+2023,América Del Centro,Panamá,17979
+2023,América Del Norte,Canadá,35163
+2023,América Del Norte,Estados Unidos de América,572450
+2023,América Del Norte,México,93033
+2023,América Del Sur y el Caribe,Argentina,8921
+2023,América Del Sur y el Caribe,Brasil,16736
+2023,América Del Sur y el Caribe,Colombia,47457
+2023,América Del Sur y el Caribe,Otros Países de América del Sur,42466
+2023,Asia,China,3766
+2023,Asia,Japón,2624
+2023,Asia,Resto del Mundo,34783
+2023,Europa,Alemania,23580
+2023,Europa,España,25367
+2023,Europa,Federación de Rusia,1323
+2023,Europa,Francia,23144
+2023,Europa,Italia,10841
+2023,Europa,Otros Países de Europa,35282
+2023,Europa,Países Bajos,13729
+2023,Europa,Reino Unido de Gran Bretaña e Irlanda del Norte,19292
+2023,Oceanía,Australia,6137
+2023,Oriente Medio,Israel,7743
+2024,América Del Centro,Belice,114790
+2024,América Del Centro,Costa Rica,95388
+2024,América Del Centro,El Salvador,1725329
+2024,América Del Centro,Honduras,356687
+2024,América Del Centro,Nicaragua,89615
+2024,América Del Centro,Panamá,19087
+2024,América Del Norte,Canadá,40091
+2024,América Del Norte,Estados Unidos de América,663925
+2024,América Del Norte,México,119343
+2024,América Del Sur y el Caribe,Argentina,11194
+2024,América Del Sur y el Caribe,Brasil,15790
+2024,América Del Sur y el Caribe,Colombia,58425
+2024,América Del Sur y el Caribe,Otros Países de América del Sur,47474
+2024,Asia,China,6413
+2024,Asia,Japón,3272
+2024,Asia,Resto del Mundo,39461
+2024,Europa,Alemania,25699
+2024,Europa,España,28359
+2024,Europa,Federación de Rusia,1403
+2024,Europa,Francia,25398
+2024,Europa,Italia,13311
+2024,Europa,Otros Países de Europa,40829
+2024,Europa,Países Bajos,16339
+2024,Europa,Reino Unido de Gran Bretaña e Irlanda del Norte,23253
+2024,Oceanía,Australia,8126
+2024,Oriente Medio,Israel,4875
+2025,América Del Centro,Belice,128388
+2025,América Del Centro,Costa Rica,106655
+2025,América Del Centro,El Salvador,1738267
+2025,América Del Centro,Honduras,298542
+2025,América Del Centro,Nicaragua,74587
+2025,América Del Centro,Panamá,20276
+2025,América Del Norte,Canadá,42555
+2025,América Del Norte,Estados Unidos de América,679282
+2025,América Del Norte,México,129689
+2025,América Del Sur y el Caribe,Argentina,11861
+2025,América Del Sur y el Caribe,Brasil,13053
+2025,América Del Sur y el Caribe,Colombia,67643
+2025,América Del Sur y el Caribe,Otros Países de América del Sur,40949
+2025,Asia,China,7158
+2025,Asia,Japón,3493
+2025,Asia,Resto del Mundo,37272
+2025,Europa,Alemania,26470
+2025,Europa,España,28983
+2025,Europa,Federación de Rusia,1416
+2025,Europa,Francia,26844
+2025,Europa,Italia,13971
+2025,Europa,Otros Países de Europa,43569
+2025,Europa,Países Bajos,17530
+2025,Europa,Reino Unido de Gran Bretaña e Irlanda del Norte,23721
+2025,Oceanía,Australia,7962
+2025,Oriente Medio,Israel,7102
+2026,América Del Centro,Belice,55156
+2026,América Del Centro,Costa Rica,52334
+2026,América Del Centro,El Salvador,702304
+2026,América Del Centro,Honduras,161455
+2026,América Del Centro,Nicaragua,39066
+2026,América Del Centro,Panamá,10869
+2026,América Del Norte,Canadá,28964
+2026,América Del Norte,Estados Unidos de América,363750
+2026,América Del Norte,México,59504
+2026,América Del Sur y el Caribe,Argentina,6681
+2026,América Del Sur y el Caribe,Brasil,7304
+2026,América Del Sur y el Caribe,Colombia,40266
+2026,América Del Sur y el Caribe,Otros Países de América del Sur,21558
+2026,Asia,China,3403
+2026,Asia,Japón,2259
+2026,Asia,Resto del Mundo,19301
+2026,Europa,Alemania,15435
+2026,Europa,España,13504
+2026,Europa,Federación de Rusia,935
+2026,Europa,Francia,15651
+2026,Europa,Italia,6467
+2026,Europa,Otros Países de Europa,24469
+2026,Europa,Países Bajos,8699
+2026,Europa,Reino Unido de Gran Bretaña e Irlanda del Norte,14467
+2026,Oceanía,Australia,4132
+2026,Oriente Medio,Israel,4703

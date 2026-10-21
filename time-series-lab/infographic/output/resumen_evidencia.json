@@ -1,0 +1,13 @@
+{
+  "periodo": "2009-01 a 2026-06",
+  "total_acumulado": 46711912.88651751,
+  "modelo_ganador": "Suavizamiento exponencial",
+  "metricas_ganador": {
+    "MAE": 165372.5411,
+    "RMSE": 180598.2332,
+    "AIC": 3177.190596813796,
+    "BIC": 3183.1714619873537
+  },
+  "adf_p_value": 0.046963114157876046,
+  "estacionalidad_pico_mes": 12
+}
