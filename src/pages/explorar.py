@@ -15,7 +15,7 @@ DET = load_detalle()
 VIAS = sorted(DET["via"].unique())
 TIPOS = sorted(DET["tipo_viajero"].unique())
 TIPOS_DEF = ["Turista", "Excursionista"]  # comparables en todo el periodo (ver data/processed/README.md)
-ANIOS = sorted(DET["anio"].unique())
+ANIOS = [int(a) for a in sorted(DET["anio"].unique())]  # int nativo: Dash no serializa np.int32
 
 
 def filtrar(anios, tipos, vias, region=None):
