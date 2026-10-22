@@ -1,0 +1,15 @@
+body{margin:0;background:#F5F7F9;color:#1E2A33;font-family:Inter,'Segoe UI',Roboto,Arial,sans-serif;font-size:15px}
+header{background:#1F6F8B;color:#fff;padding:18px 32px}
+header h1{margin:0;font-size:26px} header p{margin:4px 0 0;opacity:.9}
+.content{padding:16px 32px}
+.controls{display:flex;flex-wrap:wrap;gap:20px;align-items:flex-end;background:#fff;padding:14px 18px;border-radius:10px;margin-bottom:12px}
+.ctl{min-width:200px}.ctl.wide{min-width:320px;flex:1}
+.ctl label{display:block;font-weight:600;margin-bottom:6px;color:#5B6770}
+.ctl label+div label,.ctl input{display:inline;font-weight:400;color:#1E2A33;margin-right:10px}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(460px,1fr));gap:16px}
+.card{background:#fff;border-radius:10px;padding:14px 16px;box-shadow:0 1px 3px rgba(0,0,0,.08)}
+.card h3{margin:0;font-size:17px}.sub{margin:2px 0 6px;color:#5B6770;font-size:13px}
+.hint{color:#5B6770;margin:4px 2px 12px}.note{background:#fff;border-left:4px solid #E08E2B;padding:10px 16px;border-radius:6px;margin-bottom:12px}
+button{background:#1F6F8B;color:#fff;border:0;border-radius:6px;padding:9px 14px;cursor:pointer}
+button:hover{background:#0F3F52}
+.pendiente{border:2px dashed #CBD2D9;background:#FAFBFC}.tag{color:#C8553D;font-weight:600;font-size:13px}
