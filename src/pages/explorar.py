@@ -1,17 +1,19 @@
 """Pestaña 'Explorar datos'.
 
 AVANCE (Jose Ruiz): V1 y V2 funcionando y enlazadas (clic en V1 filtra V2).
-PENDIENTE (Juarez): V3, V4, V5 y selección de gráficas visibles (ver docs/TAREAS_PENDIENTES.md).
+V3 hecho (Juarez). PENDIENTE (Juarez): V4, V5 y selección de gráficas visibles (ver docs/TAREAS_PENDIENTES.md).
 """
 import plotly.express as px
 import plotly.graph_objects as go
 from dash import Input, Output, State, callback, ctx, dcc, html
 
 from src.components import card, pendiente
-from src.data import load_detalle
+from src.data import load_detalle, load_paises
 from src.theme import COLORS, empty_fig, style_fig
 
 DET = load_detalle()
+PAISES = load_paises()
+PAISES = PAISES[PAISES["pais"] != PAISES["region"]]  # cruceros no traen detalle por país (pais == region)
 VIAS = sorted(DET["via"].unique())
 TIPOS = sorted(DET["tipo_viajero"].unique())
 TIPOS_DEF = ["Turista", "Excursionista"]  # comparables en todo el periodo (ver data/processed/README.md)
@@ -47,7 +49,10 @@ def layout():
                  "Haga clic en una barra para ver el detalle de esa región en las demás gráficas.", "g1"),
             card("Evolución en el tiempo",
                  "Cómo cambia la llegada de viajeros. Cambie el nivel de detalle arriba (anual o mensual).", "g2"),
-            pendiente("Países de origen", "Top 10 países de la región elegida (aumenta el nivel de detalle).", "Juarez"),
+            card("Países de origen",
+                 "Los 10 países con más viajeros de la región elegida (o de todas si no hay selección). "
+                 "Responde a los años, no al tipo de viajero ni a la vía. Guatemala figura como origen: "
+                 "son residentes que regresan del exterior.", "g3"),
             pendiente("Calendario mes × año", "Meses más intensos (color más oscuro = más viajeros).", "Juarez"),
             pendiente("Vía de ingreso", "Por dónde entran los viajeros cada año: aérea, terrestre o marítima.", "Juarez"),
         ]),
@@ -99,3 +104,19 @@ def fig_g2(anios, tipos, vias, sel, detalle):
     fig.update_xaxes(title=None)
     fig.update_yaxes(title="Viajeros")
     return style_fig(fig)
+
+
+# ---- V3: top 10 países (aumenta el nivel de detalle de región a país) -----------------
+@callback(Output("g3", "figure"), Input("f-anios", "value"), Input("sel-region", "data"))
+def fig_g3(anios, sel):
+    d = PAISES[(PAISES["anio"] >= anios[0]) & (PAISES["anio"] <= anios[1])]
+    if sel:
+        d = d[d["region"] == sel]
+    if d.empty:
+        return empty_fig(f"'{sel}' no tiene detalle por país." if sel else
+                         "No hay información disponible para esta selección.")
+    top = d.groupby("pais", as_index=False)["viajeros"].sum().nlargest(10, "viajeros").sort_values("viajeros")
+    fig = go.Figure(go.Bar(x=top["viajeros"], y=top["pais"], orientation="h", marker_color=COLORS["primary"],
+                           hovertemplate="%{y}: %{x:,.0f} viajeros<extra></extra>"))
+    fig.update_xaxes(title="Viajeros en el periodo")
+    return style_fig(fig, title=f"Top 10 – {sel or 'todas las regiones'}")

@@ -6,7 +6,7 @@ Cómo arrancar: ver `README.md`. Estilos/colores: `src/theme.py` (usar solo esos
 Para implementar una visualización: reemplazar la tarjeta `pendiente(...)` por `card(...)` y agregar su `@callback` en el mismo módulo.
 
 ## Juarez – Visualizaciones de exploración + datos  (`src/pages/explorar.py`, `docs/FUENTES.md`)
-- [ ] V3 Países de origen (top 10 de la región seleccionada). Datos: `data/processed/viajeros_pais_anual.csv` (`src.data.load_paises()`); filtra por años y por `sel-region`.
+- [x] V3 Países de origen (top 10 de la región seleccionada). Datos: `data/processed/viajeros_pais_anual.csv` (`src.data.load_paises()`); filtra por años y por `sel-region`.
 - [ ] V4 Calendario mes × año (mapa de calor, escala `SEQUENTIAL`). Usar `filtrar(...)`.
 - [ ] V5 Vía de ingreso por año (barras apiladas). Usar `filtrar(...)`.
 - [ ] Req. 3.3: casillas para que el usuario elija qué gráficas ver.
