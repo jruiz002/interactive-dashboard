@@ -1,13 +1,13 @@
 """Pestaña 'Explorar datos'.
 
 AVANCE (Jose Ruiz): V1 y V2 funcionando y enlazadas (clic en V1 filtra V2).
-V3 y V4 hechos (Juarez). PENDIENTE (Juarez): V5 y selección de gráficas visibles (ver docs/TAREAS_PENDIENTES.md).
+V3, V4 y V5 hechos (Juarez). PENDIENTE (Juarez): selección de gráficas visibles (ver docs/TAREAS_PENDIENTES.md).
 """
 import plotly.express as px
 import plotly.graph_objects as go
 from dash import Input, Output, State, callback, ctx, dcc, html
 
-from src.components import card, pendiente
+from src.components import card
 from src.data import load_detalle, load_paises
 from src.theme import COLORS, SEQUENTIAL, empty_fig, style_fig
 
@@ -18,6 +18,8 @@ VIAS = sorted(DET["via"].unique())
 TIPOS = sorted(DET["tipo_viajero"].unique())
 TIPOS_DEF = ["Turista", "Excursionista"]  # comparables en todo el periodo (ver data/processed/README.md)
 ANIOS = [int(a) for a in sorted(DET["anio"].unique())]  # int nativo: Dash no serializa np.int32
+# Tonos de azul de la paleta: la vía es categórica y no debe parecer observado/estimado/alerta
+COLOR_VIA = {"Terrestre": SEQUENTIAL[4], "Aérea": COLORS["primary"], "Marítima": SEQUENTIAL[1]}
 MESES = ["Ene", "Feb", "Mar", "Abr", "May", "Jun", "Jul", "Ago", "Sep", "Oct", "Nov", "Dic"]
 
 
@@ -57,7 +59,9 @@ def layout():
             card("Calendario mes × año",
                  "Meses más intensos (color más oscuro = más viajeros). Responde a todos los filtros y a la región "
                  "elegida. Las celdas vacías son meses sin datos (2026 llega hasta junio).", "g4"),
-            pendiente("Vía de ingreso", "Por dónde entran los viajeros cada año: aérea, terrestre o marítima.", "Juarez"),
+            card("Vía de ingreso",
+                 "Por dónde entran los viajeros cada año: aérea, terrestre o marítima. Responde a los filtros y a la "
+                 "región elegida; cada barra suma todas las vías seleccionadas.", "g5"),
         ]),
         html.P("2026 incluye datos hasta junio. 'Viajero' cambió de definición en 2022-2023; por eso Turista + "
                "Excursionista es la combinación comparable en todo el periodo.", className="hint"),
@@ -141,3 +145,20 @@ def fig_g4(anios, tipos, vias, sel):
     fig.update_yaxes(autorange="reversed", type="category")
     fig.update_xaxes(side="top")
     return style_fig(fig, height=440)
+
+
+# ---- V5: vía de ingreso por año (barras apiladas) -------------------------------------
+@callback(Output("g5", "figure"), Input("f-anios", "value"), Input("f-tipos", "value"),
+          Input("f-vias", "value"), Input("sel-region", "data"))
+def fig_g5(anios, tipos, vias, sel):
+    d = filtrar(anios, tipos, vias, sel)
+    if d.empty:
+        return empty_fig()
+    t = d.groupby(["anio", "via"], as_index=False)["viajeros"].sum()
+    fig = px.bar(t, x="anio", y="viajeros", color="via", color_discrete_map=COLOR_VIA,
+                 category_orders={"via": list(COLOR_VIA)})
+    fig.update_traces(hovertemplate="%{x} · %{fullData.name}: %{y:,.0f} viajeros<extra></extra>")
+    fig.update_xaxes(title=None, type="category")
+    fig.update_yaxes(title="Viajeros")
+    fig.update_layout(legend_title_text="Vía")
+    return style_fig(fig)
