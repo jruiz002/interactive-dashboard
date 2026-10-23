@@ -1,4 +1,3 @@
-"""Paleta y tipografía únicas del tablero. Cada color tiene UN significado fijo en toda la app."""
 
 # Significado semántico (justificación en el documento de diseño, sección 4.1)
 COLORS = {

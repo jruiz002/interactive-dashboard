@@ -1,9 +1,3 @@
-"""Carga de datos del tablero (generados desde el Laboratorio 1).
-
-Para regenerar los CSV a partir del Excel original:
-    time-series-lab/venv/bin/python scripts/exportar_datos_lab1.py
-Contrato de archivos: ver data/processed/README.md
-"""
 from pathlib import Path
 
 import pandas as pd

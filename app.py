@@ -1,9 +1,3 @@
-"""Observatorio de Turismo Sostenible - Laboratorio 10 (Plotly Dash).
-
-Ejecutar:  python app.py   ->  http://127.0.0.1:8050
-Datos: viajeros internacionales a Guatemala 2009-2026 (Lab 1). Modelos: Lab 1 (sin modelos nuevos).
-Estructura: una pestaña por módulo en src/pages/ (cada integrante trabaja en su archivo).
-"""
 from dash import Dash, Input, Output, dcc, html
 
 from src.pages import explorar, modelos

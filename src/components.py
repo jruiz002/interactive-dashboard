@@ -1,4 +1,3 @@
-"""Componentes de interfaz reutilizables."""
 from dash import dcc, html
 
 

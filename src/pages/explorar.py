@@ -1,8 +1,4 @@
-"""Pestaña 'Explorar datos'.
 
-AVANCE (Jose Ruiz): V1 y V2 funcionando y enlazadas (clic en V1 filtra V2).
-V3, V4 y V5 hechos (Juarez). PENDIENTE (Juarez): selección de gráficas visibles (ver docs/TAREAS_PENDIENTES.md).
-"""
 import plotly.express as px
 import plotly.graph_objects as go
 from dash import Input, Output, State, callback, ctx, dcc, html
@@ -20,6 +16,8 @@ TIPOS_DEF = ["Turista", "Excursionista"]  # comparables en todo el periodo (ver 
 ANIOS = [int(a) for a in sorted(DET["anio"].unique())]  # int nativo: Dash no serializa np.int32
 # Tonos de azul de la paleta: la vía es categórica y no debe parecer observado/estimado/alerta
 COLOR_VIA = {"Terrestre": SEQUENTIAL[4], "Aérea": COLORS["primary"], "Marítima": SEQUENTIAL[1]}
+GRAFICAS = ["g1", "g2", "g3", "g4", "g5"]
+NOMBRES = ["Regiones", "Evolución", "Países", "Calendario", "Vía de ingreso"]
 MESES = ["Ene", "Feb", "Mar", "Abr", "May", "Jun", "Jul", "Ago", "Sep", "Oct", "Nov", "Dic"]
 
 
@@ -44,10 +42,15 @@ def layout():
                 id="f-tipos", options=TIPOS, value=TIPOS_DEF, multi=True, clearable=False)], className="ctl wide"),
             html.Div([html.Label("Vía de ingreso"), dcc.Dropdown(
                 id="f-vias", options=VIAS, value=VIAS, multi=True, clearable=False)], className="ctl wide"),
+            html.Div([html.Label("Gráficas a mostrar"), dcc.Checklist(
+                id="f-graficas", options=[{"label": n, "value": g} for g, n in zip(GRAFICAS, NOMBRES)],
+                value=GRAFICAS, inline=True)], className="ctl wide"),
             html.Button("Quitar selección de región", id="btn-reset", n_clicks=0),
         ]),
         html.Div(id="msg-sel", className="hint"),
-        html.Div(className="grid", children=[
+        html.Div(id="msg-vis", className="hint"),
+        # Cada tarjeta va en un contenedor "w-gN" para poder ocultarla (req. 3.3) sin perder su estado
+        html.Div(className="grid", children=[html.Div(c, id=f"w-{gid}") for gid, c in zip(GRAFICAS, [
             card("Viajeros por región de origen",
                  "Haga clic en una barra para ver el detalle de esa región en las demás gráficas.", "g1"),
             card("Evolución en el tiempo",
@@ -62,7 +65,7 @@ def layout():
             card("Vía de ingreso",
                  "Por dónde entran los viajeros cada año: aérea, terrestre o marítima. Responde a los filtros y a la "
                  "región elegida; cada barra suma todas las vías seleccionadas.", "g5"),
-        ]),
+        ])]),
         html.P("2026 incluye datos hasta junio. 'Viajero' cambió de definición en 2022-2023; por eso Turista + "
                "Excursionista es la combinación comparable en todo el periodo.", className="hint"),
     ])
@@ -82,6 +85,16 @@ def set_region(click, _n, actual):
 def mensaje(sel):
     return (f"Mostrando el detalle de la región: {sel}" if sel else
             "Mostrando todas las regiones. Haga clic en una barra para ver el detalle de una región.")
+
+
+# ---- Req. 3.3: el usuario elige qué gráficas ver --------------------------------------
+@callback([Output(f"w-{g}", "style") for g in GRAFICAS] + [Output("msg-vis", "children")],
+          Input("f-graficas", "value"))
+def visibilidad(visibles):
+    visibles = visibles or []
+    estilos = [{} if g in visibles else {"display": "none"} for g in GRAFICAS]
+    aviso = "" if visibles else "No hay gráficas seleccionadas. Marque al menos una en 'Gráficas a mostrar'."
+    return estilos + [aviso]
 
 
 # ---- V1: barras por región (interactiva) ---------------------------------------------

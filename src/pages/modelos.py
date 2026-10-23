@@ -1,9 +1,3 @@
-"""Pestaña 'Predicciones y modelos' (Nicolle).
-
-V6 Real vs. predicción, V7 Errores del modelo, V8 Comparación de los 3 modelos + tabla comparativa.
-Enlace: clic en una barra de V8 selecciona el modelo que muestran V6 y V7 (y la tabla lo resalta).
-Datos: src.data.load_predictions() y load_metrics() (3 modelos del Lab 1, sin modelos nuevos).
-"""
 import plotly.graph_objects as go
 from dash import Input, Output, callback, dcc, html
 

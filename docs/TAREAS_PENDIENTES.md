@@ -9,8 +9,8 @@ Para implementar una visualización: reemplazar la tarjeta `pendiente(...)` por 
 - [x] V3 Países de origen (top 10 de la región seleccionada). Datos: `data/processed/viajeros_pais_anual.csv` (`src.data.load_paises()`); filtra por años y por `sel-region`.
 - [x] V4 Calendario mes × año (mapa de calor, escala `SEQUENTIAL`). Usar `filtrar(...)`.
 - [x] V5 Vía de ingreso por año (barras apiladas). Usar `filtrar(...)`.
-- [ ] Req. 3.3: casillas para que el usuario elija qué gráficas ver.
-- [ ] Completar `docs/FUENTES.md` (institución que publica la base) y verificar `data/processed/README.md`.
+- [x] Req. 3.3: casillas para que el usuario elija qué gráficas ver.
+- [x] Completar `docs/FUENTES.md` (institución que publica la base) y verificar `data/processed/README.md`.
 
 ## Nicolle – Modelos  (`src/pages/modelos.py`)
 - [x] Controles: serie (`load_predictions()["serie"]`), modelo y métrica (MAE/RMSE).
