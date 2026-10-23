@@ -1,7 +1,7 @@
 """Pestaña 'Explorar datos'.
 
 AVANCE (Jose Ruiz): V1 y V2 funcionando y enlazadas (clic en V1 filtra V2).
-V3 hecho (Juarez). PENDIENTE (Juarez): V4, V5 y selección de gráficas visibles (ver docs/TAREAS_PENDIENTES.md).
+V3 y V4 hechos (Juarez). PENDIENTE (Juarez): V5 y selección de gráficas visibles (ver docs/TAREAS_PENDIENTES.md).
 """
 import plotly.express as px
 import plotly.graph_objects as go
@@ -9,7 +9,7 @@ from dash import Input, Output, State, callback, ctx, dcc, html
 
 from src.components import card, pendiente
 from src.data import load_detalle, load_paises
-from src.theme import COLORS, empty_fig, style_fig
+from src.theme import COLORS, SEQUENTIAL, empty_fig, style_fig
 
 DET = load_detalle()
 PAISES = load_paises()
@@ -18,6 +18,7 @@ VIAS = sorted(DET["via"].unique())
 TIPOS = sorted(DET["tipo_viajero"].unique())
 TIPOS_DEF = ["Turista", "Excursionista"]  # comparables en todo el periodo (ver data/processed/README.md)
 ANIOS = [int(a) for a in sorted(DET["anio"].unique())]  # int nativo: Dash no serializa np.int32
+MESES = ["Ene", "Feb", "Mar", "Abr", "May", "Jun", "Jul", "Ago", "Sep", "Oct", "Nov", "Dic"]
 
 
 def filtrar(anios, tipos, vias, region=None):
@@ -53,7 +54,9 @@ def layout():
                  "Los 10 países con más viajeros de la región elegida (o de todas si no hay selección). "
                  "Responde a los años, no al tipo de viajero ni a la vía. Guatemala figura como origen: "
                  "son residentes que regresan del exterior.", "g3"),
-            pendiente("Calendario mes × año", "Meses más intensos (color más oscuro = más viajeros).", "Juarez"),
+            card("Calendario mes × año",
+                 "Meses más intensos (color más oscuro = más viajeros). Responde a todos los filtros y a la región "
+                 "elegida. Las celdas vacías son meses sin datos (2026 llega hasta junio).", "g4"),
             pendiente("Vía de ingreso", "Por dónde entran los viajeros cada año: aérea, terrestre o marítima.", "Juarez"),
         ]),
         html.P("2026 incluye datos hasta junio. 'Viajero' cambió de definición en 2022-2023; por eso Turista + "
@@ -120,3 +123,21 @@ def fig_g3(anios, sel):
                            hovertemplate="%{y}: %{x:,.0f} viajeros<extra></extra>"))
     fig.update_xaxes(title="Viajeros en el periodo")
     return style_fig(fig, title=f"Top 10 – {sel or 'todas las regiones'}")
+
+
+# ---- V4: calendario mes x año (mapa de calor) -----------------------------------------
+@callback(Output("g4", "figure"), Input("f-anios", "value"), Input("f-tipos", "value"),
+          Input("f-vias", "value"), Input("sel-region", "data"))
+def fig_g4(anios, tipos, vias, sel):
+    d = filtrar(anios, tipos, vias, sel)
+    if d.empty:
+        return empty_fig()
+    t = d.groupby(["anio", "mes"])["viajeros"].sum().unstack("mes").reindex(columns=range(1, 13))
+    n = len(SEQUENTIAL) - 1
+    fig = go.Figure(go.Heatmap(
+        z=t.values, x=MESES, y=[str(a) for a in t.index], colorscale=[[i / n, c] for i, c in enumerate(SEQUENTIAL)],
+        xgap=2, ygap=2, hoverongaps=False, colorbar=dict(title="Viajeros"),
+        hovertemplate="%{y} · %{x}: %{z:,.0f} viajeros<extra></extra>"))
+    fig.update_yaxes(autorange="reversed", type="category")
+    fig.update_xaxes(side="top")
+    return style_fig(fig, height=440)
