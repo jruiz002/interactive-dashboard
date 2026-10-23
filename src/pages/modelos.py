@@ -20,6 +20,13 @@ FIN_PRUEBA = PRED["fecha"].max()
 
 GRIS_SEL = "#C9D6DD"          # mismo gris de "no seleccionado" que V1
 NARANJA_SUAVE = "#F2C48D"     # otras estimaciones (mismo matiz naranja = estimación)
+# Cada modelo tiene un patrón de línea fijo; los no seleccionados usan otro tono del mismo naranja
+# (naranja = estimación en toda la app). El patrón distingue a los modelos sin depender solo del color.
+ESTILO_MODELO = {
+    "Suavizamiento exponencial": dict(dash="dash", tono="#9A5414"),
+    "ARIMA(1,1,1)": dict(dash="dot", tono="#B86A1C"),
+    "Holt-Winters multiplicativo": dict(dash="dashdot", tono="#E3A55A"),
+}
 
 METRICAS_TXT = {
     "MAE": "MAE (error absoluto medio): cuántos viajeros por mes se equivoca el modelo, en promedio.",
@@ -44,21 +51,21 @@ def layout():
             "aquí se evalúan contra lo ocurrido de abril 2021 a junio 2026 (periodo de prueba)."]),
         html.Div(className="controls", children=[
             html.Div([html.Label("Serie a analizar"), dcc.Dropdown(
-                id="m-serie", options=SERIES, value=SERIES[0], clearable=False)], className="ctl wide"),
+                id="m-serie", options=SERIES, value=SERIES[0], clearable=False, persistence=True, persistence_type="session")], className="ctl wide"),
             html.Div([html.Label("Modelo"), dcc.Dropdown(
                 id="m-modelo", options=MODELOS, value=MODELOS[0], clearable=False)], className="ctl wide"),
             html.Div([html.Label("Métrica de error"), dcc.RadioItems(
-                id="m-metrica", options=["MAE", "RMSE"], value="MAE", inline=True)], className="ctl"),
+                id="m-metrica", options=["MAE", "RMSE"], value="MAE", inline=True, persistence=True, persistence_type="session")], className="ctl"),
             html.Div([html.Label("Nivel de detalle"), dcc.RadioItems(
-                id="m-rango", inline=True, value="prueba", options=[
+                id="m-rango", inline=True, value="prueba", persistence=True, persistence_type="session", options=[
                     {"label": "Solo periodo de prueba", "value": "prueba"},
                     {"label": "Serie completa 2009–2026", "value": "todo"}])], className="ctl"),
-            html.Div([html.Label("Otros modelos"), dcc.Checklist(
-                id="m-otros", options=[{"label": "Mostrar en V6", "value": "si"}], value=[], inline=True)],
+            html.Div([html.Label("Comparar en «Real vs. predicción»"), dcc.Checklist(
+                id="m-otros", options=[{"label": "Mostrar también los otros 2 modelos", "value": "si"}], value=["si"], inline=True, persistence=True, persistence_type="session")],
                 className="ctl"),
         ]),
         html.Div(id="m-resumen", className="note"),
-        html.Div(className="grid", children=[
+        html.Div(className="grid grid-2", children=[
             card("Real vs. predicción",
                  "¿Qué tan cerca estuvo el modelo de lo que realmente pasó? La zona sombreada es el periodo "
                  "de prueba (datos que el modelo no vio).", "g6"),
@@ -81,7 +88,7 @@ def layout():
                 ]),
             ]),
         ]),
-        html.Div(className="note", children=[
+        html.Div(className="note", style={"marginTop": "16px"}, children=[
             html.B("Limitaciones: "),
             html.Ul([
                 html.Li("Los modelos aprendieron con datos que terminan en marzo de 2021, en plena pandemia; "
@@ -146,12 +153,14 @@ def fig_g6(serie, modelo, rango, otros):
                 continue
             o = _datos(serie, m)
             o = o[o["conjunto"] == "prueba"]
-            fig.add_trace(go.Scatter(x=o["fecha"], y=o["prediccion"], name=m, mode="lines",
-                                     line=dict(color=NARANJA_SUAVE, width=1.5, dash="dot"),
+            est = ESTILO_MODELO.get(m, dict(dash="dot", tono=NARANJA_SUAVE))
+            fig.add_trace(go.Scatter(x=o["fecha"], y=o["prediccion"], name=m, mode="lines", opacity=0.9,
+                                     line=dict(color=est["tono"], width=1.8, dash=est["dash"]),
                                      hovertemplate=f"%{{x|%b %Y}}<br>{m}: %{{y:,.0f}}<extra></extra>"))
     t = p[p["conjunto"] == "prueba"]
     fig.add_trace(go.Scatter(x=t["fecha"], y=t["prediccion"], name=f"Estimación: {modelo}", mode="lines",
-                             line=dict(color=COLORS["estimate"], width=2.5, dash="dash"),
+                             line=dict(color=COLORS["estimate"], width=3.5,
+                                       dash=ESTILO_MODELO.get(modelo, {}).get("dash", "dash")),
                              hovertemplate="%{x|%b %Y}<br>Estimación: %{y:,.0f}<extra></extra>"))
     fig.update_yaxes(title="Viajeros por mes", rangemode="tozero")
     fig.update_xaxes(title=None)
@@ -191,9 +200,9 @@ def fig_g8(serie, modelo, metrica):
         text=[_fmt(v) for v in m[metrica]], textposition="auto",
         customdata=m["MAPE"], hovertemplate=(f"%{{y}}<br>{metrica}: %{{x:,.0f}} viajeros/mes"
                                              "<br>MAPE: %{customdata:.1f} %<extra>Clic para seleccionar</extra>")))
-    fig.update_xaxes(title=f"{metrica} (viajeros por mes; menor = mejor)")
+    fig.update_xaxes(title=f"{metrica}: viajeros por mes (menor = mejor)")
     fig.update_yaxes(title=None)
-    return style_fig(fig, height=300)
+    return style_fig(fig, height=320).update_layout(margin=dict(r=40))
 
 
 # ---- Tabla comparativa (elemento complementario) --------------------------------------
