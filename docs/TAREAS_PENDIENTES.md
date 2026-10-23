@@ -13,11 +13,11 @@ Para implementar una visualización: reemplazar la tarjeta `pendiente(...)` por 
 - [ ] Completar `docs/FUENTES.md` (institución que publica la base) y verificar `data/processed/README.md`.
 
 ## Nicolle – Modelos  (`src/pages/modelos.py`)
-- [ ] Controles: serie (`load_predictions()["serie"]`), modelo y métrica (MAE/RMSE).
-- [ ] V6 Real vs. predicción (observado azul, estimación naranja, sombrear el periodo de prueba).
-- [ ] V7 Errores del modelo (real − predicción por mes).
-- [ ] V8 Comparación de los 3 modelos (MAE/RMSE; clic selecciona el modelo). Tabla comparativa (elemento complementario, no cuenta como visualización).
-- [ ] Textos explicativos y limitaciones (MAPE alto en el periodo de prueba; los modelos son simples; no se construyen modelos nuevos).
+- [x] Controles: serie (`load_predictions()["serie"]`), modelo y métrica (MAE/RMSE).
+- [x] V6 Real vs. predicción (observado azul, estimación naranja, sombrear el periodo de prueba).
+- [x] V7 Errores del modelo (real − predicción por mes).
+- [x] V8 Comparación de los 3 modelos (MAE/RMSE; clic selecciona el modelo). Tabla comparativa (elemento complementario, no cuenta como visualización).
+- [x] Textos explicativos y limitaciones (MAPE alto en el periodo de prueba; los modelos son simples; no se construyen modelos nuevos).
 - Los 3 modelos y sus métricas ya están exportados en `models/` (generados con `scripts/exportar_datos_lab1.py`).
 
 ## Alex – Calidad, documento final y PDF  (`docs/`)

@@ -17,7 +17,7 @@ python app.py        # http://127.0.0.1:8050
 |---|---|
 | `app.py` | Layout general y pestañas |
 | `src/pages/explorar.py` | Pestaña Explorar: V1 y V2 enlazadas (avance); V3–V5 pendientes (Juarez) |
-| `src/pages/modelos.py` | Pestaña Modelos: V6–V8 pendientes (Nicolle) |
+| `src/pages/modelos.py` | Pestaña Modelos: V6–V8 enlazadas y tabla comparativa (Nicolle) |
 | `src/theme.py`, `src/components.py` | Paleta/estilo común y tarjetas reutilizables |
 | `src/data.py` | Carga de los CSV procesados |
 | `time-series-lab/` | Laboratorio 1 (datos, código, modelos e infografía) |
