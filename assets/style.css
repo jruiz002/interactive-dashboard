@@ -13,3 +13,7 @@ header h1{margin:0;font-size:26px} header p{margin:4px 0 0;opacity:.9}
 button{background:#1F6F8B;color:#fff;border:0;border-radius:6px;padding:9px 14px;cursor:pointer}
 button:hover{background:#0F3F52}
 .pendiente{border:2px dashed #CBD2D9;background:#FAFBFC}.tag{color:#C8553D;font-weight:600;font-size:13px}
+
+/* Controles de Dash en el color primario de la paleta (por defecto salen en morado, fuera de la paleta) */
+:root{--Dash-Fill-Interactive-Strong:#1F6F8B;accent-color:#1F6F8B}
+input[type=checkbox],input[type=radio]{accent-color:#1F6F8B}

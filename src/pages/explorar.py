@@ -29,7 +29,7 @@ def filtrar(anios, tipos, vias, region=None):
 
 
 def layout():
-    marks = {a: str(a) for a in ANIOS if a % 3 == 0 or a == ANIOS[-1]}
+    marks = {a: str(a) for a in ANIOS if (a % 3 == 0 and a < ANIOS[-1] - 1) or a == ANIOS[-1]}  # sin rótulos encimados
     return html.Div([
         html.Div(className="controls", children=[
             html.Div([html.Label("Años"), dcc.RangeSlider(
@@ -122,6 +122,8 @@ def fig_g2(anios, tipos, vias, sel, detalle):
     t = d.groupby(col, as_index=False)["viajeros"].sum()
     fig = px.line(t, x=col, y="viajeros", markers=(detalle == "anio"), color_discrete_sequence=[COLORS["primary"]])
     fig.update_xaxes(title=None)
+    if detalle == "anio":  # años enteros (evita rótulos como "2,020.5" cuando hay pocos años)
+        fig.update_xaxes(tickformat="d", dtick=1 if len(t) <= 12 else None)
     fig.update_yaxes(title="Viajeros")
     return style_fig(fig)
 
